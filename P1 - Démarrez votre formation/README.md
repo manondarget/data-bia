@@ -13,9 +13,9 @@ Ce projet vise à introduire les bases du métier de Business Intelligence Analy
 - Compréhension du rôle d’un Business Intelligence Analyst dans l’organisation.
   
 ## Outils utilisés
-<img src="https://github.com/user-attachments/assets/bd0a8de2-646c-42d8-8868-3f0cee643e68" alt="Logo Notion" width= 5% /> - Plateforme de gestion de projet, **Notion**. 
+<img src="https://github.com/user-attachments/assets/bd0a8de2-646c-42d8-8868-3f0cee643e68" alt="Logo Notion" width= 5% /> Plateforme de gestion de projet, **Notion**. 
 <p></p>
-<img src="https://github.com/user-attachments/assets/7a706281-d031-4b1a-b356-9f58b29bd31d" alt="Logo Slack" width= 10% /> - Outils de collaboration, **Slack**. 
+<img src="https://github.com/user-attachments/assets/7a706281-d031-4b1a-b356-9f58b29bd31d" alt="Logo Slack" width= 10% /> Outils de collaboration, **Slack**. 
 
 
 
