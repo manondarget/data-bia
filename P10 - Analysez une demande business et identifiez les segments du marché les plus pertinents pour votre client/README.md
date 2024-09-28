@@ -17,7 +17,7 @@ stratégiques sur le segment de clientèle le plus prometteur ainsi qu'un projet
 - Conception et analyse de questionnaires pour collecter des données consommateurs.
   
 ## Outils utilisés
-<img src="https://github.com/user-attachments/assets/5ee86c77-2bd4-42c9-bf66-0a3b8e124f82" alt="Logo Google Form" width= 5% />
+<img src="https://github.com/user-attachments/assets/6e100512-916b-4731-bb5e-b425994131ab" alt="Logo Google Form" width= 10% />
 
 **GoogleForm**, mise en place d'un questionnaire destiné aux consommateurs.<p></p>
 
@@ -25,7 +25,7 @@ stratégiques sur le segment de clientèle le plus prometteur ainsi qu'un projet
 
 **Powerpoint**.<p></p>
 
-- **Modèles d’analyse stratégique (SWOT, PESTEL)**.
+**Modèles d’analyse stratégique (SWOT, PESTEL)**.
 
 ## Soft skills mobilisés
 - **Esprit d'analyse et synthèse** : Capacité à traiter des informations complexes pour en extraire des tendances et opportunités stratégiques.
