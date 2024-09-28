@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/d6424098-8857-4ead-b767-2cf2cf87f8b4" alt="Logo Openclassrooms"
 <p>
 
-
 # Projet 1 : Démarrez votre formation de Business Intelligence Analyst
 
 ## Résumé du projet
@@ -15,8 +14,9 @@ Ce projet vise à introduire les bases du métier de Business Intelligence Analy
 ## Outils utilisés
 <img src="https://github.com/user-attachments/assets/bd0a8de2-646c-42d8-8868-3f0cee643e68" alt="Logo Notion" width= 5% /> Plateforme de gestion de projet, **Notion**. 
 <p></p>
-<img src="https://github.com/user-attachments/assets/7a706281-d031-4b1a-b356-9f58b29bd31d" alt="Logo Slack" width= 10% /> Outils de collaboration, **Slack**. 
+<img src="https://github.com/user-attachments/assets/7a706281-d031-4b1a-b356-9f58b29bd31d" alt="Logo Slack" width= 10% /> 
 
+Outils de collaboration, **Slack**. 
 
 
 ## Soft skills mobilisés
