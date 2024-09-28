@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6644f523-f3c4-4e99-b21d-5d79656e42cb" alt="Logo Openclassrooms" width= 50% />
+  <img src="https://github.com/user-attachments/assets/6644f523-f3c4-4e99-b21d-5d79656e42cb" alt="Logo Aéroworld" width= 50% />
 <p>
 
 # Projet 11 : Créez votre portfolio de professionnel de la data
@@ -19,7 +19,7 @@ et nos compétences techniques et soft skills.
 - Réalisation de vidéos de formation et de documentation.
   
 ## Outils utilisés
-<img src="https://github.com/user-attachments/assets/586f0427-f926-4d6f-9c95-47c8a2021dee" alt="Logo PowerBI" width= 10% />
+<img src="https://github.com/user-attachments/assets/586f0427-f926-4d6f-9c95-47c8a2021dee" alt="Logo PowerBI" width= 15% />
 
 **Power BI**, la création des tableaux de bord.
 
