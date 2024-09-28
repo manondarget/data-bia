@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1479205e-920d-4b3b-8803-ad4acce830f9" alt="Logo BestMarket" width= 50% />
+<p>
 
 # Projet 5 : Manipulez une base de données avec SQL pour suivre la satisfaction client
 
@@ -15,10 +18,21 @@ et concise à un public non technique, tout en respectant les règles du RGPD.
 - Présentation des résultats à des parties prenantes non techniques.
   
 ## Outils utilisés
-- Système de Gestion de Base de Données, **SQLite**.
-- Rédaction et exécution des requêtes, **Langage SQL**.
-- Modélisation de BDD, **SQL Power Architect**.
-- Outils bureautique, **Word, Powerpoint**.
+<img src="https://github.com/user-attachments/assets/9292df3e-8730-4460-9bea-bf93c5941d0e" alt="Logo SQLite" width= 15% />
+
+Système de Gestion de Base de Données, **SQLite**.
+
+</br><img src="https://github.com/user-attachments/assets/88ae0186-a8be-4a54-9dca-438c2dd95bf6" alt="Logo SQL" width= 10% />
+
+Rédaction et exécution des requêtes, **Langage SQL**.
+
+</br><img src="https://github.com/user-attachments/assets/13293291-c0a4-4c91-b042-4cf3864da603" alt="Logo SQL Power Architect" width= 10% />
+
+Modélisation de BDD, **SQL Power Architect**.
+
+</br><img src="https://github.com/user-attachments/assets/0d65f336-2149-461e-9940-7149ccf29322" alt="Logo Suite Office" width= 10% />
+
+Outils bureautique, **Word, Powerpoint**.
 
 ## Soft skills mobilisés
 - **Communication pédagogique** : Présentation claire et adaptée à l'auditoire non technique.
