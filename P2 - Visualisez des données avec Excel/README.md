@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10531a81-1eda-473c-861c-11befeefd4ee" alt="Logo ESN Data" />
+<p>
 
 # Projet 2 : Visualisez des données avec Excel
 
@@ -13,6 +16,8 @@ Les résultats sont ensuite présentés sous forme de visualisations accessibles
 - Présentation des résultats à travers des rapports et des supports visuels adaptés aux besoins des clients.
   
 ## Outils utilisés
+<img src="https://github.com/user-attachments/assets/0d65f336-2149-461e-9940-7149ccf29322" alt="Logo Suite Office" width= 10% />
+
 - Outil d'analyse et de visualisation des données, **Excel**.
 - Création et présentation, **Powerpoint**.
 - Guide de bonnes pratiques d’accessibilité, **Documentation Microsoft, Color contrast checker**.
