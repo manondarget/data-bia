@@ -21,7 +21,7 @@ stratégiques sur le segment de clientèle le plus prometteur ainsi qu'un projet
 
 **GoogleForm**, mise en place d'un questionnaire destiné aux consommateurs.<p></p>
 
-<img src="https://github.com/user-attachments/assets/7216ede3-2092-4908-8d2e-7b8806f377d1" alt="Logo Powerpoint" width= 5% />
+<img src="https://github.com/user-attachments/assets/775f1719-5e4c-4dec-b3d0-5bf8fd39569e" alt="Logo Powerpoint" width= 10% />
 
 **Powerpoint**.<p></p>
 
