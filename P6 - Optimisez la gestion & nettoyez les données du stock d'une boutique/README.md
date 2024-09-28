@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/feb626f6-360a-4f85-8fc4-fb3142b72dda" alt="Logo Bottleneck" width= 50% />
+<p>
 
 # Projet 6 : Optimisez la gestion & nettoyez les données du stock d'une boutique
 
@@ -16,7 +19,9 @@ données quantitatives et la proposition de solutions d'amélioration des systè
 - Recherche de corrélations entre variables quantitatives (prix, ventes, marges, etc.).
   
 ## Outils utilisés
-- **Notebook Python** (Boxplot, Z-score, etc.).
+<img src="https://github.com/user-attachments/assets/c9704ad0-be5a-4cf9-a543-484bd640beb1" alt="Logo Notebook Python" width= 15% />
+
+**Notebook Python** (Boxplot, Z-score, etc.).
 
 ## Soft skills mobilisés
 - **Analyse critique** : Capacité à identifier et résoudre des incohérences dans les données.
