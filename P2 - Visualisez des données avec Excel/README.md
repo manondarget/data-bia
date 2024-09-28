@@ -16,7 +16,7 @@ Les résultats sont ensuite présentés sous forme de visualisations accessibles
 - Présentation des résultats à travers des rapports et des supports visuels adaptés aux besoins des clients.
   
 ## Outils utilisés
-<img src="https://github.com/user-attachments/assets/0d65f336-2149-461e-9940-7149ccf29322" alt="Logo Suite Office" width= 10% />
+<img src="https://github.com/user-attachments/assets/0d65f336-2149-461e-9940-7149ccf29322" alt="Logo Suite Office" width= 15% />
 
 - Outil d'analyse et de visualisation des données, **Excel**.
 - Création et présentation, **Powerpoint**.
