@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d395d15b-81a6-47b3-a31a-3801caf678e6" alt="Logo Dev'Immédiat" width= 50% />
+<p>
 
 # Projet 4 : Collectez des données en respectant les normes RGPD
 
@@ -16,9 +19,17 @@ et de documenter toutes les étapes de ce processus. Cette mission inclut égale
 
   
 ## Outils utilisés
-- Anonymisation et le nettoyage des données, **Microsoft Power Query**.
-- Extraction des données, **Langage SQL**.
-- Outil de rédaction, **Word**.
+<img src="https://github.com/user-attachments/assets/6b132357-a97c-427f-be22-28b2dcb233df" alt="Logo Power Query" width= 15% />
+
+Anonymisation et le nettoyage des données, **Microsoft Power Query**.
+
+</br><img src="https://github.com/user-attachments/assets/88ae0186-a8be-4a54-9dca-438c2dd95bf6" alt="Logo SQL" width= 5% />
+
+Extraction des données, **Langage SQL**.
+
+</br><img src="https://github.com/user-attachments/assets/12976071-17db-4fa3-b2df-352d93cf8934" alt="Logo World" width= 15% />
+
+Outil de rédaction, **Word**.
 
 ## Soft skills mobilisés
 - **Rigueur** : Application stricte des normes RGPD.
