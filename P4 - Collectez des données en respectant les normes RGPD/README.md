@@ -23,7 +23,7 @@ et de documenter toutes les étapes de ce processus. Cette mission inclut égale
 
 Anonymisation et le nettoyage des données, **Microsoft Power Query**.
 
-</br><img src="https://github.com/user-attachments/assets/88ae0186-a8be-4a54-9dca-438c2dd95bf6" alt="Logo SQL" width= 5% />
+</br><img src="https://github.com/user-attachments/assets/88ae0186-a8be-4a54-9dca-438c2dd95bf6" alt="Logo SQL" width= 10% />
 
 Extraction des données, **Langage SQL**.
 
