@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/feb626f6-360a-4f85-8fc4-fb3142b72dda" alt="Logo Bottleneck" width= 30% />
+  <img src="https://github.com/user-attachments/assets/266d0de1-e238-4667-9716-4a8666ec0a74" alt="Logo Les Plus Beaux Logis de Paris" width= 30% />
 <p>
 
 # Projet 8 : Analysez l'évolution des prix de l'immobilier avec Python
