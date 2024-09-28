@@ -16,6 +16,11 @@ Ce projet vise à introduire les bases du métier de Business Intelligence Analy
 - Plateforme de gestion de projet, **Notion**.
 - Outils de collaboration, **Slack**.
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/bd0a8de2-646c-42d8-8868-3f0cee643e68" alt="Logo Notion" width="32" height="32" />
+  <img src="(https://github.com/user-attachments/assets/7a706281-d031-4b1a-b356-9f58b29bd31d)" alt="Logo Slack" width="32" height="32" />
+</p>
+
 ## Soft skills mobilisés
 - **Flexibilité** : Adaptabilité face à de nouveaux enjeux professionnels.
 - **Gestion de projet** : Sens de l'organisation pour définir et suivre des objectifs clairs.
