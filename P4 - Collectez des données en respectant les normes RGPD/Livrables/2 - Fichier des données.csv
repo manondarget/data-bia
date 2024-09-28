@@ -1,0 +1,1159 @@
+﻿Index;Client;Sexe;Année de naissance;Enfant conduite accompagnée;Revenus Annuel;Usage Véhicule;Type Véhicule;Type Conduite;Âge Véhicule;Points Perdus;Date Demande;Etat Dossier;Formule;Tarification;Ville de stationnement
+1;Client 1;F;1999;Non;€120K +;Commercial;Sports Car;Highly Urban/ Urban;7.0;0;25/02/2022 16:13;complet;dev_integral;250 € - 360 €;Oeyreluy
+2;Client 2;F;1932;Oui;€40K - €60K;Private;Minivan;Highly Urban/ Urban;1.0;2;24/05/2022 21:07;complet;dev_express;250 € - 360 €;Coulandon
+3;Client 3;F;1978;Non;€20K - €40K;Private;Pickup;z_Highly Rural/ Rural;4.0;0;24/01/2022 08:17;complet;dev_express;250 € - 360 €;Gréoux-les-Bains
+4;Client 4;F;2021;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;5.0;3;20/04/2022 03:46;complet;dev_integral;250 € - 360 €;Mouans-Sartoux
+5;Client 5;M;1956;Non;Non renseigné;Commercial;Panel Truck;Highly Urban/ Urban;12.0;2;23/03/2022 01:32;complet;dev_vip;580 € - 680 €;Brive-la-Gaillarde
+6;Client 6;F;1992;Non;€60K - €80K;Private;z_SUV;z_Highly Rural/ Rural;15.0;2;23/03/2022 22:20;complet;dev_premium;360 € - 470 €;Ronchamp
+7;Client 7;F;1941;Oui;€120K +;Commercial;Minivan;z_Highly Rural/ Rural;9.0;0;13/03/2022 01:10;complet;dev_express;250 € - 360 €;Nevers
+8;Client 8;M;1956;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;10.0;1;09/03/2022 03:43;complet;dev_premium;250 € - 360 €;Frontenex
+9;Client 9;M;1956;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;14.0;0;29/01/2022 10:17;complet;dev_premium;360 € - 470 €;Saint-Gilles
+10;Client 10;F;1974;Non;Non renseigné;Commercial;Panel Truck;Highly Urban/ Urban;10.0;1;26/03/2022 07:37;complet;dev_integral;250 € - 360 €;Foulayronnes
+11;Client 11;F;1967;Oui;€20K - €40K;Private;Minivan;Highly Urban/ Urban;10.0;0;26/05/2022 05:51;complet;dev_express;250 € - 360 €;Seyne-sur-Mer
+12;Client 12;M;2017;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;0;27/01/2022 09:33;complet;dev_premium;360 € - 470 €;
+13;Client 13;F;1950;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;18.0;0;08/05/2022 13:32;complet;dev_express;250 € - 360 €;Dun-le-Palestel
+14;Client 14;M;2017;Non;€0 - €20K;Commercial;Van;z_Highly Rural/ Rural;6.0;5;02/05/2022 08:44;complet;dev_integral;250 € - 360 €;Aix-en-Provence
+15;Client 15;M;1945;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;0;15/04/2022 13:09;complet;dev_integral;250 € - 360 €;Morschwiller-le-Bas
+16;Client 16;M;1938;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;13.0;0;11/05/2022 02:24;complet;dev_express;250 € - 360 €;Castres
+17;Client 17;F;1973;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;15.0;0;12/04/2022 01:20;complet;dev_integral;250 € - 360 €;Paris
+18;Client 18;F;1936;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;8.0;1;04/03/2022 09:15;complet;dev_express;250 € - 360 €;Saint-Cyr-l'École
+19;Client 19;F;1955;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;11.0;0;05/02/2022 17:39;complet;dev_express;250 € - 360 €;Fosses
+20;Client 20;F;1940;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;10.0;0;25/04/2022 14:43;complet;dev_integral;250 € - 360 €;Dignac
+21;Client 21;M;1988;Non;€60K - €80K;Private;Minivan;z_Highly Rural/ Rural;16.0;0;20/03/2022 03:44;complet;dev_express;250 € - 360 €;Monceau-le-Neuf-et-Faucouzy
+22;Client 22;M;1931;Oui;€20K - €40K;Private;Minivan;Highly Urban/ Urban;;1;27/03/2022 09:22;complet;dev_premium;360 € - 470 €;Villeurbanne
+23;Client 23;F;2000;Non;Non renseigné;Commercial;Van;Highly Urban/ Urban;7.0;0;16/05/2022 02:39;complet;dev_premium;360 € - 470 €;Cahors
+24;Client 24;F;1941;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;1.0;5;06/02/2022 07:52;complet;dev_premium;360 € - 470 €;Mérignac
+25;Client 25;M;2004;Non;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;1.0;1;27/04/2022 15:06;complet;dev_express;250 € - 360 €;Pierrefitte-sur-Seine
+26;Client 26;M;1957;Non;Non renseigné;Private;Minivan;z_Highly Rural/ Rural;;1;13/04/2022 00:52;complet;dev_express;250 € - 360 €;Bourges
+27;Client 27;F;1998;Non;€40K - €60K;Private;Sports Car;z_Highly Rural/ Rural;1.0;0;22/03/2022 13:32;complet;dev_integral;250 € - 360 €;Louverné
+28;Client 28;F;1978;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;;5;22/04/2022 03:39;complet;dev_integral;250 € - 360 €;Saint-Gence
+29;Client 29;F;1969;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;1.0;0;23/03/2022 22:44;complet;dev_vip;790 € - 890 €;Herblay
+30;Client 30;F;2006;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;17.0;0;12/02/2022 20:23;complet;dev_premium;250 € - 360 €;Courtine
+31;Client 31;F;1974;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;0;14/01/2022 07:11;complet;dev_express;250 € - 360 €;Vineuil-Saint-Firmin
+32;Client 32;M;1984;Non;€20K - €40K;Commercial;Minivan;z_Highly Rural/ Rural;5.0;6;09/04/2022 11:49;complet;dev_integral;250 € - 360 €;Cosne-Cours-sur-Loire
+33;Client 33;F;1957;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;9.0;3;23/03/2022 06:12;complet;dev_express;250 € - 360 €;Noidans-le-Ferroux
+34;Client 34;M;2018;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;6.0;2;04/02/2022 17:14;complet;dev_premium;360 € - 470 €;Juigné-sur-Loire
+35;Client 35;M;1978;Oui;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;12.0;0;05/02/2022 18:50;complet;dev_express;250 € - 360 €;Ribemont
+36;Client 36;F;1954;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;9.0;0;08/02/2022 09:59;complet;dev_integral;250 € - 360 €;Veyrier-du-Lac
+37;Client 37;F;1961;Non;€20K - €40K;Commercial;Sports Car;Highly Urban/ Urban;15.0;0;06/02/2022 22:30;complet;dev_express;250 € - 360 €;Neuvecelle
+38;Client 38;F;2016;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;14.0;2;09/02/2022 14:28;complet;dev_integral;250 € - 360 €;Stains
+39;Client 39;F;1967;Non;€120K +;Private;Minivan;Highly Urban/ Urban;15.0;0;26/05/2022 21:39;complet;dev_integral;250 € - 360 €;Taillecourt
+40;Client 40;M;1988;Non;€40K - €60K;Private;z_SUV;z_Highly Rural/ Rural;11.0;1;04/03/2022 15:36;complet;dev_premium;360 € - 470 €;Thuillières
+41;Client 41;F;2004;Oui;Non renseigné;Private;Sports Car;Highly Urban/ Urban;10.0;0;31/05/2022 13:11;complet;dev_express;250 € - 360 €;Vauréal
+42;Client 42;F;1937;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;8.0;5;30/04/2022 23:20;complet;dev_express;250 € - 360 €;Fréjus
+43;Client 43;M;1963;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;10.0;0;20/03/2022 04:00;complet;dev_express;250 € - 360 €;Troyes
+44;Client 44;F;1965;Oui;€40K - €60K;Private;Pickup;Highly Urban/ Urban;;0;02/04/2022 11:25;complet;dev_premium;360 € - 470 €;Marzy
+45;Client 45;M;1970;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;13.0;0;02/01/2022 20:05;complet;dev_integral;250 € - 360 €;Offemont
+46;Client 46;F;1957;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;15.0;4;24/02/2022 21:52;complet;dev_express;250 € - 360 €;Guéret
+47;Client 47;M;1946;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;1;05/04/2022 02:47;complet;dev_express;250 € - 360 €;Clamart
+48;Client 48;F;1981;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;13.0;1;21/02/2022 11:50;complet;dev_integral;250 € - 360 €;Audincourt
+49;Client 49;M;1945;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;7.0;0;21/03/2022 00:37;complet;dev_integral;250 € - 360 €;Incarville
+50;Client 50;F;1984;Oui;€40K - €60K;Private;Van;z_Highly Rural/ Rural;1.0;1;03/04/2022 12:30;complet;dev_integral;250 € - 360 €;Lanester
+51;Client 51;F;1998;Non;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;1.0;7;28/03/2022 23:57;complet;dev_integral;250 € - 360 €;Laval
+52;Client 52;F;1974;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;5.0;1;21/03/2022 07:59;complet;dev_express;250 € - 360 €;Séguinière
+53;Client 53;M;2003;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;7.0;0;23/05/2022 09:33;complet;dev_express;250 € - 360 €;Perpignan
+54;Client 54;F;1975;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;19.0;0;03/05/2022 20:20;complet;dev_express;250 € - 360 €;Caux-et-Sauzens
+55;Client 55;F;2016;Non;€60K - €80K;Commercial;Minivan;z_Highly Rural/ Rural;8.0;5;11/04/2022 14:51;complet;dev_express;250 € - 360 €;Bretoncelles
+56;Client 56;M;1974;Non;€60K - €80K;Private;Van;Highly Urban/ Urban;13.0;0;05/01/2022 09:29;complet;dev_premium;360 € - 470 €;Annonay
+57;Client 57;F;1967;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;9.0;4;14/05/2022 13:46;complet;dev_integral;250 € - 360 €;Pélussin
+58;Client 58;M;1990;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;12.0;2;20/04/2022 10:04;complet;dev_express;250 € - 360 €;Paris
+59;Client 59;F;1950;Oui;€20K - €40K;Private;Van;Highly Urban/ Urban;1.0;0;22/01/2022 11:01;complet;dev_express;250 € - 360 €;Saint-Just-Saint-Rambert
+60;Client 60;F;1992;Oui;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;7.0;1;26/04/2022 16:17;complet;dev_express;250 € - 360 €;Labastide-Rouairoux
+61;Client 61;F;1950;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;16.0;0;23/03/2022 15:45;complet;dev_integral;250 € - 360 €;Liverdun
+62;Client 62;F;1968;Non;€40K - €60K;Private;Pickup;Highly Urban/ Urban;8.0;0;27/04/2022 03:37;complet;dev_express;250 € - 360 €;Calonne-Ricouart
+63;Client 63;F;1952;Non;€60K - €80K;Commercial;Van;Highly Urban/ Urban;5.0;0;24/05/2022 02:44;complet;dev_integral;250 € - 360 €;Saint-Bonnet-lès-Allier
+64;Client 64;F;1942;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;1.0;0;09/05/2022 23:43;complet;dev_express;250 € - 360 €;Vayrac
+65;Client 65;F;2019;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;6.0;0;22/04/2022 08:38;complet;dev_integral;250 € - 360 €;Tourlaville
+66;Client 66;M;1972;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;1.0;5;17/05/2022 07:36;complet;dev_express;250 € - 360 €;Floirac
+67;Client 67;M;1954;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;7.0;0;01/05/2022 22:37;complet;dev_express;250 € - 360 €;Lignol
+68;Client 68;M;1972;Non;€0 - €20K;Private;Minivan;z_Highly Rural/ Rural;5.0;3;29/05/2022 10:50;complet;dev_express;250 € - 360 €;Pantin
+69;Client 69;M;1950;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;13.0;2;04/04/2022 09:48;complet;dev_express;250 € - 360 €;Guéret
+70;Client 70;F;1999;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;3.0;1;27/01/2022 21:31;complet;dev_integral;250 € - 360 €;Varennes-Vauzelles
+71;Client 71;F;2019;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;9.0;0;13/01/2022 03:29;complet;dev_integral;250 € - 360 €;Monistrol-sur-Loire
+72;Client 72;M;1988;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;12.0;2;08/01/2022 11:18;complet;dev_express;250 € - 360 €;Montauban
+73;Client 73;M;2013;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;9.0;2;05/04/2022 09:02;complet;dev_integral;250 € - 360 €;Pontivy
+74;Client 74;F;1943;Non;€60K - €80K;Private;Minivan;z_Highly Rural/ Rural;9.0;2;14/02/2022 02:00;complet;dev_premium;470 € - 580 €;Saint-Clément-des-Baleines
+75;Client 75;M;1944;Non;€40K - €60K;Private;Pickup;Highly Urban/ Urban;8.0;0;14/01/2022 13:12;complet;dev_express;250 € - 360 €;Bois-d'Amont
+76;Client 76;F;1993;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;18.0;1;20/04/2022 02:38;complet;dev_integral;250 € - 360 €;Borgo
+77;Client 77;F;1950;Non;€60K - €80K;Commercial;Minivan;Highly Urban/ Urban;1.0;5;10/05/2022 13:40;complet;dev_express;250 € - 360 €;Bourg-en-Bresse
+78;Client 78;M;1971;Non;€40K - €60K;Commercial;Panel Truck;Highly Urban/ Urban;11.0;4;24/01/2022 17:35;complet;dev_premium;360 € - 470 €;Bon-Encontre
+79;Client 79;F;1970;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;6.0;4;01/02/2022 04:48;complet;dev_express;250 € - 360 €;Balma
+80;Client 80;M;1962;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;1.0;1;20/04/2022 07:29;complet;dev_premium;360 € - 470 €;Saint-Chély-d'Apcher
+81;Client 81;M;1940;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;3.0;0;02/01/2022 10:07;complet;dev_express;250 € - 360 €;Lachapelle-sous-Chaux
+82;Client 82;M;1959;Non;€80K - €120K;Commercial;Van;z_Highly Rural/ Rural;8.0;0;18/02/2022 08:51;complet;dev_express;250 € - 360 €;Villeneuve
+83;Client 83;F;1959;Non;€20K - €40K;Commercial;z_SUV;Highly Urban/ Urban;4.0;0;27/04/2022 19:14;complet;dev_express;250 € - 360 €;Viriat
+84;Client 84;M;1959;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;;1;09/05/2022 03:37;complet;dev_express;250 € - 360 €;Colomiers
+85;Client 85;M;1961;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;8.0;2;14/01/2022 21:13;complet;dev_express;250 € - 360 €;Condé-sur-Sarthe
+86;Client 86;M;1982;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;9.0;0;30/03/2022 13:20;complet;dev_express;250 € - 360 €;Machine
+87;Client 87;M;1970;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;17.0;0;25/01/2022 00:58;complet;dev_premium;360 € - 470 €;Saint-Jean-de-Verges
+88;Client 88;F;2001;Oui;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;28/05/2022 07:13;complet;dev_express;250 € - 360 €;Mende
+89;Client 89;M;1974;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;13.0;0;12/02/2022 08:10;complet;dev_premium;470 € - 580 €;Villars
+90;Client 90;M;1965;Non;€40K - €60K;Private;Sports Car;z_Highly Rural/ Rural;2.0;0;11/01/2022 16:57;complet;dev_integral;250 € - 360 €;Vallières-les-Grandes
+91;Client 91;M;1943;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;1.0;3;15/04/2022 05:20;complet;dev_express;250 € - 360 €;Orschwiller
+92;Client 92;F;2012;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;1;28/03/2022 10:41;complet;dev_premium;360 € - 470 €;Saleux
+93;Client 93;F;2018;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;1.0;6;26/02/2022 21:26;complet;dev_premium;360 € - 470 €;Forcalquier
+94;Client 94;M;1961;Non;€40K - €60K;Private;Van;Highly Urban/ Urban;1.0;0;17/01/2022 08:39;complet;dev_express;250 € - 360 €;Tronville-en-Barrois
+95;Client 95;F;1953;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;11.0;4;16/04/2022 00:13;complet;dev_integral;250 € - 360 €;Vaison-la-Romaine
+96;Client 96;F;1972;Non;€20K - €40K;Commercial;Pickup;z_Highly Rural/ Rural;5.0;1;12/01/2022 03:39;complet;dev_integral;250 € - 360 €;Meillerie
+97;Client 97;M;1962;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;7;23/03/2022 01:48;complet;dev_express;250 € - 360 €;Orléans
+98;Client 98;F;1987;Oui;€40K - €60K;Private;Minivan;Highly Urban/ Urban;6.0;0;17/04/2022 15:27;complet;dev_integral;250 € - 360 €;Mont-de-Marsan
+99;Client 99;M;1981;Non;€60K - €80K;Private;Van;Highly Urban/ Urban;8.0;1;05/05/2022 04:13;complet;dev_integral;250 € - 360 €;Montrozier
+100;Client 100;M;2004;Non;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;1.0;0;28/02/2022 07:30;complet;dev_integral;250 € - 360 €;Briollay
+101;Client 101;M;1957;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;12.0;2;12/02/2022 17:39;complet;dev_integral;250 € - 360 €;Barcus
+102;Client 102;F;2000;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;1.0;0;07/01/2022 19:37;complet;dev_integral;250 € - 360 €;Montmerle-sur-Saône
+103;Client 103;M;1971;Non;€120K +;Private;Minivan;Highly Urban/ Urban;11.0;6;07/01/2022 13:02;complet;dev_integral;250 € - 360 €;Brive-la-Gaillarde
+104;Client 104;M;2013;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;17.0;4;12/01/2022 00:08;complet;dev_express;250 € - 360 €;Onet-le-Château
+105;Client 105;M;1962;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;12.0;1;24/05/2022 14:39;complet;dev_premium;360 € - 470 €;Saint-Chaffrey
+106;Client 106;M;1999;Non;Non renseigné;Commercial;Panel Truck;Highly Urban/ Urban;14.0;0;25/03/2022 12:49;complet;dev_integral;250 € - 360 €;Saint-Benoît
+107;Client 107;F;1951;Oui;€0 - €20K;Private;Minivan;Highly Urban/ Urban;5.0;0;02/01/2022 00:52;complet;dev_integral;250 € - 360 €;Essards
+108;Client 108;M;1983;Non;€60K - €80K;Commercial;Minivan;z_Highly Rural/ Rural;12.0;1;01/03/2022 04:35;complet;dev_integral;250 € - 360 €;Orgères-en-Beauce
+109;Client 109;F;1965;Non;€120K +;Private;Minivan;Highly Urban/ Urban;11.0;5;28/01/2022 11:20;complet;dev_express;250 € - 360 €;Fraissinet-de-Lozère
+110;Client 110;M;1932;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;9.0;0;29/04/2022 08:01;complet;dev_premium;360 € - 470 €;Guilers
+111;Client 111;M;1970;Non;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;9.0;0;20/01/2022 00:10;complet;dev_integral;250 € - 360 €;Portet-sur-Garonne
+112;Client 112;M;1968;Oui;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;12.0;0;06/05/2022 14:07;complet;dev_express;250 € - 360 €;Miramas
+113;Client 113;M;1954;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;8.0;0;14/03/2022 17:19;complet;dev_express;250 € - 360 €;Chapelle-Saint-Mesmin
+114;Client 114;F;1958;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;6.0;2;20/03/2022 10:44;complet;dev_express;250 € - 360 €;Fontaine-lès-Luxeuil
+115;Client 115;F;1967;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;14.0;0;18/01/2022 01:43;complet;dev_premium;250 € - 360 €;Boisseau
+116;Client 116;F;1971;Oui;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;23/01/2022 11:52;complet;dev_premium;470 € - 580 €;Velleron
+117;Client 117;F;1945;Oui;€40K - €60K;Private;Sports Car;z_Highly Rural/ Rural;11.0;0;07/01/2022 23:42;complet;dev_express;250 € - 360 €;Borgo
+118;Client 118;F;1961;Oui;€0 - €20K;Private;Pickup;Highly Urban/ Urban;7.0;0;02/01/2022 23:14;complet;dev_integral;250 € - 360 €;Brignon
+119;Client 119;M;2014;Oui;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;1.0;2;23/05/2022 03:25;complet;dev_integral;250 € - 360 €;Vaulx
+120;Client 120;M;2019;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;15.0;0;29/05/2022 09:22;complet;dev_integral;250 € - 360 €;Sainte-Tulle
+121;Client 121;M;1953;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;13.0;0;09/02/2022 09:54;complet;dev_integral;250 € - 360 €;Drancy
+122;Client 122;M;1966;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;11.0;2;17/02/2022 21:50;complet;dev_express;250 € - 360 €;Mainvilliers
+123;Client 123;M;1953;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;12.0;0;06/05/2022 08:05;complet;dev_integral;250 € - 360 €;Raon-l'Étape
+124;Client 124;F;1974;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;11.0;0;25/01/2022 10:57;complet;dev_integral;250 € - 360 €;Villieu-Loyes-Mollon
+125;Client 125;F;1994;Non;€20K - €40K;Private;Van;Highly Urban/ Urban;9.0;4;01/01/2022 10:42;complet;dev_integral;250 € - 360 €;Saint-Chamond
+126;Client 126;M;1990;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;8.0;0;02/04/2022 23:05;complet;dev_integral;250 € - 360 €;Digne-les-Bains
+127;Client 127;M;1954;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;1.0;2;14/04/2022 03:03;complet;dev_integral;250 € - 360 €;Castres
+128;Client 128;M;2006;Non;€0 - €20K;Commercial;Minivan;z_Highly Rural/ Rural;1.0;7;07/03/2022 01:04;complet;dev_express;250 € - 360 €;Paris
+129;Client 129;M;2002;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;;1;04/04/2022 21:37;complet;dev_premium;470 € - 580 €;Saint-Paul-de-Fenouillet
+130;Client 130;M;1964;Non;€120K +;Private;Minivan;Highly Urban/ Urban;13.0;1;20/04/2022 04:58;complet;dev_express;250 € - 360 €;Naucelle
+131;Client 131;F;1953;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;13.0;0;25/02/2022 11:43;complet;dev_express;250 € - 360 €;Bellou-sur-Huisne
+132;Client 132;F;1952;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;9.0;8;28/05/2022 00:32;complet;dev_vip;580 € - 680 €;Quetigny
+133;Client 133;M;2014;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;18/03/2022 05:26;complet;dev_express;250 € - 360 €;Tranqueville-Graux
+134;Client 134;M;1967;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;5.0;3;25/02/2022 19:06;complet;dev_express;250 € - 360 €;Nieulle-sur-Seudre
+135;Client 135;F;2018;Oui;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;9.0;0;08/04/2022 14:50;complet;dev_integral;250 € - 360 €;Tour
+136;Client 136;F;1932;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;16.0;0;01/05/2022 13:47;complet;dev_integral;250 € - 360 €;Saint-Chély-d'Apcher
+137;Client 137;M;2011;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;15.0;2;27/03/2022 09:47;complet;dev_integral;250 € - 360 €;Chapelle-Saint-Luc
+138;Client 138;M;1987;Oui;€120K +;Commercial;Van;Highly Urban/ Urban;9.0;4;11/05/2022 02:14;complet;dev_express;250 € - 360 €;Villeneuve-sur-Lot
+139;Client 139;M;1971;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;1.0;4;31/05/2022 03:31;complet;dev_express;250 € - 360 €;Chancenay
+140;Client 140;F;1977;Non;Non renseigné;Private;Sports Car;Highly Urban/ Urban;7.0;6;24/04/2022 23:44;complet;dev_premium;470 € - 580 €;Ségrie
+141;Client 141;M;1972;Non;€80K - €120K;Commercial;Sports Car;Highly Urban/ Urban;9.0;2;06/03/2022 04:31;complet;dev_integral;250 € - 360 €;Turballe
+142;Client 142;F;1971;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;9.0;0;18/02/2022 17:27;complet;dev_integral;250 € - 360 €;Niort
+143;Client 143;F;2017;Non;€120K +;Private;Pickup;Highly Urban/ Urban;12.0;0;05/01/2022 05:06;complet;dev_integral;250 € - 360 €;Saint-André-les-Vergers
+144;Client 144;M;1941;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;15.0;5;19/02/2022 05:07;complet;dev_premium;470 € - 580 €;Moussan
+145;Client 145;M;1936;Non;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;;7;21/05/2022 17:06;complet;dev_express;250 € - 360 €;Cahors
+146;Client 146;M;1972;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;11.0;2;13/05/2022 05:41;complet;dev_express;250 € - 360 €;Houilles
+147;Client 147;M;1961;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;7.0;0;20/02/2022 18:23;complet;dev_integral;250 € - 360 €;Scientrier
+148;Client 148;M;1982;Oui;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;10.0;1;16/04/2022 08:28;complet;dev_integral;250 € - 360 €;Besançon
+149;Client 149;F;1951;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;19.0;0;03/03/2022 11:37;complet;dev_integral;250 € - 360 €;Boussac
+150;Client 150;F;1947;Non;€80K - €120K;Private;Minivan;z_Highly Rural/ Rural;15.0;0;26/02/2022 20:58;complet;dev_express;250 € - 360 €;Autun
+151;Client 151;M;1946;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;10.0;0;19/02/2022 07:35;complet;dev_integral;250 € - 360 €;Villerest
+152;Client 152;F;1959;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;5.0;2;05/03/2022 12:14;complet;dev_express;250 € - 360 €;Figeac
+153;Client 153;F;1962;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;1.0;3;11/01/2022 23:53;complet;dev_express;250 € - 360 €;L'Hermitage
+154;Client 154;M;1992;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;4.0;1;25/03/2022 21:08;complet;dev_express;250 € - 360 €;Douilly
+155;Client 155;F;1948;Non;€20K - €40K;Commercial;Pickup;z_Highly Rural/ Rural;9.0;0;22/02/2022 18:20;complet;dev_integral;250 € - 360 €;Villabé
+156;Client 156;M;1941;Oui;€120K +;Commercial;Van;Highly Urban/ Urban;12.0;0;14/01/2022 04:38;complet;dev_integral;250 € - 360 €;Fougères
+157;Client 157;F;1955;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;4.0;5;08/04/2022 21:31;complet;dev_express;250 € - 360 €;Albi
+158;Client 158;M;1951;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;15.0;0;17/04/2022 13:11;complet;dev_integral;250 € - 360 €;Denonville
+159;Client 159;M;1939;Non;€80K - €120K;Commercial;Minivan;z_Highly Rural/ Rural;9.0;0;14/05/2022 20:36;complet;dev_integral;250 € - 360 €;Angers
+160;Client 160;M;1958;Non;€80K - €120K;Commercial;z_SUV;Highly Urban/ Urban;1.0;6;02/02/2022 00:42;complet;dev_integral;250 € - 360 €;Perpignan
+161;Client 161;M;1954;Oui;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;8.0;0;21/05/2022 22:35;complet;dev_integral;250 € - 360 €;Éragny
+162;Client 162;M;1991;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;12.0;2;09/03/2022 16:06;complet;dev_premium;360 € - 470 €;Bergerac
+163;Client 163;F;1975;Oui;€120K +;Private;Minivan;z_Highly Rural/ Rural;12.0;1;27/02/2022 09:10;complet;dev_integral;250 € - 360 €;Velet
+164;Client 164;F;1952;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;14.0;0;03/04/2022 03:15;complet;dev_integral;250 € - 360 €;Arthon-en-Retz
+165;Client 165;F;1969;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;8.0;1;02/04/2022 11:55;complet;dev_express;250 € - 360 €;Pézilla-la-Rivière
+166;Client 166;F;1972;Oui;€0 - €20K;Private;Minivan;Highly Urban/ Urban;1.0;1;08/04/2022 07:47;complet;dev_express;250 € - 360 €;Bergerac
+167;Client 167;F;1932;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;17.0;0;31/05/2022 15:46;complet;dev_integral;250 € - 360 €;Bordeaux
+168;Client 168;F;2000;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;4.0;0;16/05/2022 17:40;complet;dev_integral;250 € - 360 €;Wasquehal
+169;Client 169;F;1967;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;;1;22/04/2022 13:14;complet;dev_integral;250 € - 360 €;Sommervieu
+170;Client 170;F;1950;Non;€20K - €40K;Commercial;z_SUV;Highly Urban/ Urban;11.0;2;30/05/2022 08:43;complet;dev_integral;250 € - 360 €;Clichy
+171;Client 171;M;1984;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;11.0;1;01/02/2022 00:03;complet;dev_express;250 € - 360 €;Besançon
+172;Client 172;F;1994;Non;€0 - €20K;Commercial;Minivan;Highly Urban/ Urban;1.0;2;31/05/2022 16:23;complet;dev_integral;250 € - 360 €;Colmars
+173;Client 173;M;1967;Non;€80K - €120K;Commercial;Minivan;z_Highly Rural/ Rural;11.0;0;16/02/2022 07:07;complet;dev_integral;250 € - 360 €;Lunel
+174;Client 174;F;1973;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;20.0;0;21/05/2022 22:01;complet;dev_integral;250 € - 360 €;Delle
+175;Client 175;M;1970;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;2;26/04/2022 15:07;complet;dev_express;250 € - 360 €;Rive-de-Gier
+176;Client 176;M;1947;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;;6;14/01/2022 19:18;complet;dev_integral;250 € - 360 €;Lagrasse
+177;Client 177;F;1965;Non;€0 - €20K;Commercial;Van;Highly Urban/ Urban;12.0;0;16/02/2022 23:39;complet;dev_express;250 € - 360 €;Achicourt
+178;Client 178;M;1993;Non;Non renseigné;Private;Sports Car;Highly Urban/ Urban;16.0;0;01/01/2022 22:26;complet;dev_express;250 € - 360 €;Saint-Laurent-de-Condel
+179;Client 179;M;1960;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;14/01/2022 11:21;complet;dev_integral;250 € - 360 €;Valence
+180;Client 180;F;1968;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;6.0;0;10/05/2022 08:25;complet;dev_premium;470 € - 580 €;Bourg-Saint-Andéol
+181;Client 181;F;1941;Non;€60K - €80K;Commercial;Pickup;Highly Urban/ Urban;;1;02/05/2022 22:21;complet;dev_express;250 € - 360 €;Aix-en-Provence
+182;Client 182;F;1998;Oui;€20K - €40K;Commercial;Van;z_Highly Rural/ Rural;6.0;1;10/02/2022 04:16;complet;dev_express;250 € - 360 €;Carnac
+183;Client 183;M;1970;Non;€120K +;Commercial;Panel Truck;z_Highly Rural/ Rural;13.0;0;08/01/2022 11:44;complet;dev_integral;250 € - 360 €;Birac
+184;Client 184;F;1938;Non;€80K - €120K;Private;Van;Highly Urban/ Urban;10.0;0;12/01/2022 23:08;complet;dev_premium;250 € - 360 €;Pau
+185;Client 185;F;1955;Non;€0 - €20K;Private;Pickup;Highly Urban/ Urban;1.0;1;27/05/2022 23:47;complet;dev_express;250 € - 360 €;
+186;Client 186;M;2000;Oui;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;5.0;6;10/04/2022 22:38;complet;dev_premium;360 € - 470 €;Verneuil-sur-Avre
+187;Client 187;F;1957;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;0;23/03/2022 18:01;complet;dev_integral;250 € - 360 €;Villers-Outréaux
+188;Client 188;F;2003;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;9.0;0;24/05/2022 20:26;complet;dev_integral;250 € - 360 €;Villebret
+189;Client 189;F;1953;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;0;05/01/2022 12:35;complet;dev_premium;470 € - 580 €;Chartres
+190;Client 190;F;2012;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;11.0;0;17/05/2022 21:03;complet;dev_vip;470 € - 580 €;Saint-Génard
+191;Client 191;M;1975;Non;€60K - €80K;Commercial;Van;Highly Urban/ Urban;;5;30/05/2022 12:05;complet;dev_express;250 € - 360 €;Gattières
+192;Client 192;M;2017;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;1.0;3;25/01/2022 11:38;complet;dev_premium;470 € - 580 €;Rennes
+193;Client 193;F;1956;Non;€120K +;Private;Sports Car;z_Highly Rural/ Rural;7.0;0;30/01/2022 11:59;complet;dev_integral;250 € - 360 €;Marolles
+194;Client 194;F;1995;Non;€40K - €60K;Commercial;Panel Truck;Highly Urban/ Urban;1.0;1;04/01/2022 16:07;complet;dev_premium;470 € - 580 €;Aix-en-Provence
+195;Client 195;F;1972;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;15.0;0;11/02/2022 19:58;complet;dev_integral;250 € - 360 €;Montreuil
+196;Client 196;F;1957;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;7.0;3;07/04/2022 02:19;complet;dev_premium;250 € - 360 €;Lons-le-Saunier
+197;Client 197;F;1969;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;17.0;4;09/02/2022 23:54;complet;dev_express;250 € - 360 €;Bailleau-l'Évêque
+198;Client 198;M;1939;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;13.0;2;27/04/2022 04:09;complet;dev_express;250 € - 360 €;Mende
+199;Client 199;F;1974;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;4.0;0;25/05/2022 06:02;complet;dev_integral;250 € - 360 €;Montbéliard
+200;Client 200;F;1957;Non;€20K - €40K;Commercial;Minivan;z_Highly Rural/ Rural;;0;10/02/2022 21:22;complet;dev_express;250 € - 360 €;Cadenet
+201;Client 201;M;2008;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;8.0;9;14/03/2022 03:24;complet;dev_express;250 € - 360 €;Saint-Marcellin-en-Forez
+202;Client 202;M;1951;Non;€60K - €80K;Commercial;Pickup;Highly Urban/ Urban;7.0;4;11/05/2022 10:53;complet;dev_integral;250 € - 360 €;Marcilly-sur-Vienne
+203;Client 203;M;1960;Oui;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;1.0;0;09/04/2022 06:44;complet;dev_premium;360 € - 470 €;Mirepoix
+204;Client 204;F;1946;Non;€40K - €60K;Commercial;z_SUV;z_Highly Rural/ Rural;14.0;2;14/04/2022 10:57;complet;dev_premium;470 € - 580 €;Bourg-Achard
+205;Client 205;M;1940;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;7.0;3;18/04/2022 10:41;complet;dev_express;250 € - 360 €;Lafresguimont-Saint-Martin
+206;Client 206;M;1972;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;1.0;0;23/03/2022 00:19;complet;dev_express;250 € - 360 €;Gréoux-les-Bains
+207;Client 207;M;1941;Non;€60K - €80K;Commercial;Minivan;Highly Urban/ Urban;;6;09/05/2022 19:49;complet;dev_integral;250 € - 360 €;Châlons-en-Champagne
+208;Client 208;M;1964;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;12.0;0;04/02/2022 03:00;complet;dev_express;250 € - 360 €;Saint-Dizier
+209;Client 209;M;1961;Oui;€20K - €40K;Commercial;Panel Truck;Highly Urban/ Urban;8.0;1;19/04/2022 01:02;complet;dev_premium;470 € - 580 €;Ajaccio
+210;Client 210;F;1971;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;5.0;0;03/04/2022 22:13;complet;dev_integral;250 € - 360 €;Morsang-sur-Orge
+211;Client 211;F;2004;Oui;€40K - €60K;Private;Minivan;z_Highly Rural/ Rural;8.0;1;18/01/2022 05:21;complet;dev_integral;250 € - 360 €;Prigonrieux
+212;Client 212;F;1974;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;16.0;1;23/03/2022 16:17;complet;dev_express;250 € - 360 €;Ozan
+213;Client 213;F;1960;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;;1;02/05/2022 16:43;complet;dev_integral;250 € - 360 €;Saint-Parize-le-Châtel
+214;Client 214;F;1973;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;5.0;1;19/01/2022 00:38;complet;dev_express;250 € - 360 €;Pamiers
+215;Client 215;M;1966;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;;5;15/02/2022 23:41;complet;dev_integral;250 € - 360 €;Villeneuve-sur-Lot
+216;Client 216;M;1959;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;13.0;0;03/01/2022 06:55;complet;dev_premium;470 € - 580 €;Séné
+217;Client 217;F;1970;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;6.0;2;27/03/2022 02:40;complet;dev_express;250 € - 360 €;Bourg-en-Bresse
+218;Client 218;F;2017;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;19.0;8;02/04/2022 14:20;complet;dev_premium;360 € - 470 €;Garenne-Colombes
+219;Client 219;M;1960;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;1.0;0;30/04/2022 22:44;complet;dev_premium;470 € - 580 €;Labastide-du-Temple
+220;Client 220;M;1953;Oui;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;1.0;1;07/04/2022 11:09;complet;dev_integral;250 € - 360 €;Biscarrosse
+221;Client 221;M;1950;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;16.0;0;22/01/2022 06:45;complet;dev_integral;250 € - 360 €;Wittenheim
+222;Client 222;M;1955;Oui;Non renseigné;Commercial;Pickup;z_Highly Rural/ Rural;18.0;0;07/05/2022 03:05;complet;dev_integral;250 € - 360 €;Montreuil
+223;Client 223;F;1993;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;3.0;4;07/01/2022 07:53;complet;dev_premium;470 € - 580 €;Mourioux-Vieilleville
+224;Client 224;F;2019;Non;€80K - €120K;Commercial;z_SUV;Highly Urban/ Urban;5.0;5;05/01/2022 18:21;complet;dev_integral;250 € - 360 €;Cour-Cheverny
+225;Client 225;F;1940;Non;€20K - €40K;Commercial;Minivan;Highly Urban/ Urban;1.0;0;13/05/2022 15:01;complet;dev_integral;250 € - 360 €;Niort
+226;Client 226;M;1968;Non;€120K +;Private;Minivan;Highly Urban/ Urban;10.0;4;11/05/2022 05:29;complet;dev_express;250 € - 360 €;Manduel
+227;Client 227;F;1958;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;9.0;3;29/03/2022 05:23;complet;dev_integral;250 € - 360 €;Publier
+228;Client 228;M;1997;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;3.0;0;12/02/2022 09:30;complet;dev_premium;360 € - 470 €;Naucelle
+229;Client 229;F;1954;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;1.0;0;18/03/2022 03:20;complet;dev_premium;250 € - 360 €;Leffrinckoucke
+230;Client 230;F;1941;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;5;25/01/2022 12:09;complet;dev_express;250 € - 360 €;Foix
+231;Client 231;F;1997;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;;3;11/05/2022 03:18;complet;dev_express;250 € - 360 €;Carcassonne
+232;Client 232;M;2020;Oui;€60K - €80K;Private;Minivan;Highly Urban/ Urban;7.0;0;04/05/2022 06:00;complet;dev_express;250 € - 360 €;Aniche
+233;Client 233;F;1992;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;;3;22/01/2022 22:28;complet;dev_express;250 € - 360 €;Chezal-Benoît
+234;Client 234;F;1980;Non;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;10.0;2;06/01/2022 14:38;complet;dev_express;250 € - 360 €;Chouilly
+235;Client 235;F;1956;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;7.0;2;11/04/2022 02:23;complet;dev_integral;250 € - 360 €;Saint-Pierre-d'Eyraud
+236;Client 236;M;1955;Non;€40K - €60K;Private;Pickup;Highly Urban/ Urban;16.0;0;22/03/2022 21:40;complet;dev_integral;250 € - 360 €;Sainte-Geneviève-des-Bois
+237;Client 237;F;1986;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;15.0;0;31/03/2022 19:09;complet;dev_premium;470 € - 580 €;Dunières
+238;Client 238;F;1957;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;15.0;0;09/03/2022 15:11;complet;dev_integral;250 € - 360 €;Bourgneuf-la-Forêt
+239;Client 239;M;1951;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;5;07/05/2022 11:43;complet;dev_integral;250 € - 360 €;Charleville-Mézières
+240;Client 240;F;1954;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;10.0;3;24/02/2022 02:03;complet;dev_integral;250 € - 360 €;Pont-du-Château
+241;Client 241;F;1981;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;15.0;0;24/05/2022 09:47;complet;dev_express;250 € - 360 €;Fleury-sur-Orne
+242;Client 242;M;1960;Non;€80K - €120K;Commercial;z_SUV;Highly Urban/ Urban;7.0;0;25/02/2022 23:45;complet;dev_express;250 € - 360 €;Valence
+243;Client 243;F;1940;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;11.0;0;29/03/2022 07:38;complet;dev_express;250 € - 360 €;Ydes
+244;Client 244;F;1945;Oui;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;12.0;6;10/05/2022 14:59;complet;dev_express;250 € - 360 €;Limoges
+245;Client 245;M;2013;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;5.0;3;14/05/2022 19:19;complet;dev_integral;250 € - 360 €;L'Albenc
+246;Client 246;F;1937;Non;Non renseigné;Private;Van;Highly Urban/ Urban;12.0;3;19/01/2022 01:48;complet;dev_integral;250 € - 360 €;Montagne
+247;Client 247;M;1990;Oui;€60K - €80K;Commercial;Pickup;Highly Urban/ Urban;7.0;0;27/05/2022 14:41;complet;dev_premium;360 € - 470 €;Cauterets
+248;Client 248;M;2015;Non;€0 - €20K;Commercial;Van;z_Highly Rural/ Rural;1.0;0;13/01/2022 11:51;complet;dev_integral;250 € - 360 €;Ville-sous-Anjou
+249;Client 249;M;1987;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;10.0;0;08/04/2022 01:47;complet;dev_integral;250 € - 360 €;Chassy
+250;Client 250;F;1993;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;15.0;2;26/04/2022 15:04;complet;dev_integral;250 € - 360 €;Chaumont
+251;Client 251;M;2006;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;20.0;1;30/01/2022 17:15;complet;dev_integral;250 € - 360 €;Bréviandes
+252;Client 252;F;1987;Non;€40K - €60K;Commercial;z_SUV;z_Highly Rural/ Rural;12.0;5;18/05/2022 05:21;complet;dev_express;250 € - 360 €;Dogneville
+253;Client 253;M;1969;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;6.0;3;27/01/2022 08:09;complet;dev_premium;360 € - 470 €;Gensac-la-Pallue
+254;Client 254;F;1966;Non;€120K +;Private;Van;Highly Urban/ Urban;18.0;0;13/02/2022 22:32;complet;dev_express;250 € - 360 €;Belfort
+255;Client 255;M;2016;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;8.0;0;26/04/2022 23:23;complet;dev_integral;250 € - 360 €;Appoigny
+256;Client 256;M;1963;Non;€80K - €120K;Commercial;Van;z_Highly Rural/ Rural;;2;26/05/2022 00:20;complet;dev_premium;470 € - 580 €;Montilly
+257;Client 257;M;1965;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;16.0;0;06/02/2022 07:26;complet;dev_integral;250 € - 360 €;Saint-Maur-des-Fossés
+258;Client 258;F;2002;Oui;€20K - €40K;Private;Minivan;Highly Urban/ Urban;5.0;0;05/02/2022 06:43;complet;dev_express;250 € - 360 €;Châlons-en-Champagne
+259;Client 259;F;1937;Non;€0 - €20K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;26/03/2022 06:02;complet;dev_premium;360 € - 470 €;Jonquières
+260;Client 260;F;1954;Non;€40K - €60K;Commercial;Panel Truck;Highly Urban/ Urban;10.0;4;14/02/2022 17:36;complet;dev_express;250 € - 360 €;Pamiers
+261;Client 261;F;2014;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;8.0;5;17/04/2022 16:52;complet;dev_integral;250 € - 360 €;Villecien
+262;Client 262;F;1944;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;9.0;1;12/02/2022 04:17;complet;dev_express;250 € - 360 €;Baume-les-Dames
+263;Client 263;M;2015;Non;€120K +;Commercial;Pickup;Highly Urban/ Urban;17.0;0;20/03/2022 21:08;complet;dev_integral;250 € - 360 €;Lodève
+264;Client 264;M;2010;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;10.0;7;24/03/2022 00:32;complet;dev_express;250 € - 360 €;Villeneuve-lès-Avignon
+265;Client 265;M;1947;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;;4;28/05/2022 16:57;complet;dev_integral;250 € - 360 €;Ghisonaccia
+266;Client 266;M;1967;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;7.0;1;27/04/2022 16:49;complet;dev_integral;250 € - 360 €;Pezens
+267;Client 267;M;1973;Non;€80K - €120K;Private;z_SUV;z_Highly Rural/ Rural;1.0;1;28/01/2022 09:25;complet;dev_premium;250 € - 360 €;Arcambal
+268;Client 268;M;2009;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;11.0;4;21/03/2022 10:05;complet;dev_express;250 € - 360 €;Auch
+269;Client 269;F;1953;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;12.0;0;07/01/2022 09:45;complet;dev_integral;250 € - 360 €;Dun-le-Palestel
+270;Client 270;F;1965;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;13.0;4;15/05/2022 03:11;complet;dev_premium;250 € - 360 €;Château-Thierry
+271;Client 271;F;1988;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;12.0;4;09/02/2022 14:04;complet;dev_integral;250 € - 360 €;Loctudy
+272;Client 272;M;1955;Non;€120K +;Commercial;Pickup;Highly Urban/ Urban;13.0;3;04/02/2022 16:41;complet;dev_express;250 € - 360 €;Saint-Denis
+273;Client 273;F;1981;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;8.0;3;30/04/2022 22:43;complet;dev_integral;250 € - 360 €;Phaffans
+274;Client 274;M;2001;Non;€60K - €80K;Private;Van;Highly Urban/ Urban;1.0;0;06/01/2022 19:41;complet;dev_express;250 € - 360 €;Mouille
+275;Client 275;M;1974;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;1.0;2;12/04/2022 12:00;complet;dev_express;250 € - 360 €;Caen
+276;Client 276;F;1938;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;10.0;5;25/04/2022 16:57;complet;dev_express;250 € - 360 €;Châtel-Saint-Germain
+277;Client 277;M;1988;Oui;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;8.0;4;01/01/2022 07:42;complet;dev_integral;250 € - 360 €;
+278;Client 278;M;1965;Non;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;1.0;5;16/03/2022 12:46;complet;dev_express;250 € - 360 €;Tillières-sur-Avre
+279;Client 279;M;2000;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;20.0;3;20/03/2022 11:43;complet;dev_integral;250 € - 360 €;Lézardrieux
+280;Client 280;M;1951;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;2.0;3;20/01/2022 09:01;complet;dev_integral;250 € - 360 €;Pau
+281;Client 281;M;1966;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;12.0;0;10/05/2022 05:21;complet;dev_integral;250 € - 360 €;Saint-Julien-les-Villas
+282;Client 282;M;2018;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;11.0;5;10/01/2022 01:26;complet;dev_premium;470 € - 580 €;Hénin-Beaumont
+283;Client 283;F;2018;Non;€60K - €80K;Private;Sports Car;z_Highly Rural/ Rural;12.0;0;28/03/2022 12:26;complet;dev_integral;250 € - 360 €;Saint-Denis-de-Gastines
+284;Client 284;F;1978;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;11.0;4;13/04/2022 14:44;complet;dev_integral;250 € - 360 €;Aixe-sur-Vienne
+285;Client 285;F;1938;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;1.0;0;21/02/2022 23:21;complet;dev_integral;250 € - 360 €;Méaulte
+286;Client 286;F;2006;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;2;15/01/2022 01:35;complet;dev_integral;250 € - 360 €;Chambéry
+287;Client 287;F;1983;Non;€20K - €40K;Commercial;Pickup;z_Highly Rural/ Rural;10.0;0;25/01/2022 15:18;complet;dev_integral;250 € - 360 €;Orchamps
+288;Client 288;M;1952;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;7.0;2;18/01/2022 08:22;complet;dev_integral;250 € - 360 €;Saint-Martin-de-Seignanx
+289;Client 289;F;1947;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;17.0;0;15/02/2022 23:56;complet;dev_express;250 € - 360 €;Roquefort
+290;Client 290;M;1964;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;14.0;1;27/01/2022 03:55;complet;dev_premium;470 € - 580 €;Ploërmel
+291;Client 291;M;1966;Non;€40K - €60K;Private;Pickup;Highly Urban/ Urban;9.0;4;18/03/2022 07:40;complet;dev_express;250 € - 360 €;Toulon
+292;Client 292;M;2006;Non;€40K - €60K;Private;Pickup;Highly Urban/ Urban;8.0;0;22/03/2022 07:46;complet;dev_integral;250 € - 360 €;Verneuil-sur-Vienne
+293;Client 293;M;2020;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;;3;07/03/2022 03:55;complet;dev_integral;250 € - 360 €;Kervignac
+294;Client 294;M;2017;Non;€60K - €80K;Commercial;Van;Highly Urban/ Urban;4.0;0;18/05/2022 22:10;complet;dev_integral;250 € - 360 €;Montluçon
+295;Client 295;F;2001;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;1;01/05/2022 17:43;complet;dev_express;250 € - 360 €;Hayange
+296;Client 296;F;1977;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;11.0;0;26/05/2022 22:40;complet;dev_integral;250 € - 360 €;Vic-Fezensac
+297;Client 297;F;2010;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;;6;23/04/2022 11:29;complet;dev_premium;470 € - 580 €;Cloyes-sur-le-Loir
+298;Client 298;F;1934;Oui;€80K - €120K;Private;Minivan;Highly Urban/ Urban;11.0;1;27/02/2022 02:58;complet;dev_express;250 € - 360 €;Épinay-sur-Seine
+299;Client 299;F;1955;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;10.0;2;16/04/2022 10:28;complet;dev_integral;250 € - 360 €;Héricourt
+300;Client 300;F;2004;Non;€40K - €60K;Commercial;Panel Truck;Highly Urban/ Urban;21.0;1;21/03/2022 00:34;complet;dev_express;250 € - 360 €;Beaurains
+301;Client 301;M;1979;Non;€20K - €40K;Commercial;Sports Car;z_Highly Rural/ Rural;1.0;0;10/05/2022 09:58;complet;dev_integral;250 € - 360 €;Miramont-de-Guyenne
+302;Client 302;F;2020;Non;€80K - €120K;Private;Pickup;z_Highly Rural/ Rural;10.0;0;11/04/2022 21:52;complet;dev_integral;250 € - 360 €;Livinière
+303;Client 303;F;1973;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;13/05/2022 22:59;complet;dev_express;250 € - 360 €;Reyniès
+304;Client 304;F;1954;Oui;€0 - €20K;Private;Minivan;Highly Urban/ Urban;1.0;3;26/05/2022 20:49;complet;dev_integral;250 € - 360 €;Billy-Montigny
+305;Client 305;F;1943;Non;€40K - €60K;Private;Pickup;z_Highly Rural/ Rural;10.0;0;03/03/2022 14:18;complet;dev_express;250 € - 360 €;Mans
+306;Client 306;F;1954;Non;€120K +;Private;Sports Car;Highly Urban/ Urban;12.0;0;26/01/2022 19:37;complet;dev_express;250 € - 360 €;Avignon
+307;Client 307;M;2013;Non;€120K +;Commercial;Pickup;Highly Urban/ Urban;20.0;4;22/01/2022 01:15;complet;dev_express;250 € - 360 €;Saint-Céré
+308;Client 308;F;1951;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;3.0;0;25/05/2022 07:24;complet;dev_express;250 € - 360 €;Saint-Marc-à-Frongier
+309;Client 309;F;2005;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;11.0;0;03/02/2022 17:35;complet;dev_premium;360 € - 470 €;Chaumont-sur-Tharonne
+310;Client 310;F;1971;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;19.0;5;08/01/2022 02:38;complet;dev_express;250 € - 360 €;Laneuvelotte
+311;Client 311;F;1976;Non;€0 - €20K;Commercial;Minivan;z_Highly Rural/ Rural;11.0;0;02/05/2022 00:05;complet;dev_express;250 € - 360 €;Isle-Aumont
+312;Client 312;M;1988;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;7.0;0;18/05/2022 16:18;complet;dev_express;250 € - 360 €;Cusy
+313;Client 313;M;1985;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;8.0;0;25/05/2022 08:12;complet;dev_premium;470 € - 580 €;Denain
+314;Client 314;M;1957;Oui;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;1.0;2;04/05/2022 10:23;complet;dev_integral;250 € - 360 €;Chapelle-au-Moine
+315;Client 315;F;1962;Non;€120K +;Private;Pickup;Highly Urban/ Urban;12.0;2;16/04/2022 07:28;complet;dev_integral;250 € - 360 €;Créteil
+316;Client 316;M;2003;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;1.0;0;17/02/2022 11:37;complet;dev_integral;250 € - 360 €;L'Isle-Jourdain
+317;Client 317;M;1941;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;11.0;0;25/04/2022 08:56;complet;dev_premium;360 € - 470 €;Pont-de-Claix
+318;Client 318;F;2012;Non;€20K - €40K;Commercial;Panel Truck;Highly Urban/ Urban;7.0;0;24/03/2022 18:04;complet;dev_integral;250 € - 360 €;Montargis
+319;Client 319;F;1974;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;5.0;0;24/01/2022 04:40;complet;dev_express;250 € - 360 €;Sassenage
+320;Client 320;M;1939;Oui;Non renseigné;Private;Pickup;z_Highly Rural/ Rural;9.0;0;03/03/2022 06:41;complet;dev_integral;250 € - 360 €;Conflans-Sainte-Honorine
+321;Client 321;F;1962;Non;€120K +;Private;Van;Highly Urban/ Urban;14.0;0;29/01/2022 15:32;complet;dev_integral;250 € - 360 €;Dole
+322;Client 322;F;1931;Oui;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;4.0;0;29/04/2022 12:31;complet;dev_integral;250 € - 360 €;Lyon
+323;Client 323;F;1950;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;6.0;0;11/01/2022 18:54;complet;dev_integral;250 € - 360 €;Sainte-Livrade-sur-Lot
+324;Client 324;F;1979;Non;€0 - €20K;Commercial;Pickup;z_Highly Rural/ Rural;1.0;7;11/05/2022 07:38;complet;dev_express;250 € - 360 €;Lattes
+325;Client 325;F;1968;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;6;07/05/2022 22:16;complet;dev_express;250 € - 360 €;Charleville-Mézières
+326;Client 326;M;2018;Non;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;1.0;3;08/02/2022 23:25;complet;dev_express;250 € - 360 €;Mont-Cauvaire
+327;Client 327;F;1951;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;19.0;2;01/02/2022 06:20;complet;dev_integral;250 € - 360 €;Limoges
+328;Client 328;F;1962;Non;€20K - €40K;Commercial;z_SUV;Highly Urban/ Urban;12.0;3;10/03/2022 16:31;complet;dev_integral;250 € - 360 €;Bourges
+329;Client 329;F;1970;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;1.0;1;08/03/2022 15:24;complet;dev_integral;250 € - 360 €;Réquista
+330;Client 330;F;1963;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;9.0;1;27/05/2022 17:51;complet;dev_premium;360 € - 470 €;Montgeron
+331;Client 331;F;1973;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;9.0;2;07/01/2022 08:08;complet;dev_vip;580 € - 680 €;Épinay-sur-Seine
+332;Client 332;M;1942;Oui;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;0;14/02/2022 20:28;complet;dev_express;250 € - 360 €;Poissy
+333;Client 333;M;1988;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;4.0;0;21/02/2022 01:00;complet;dev_express;250 € - 360 €;Corbeil-Essonnes
+334;Client 334;M;1971;Non;€20K - €40K;Commercial;Van;z_Highly Rural/ Rural;7.0;0;09/04/2022 20:12;complet;dev_integral;250 € - 360 €;Pouxeux
+335;Client 335;F;1958;Non;€60K - €80K;Commercial;Minivan;Highly Urban/ Urban;9.0;5;25/03/2022 02:23;complet;dev_integral;250 € - 360 €;Saint-Maurice-de-Lignon
+336;Client 336;F;1976;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;20.0;0;31/03/2022 08:06;complet;dev_express;250 € - 360 €;Châteauneuf-le-Rouge
+337;Client 337;M;2006;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;15.0;0;02/02/2022 02:18;complet;dev_integral;250 € - 360 €;Marvejols
+338;Client 338;M;1973;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;7.0;0;08/05/2022 12:04;complet;dev_integral;250 € - 360 €;Ajaccio
+339;Client 339;M;1984;Non;€80K - €120K;Commercial;z_SUV;Highly Urban/ Urban;9.0;0;04/04/2022 21:09;complet;dev_integral;250 € - 360 €;Cergy
+340;Client 340;F;1993;Oui;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;6.0;3;11/01/2022 12:37;complet;dev_express;250 € - 360 €;Chabreloche
+341;Client 341;M;1962;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;8.0;4;22/03/2022 14:39;complet;dev_express;250 € - 360 €;Rouvenac
+342;Client 342;M;1942;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;1.0;0;30/01/2022 05:24;complet;dev_integral;250 € - 360 €;Condom
+343;Client 343;M;1988;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;1.0;7;09/05/2022 02:49;complet;dev_integral;250 € - 360 €;Venesmes
+344;Client 344;M;1949;Non;€20K - €40K;Commercial;Minivan;Highly Urban/ Urban;5.0;3;11/04/2022 20:56;complet;dev_integral;250 € - 360 €;Brillac
+345;Client 345;M;1968;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;8.0;1;10/01/2022 18:15;complet;dev_integral;250 € - 360 €;Marseille
+346;Client 346;M;1968;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;;2;26/03/2022 19:37;complet;dev_premium;360 € - 470 €;Saint-Étienne-des-Oullières
+347;Client 347;F;2000;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;14.0;10;24/02/2022 04:11;complet;dev_express;250 € - 360 €;Noisy-le-Sec
+348;Client 348;F;2003;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;3.0;3;05/03/2022 20:32;complet;dev_integral;250 € - 360 €;Cahors
+349;Client 349;F;1942;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;10.0;0;30/04/2022 22:26;complet;dev_express;250 € - 360 €;Borgo
+350;Client 350;M;1988;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;1.0;0;26/01/2022 05:23;complet;dev_integral;250 € - 360 €;Choisey
+351;Client 351;F;1936;Oui;€80K - €120K;Private;Minivan;Highly Urban/ Urban;10.0;4;06/01/2022 03:41;complet;dev_vip;680 € - 790 €;Ussac
+352;Client 352;M;1994;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;13.0;0;09/01/2022 12:44;complet;dev_integral;250 € - 360 €;L'Isle-d'Abeau
+353;Client 353;M;1956;Non;€80K - €120K;Commercial;z_SUV;Highly Urban/ Urban;1.0;1;13/01/2022 00:17;complet;dev_integral;250 € - 360 €;Sainte-Anne-d'Auray
+354;Client 354;F;1941;Non;€120K +;Private;Sports Car;Highly Urban/ Urban;20.0;8;10/05/2022 08:42;complet;dev_integral;250 € - 360 €;Mazamet
+355;Client 355;M;1943;Non;€80K - €120K;Commercial;Panel Truck;z_Highly Rural/ Rural;1.0;0;02/03/2022 15:25;complet;dev_integral;250 € - 360 €;Bitche
+356;Client 356;F;1974;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;18.0;2;30/01/2022 12:21;complet;dev_express;250 € - 360 €;Saint-Jean-de-Maurienne
+357;Client 357;F;1970;Non;Non renseigné;Private;z_SUV;Highly Urban/ Urban;25.0;0;14/04/2022 07:57;complet;dev_integral;250 € - 360 €;Labrit
+358;Client 358;M;1993;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;19.0;0;29/05/2022 01:33;complet;dev_integral;250 € - 360 €;Réchésy
+359;Client 359;M;2018;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;17.0;0;24/05/2022 02:16;complet;dev_express;250 € - 360 €;Bolquère
+360;Client 360;F;1971;Non;€60K - €80K;Commercial;Pickup;z_Highly Rural/ Rural;11.0;2;27/01/2022 13:08;complet;dev_integral;250 € - 360 €;Madic
+361;Client 361;F;1966;Non;€40K - €60K;Private;Van;Highly Urban/ Urban;13.0;3;07/05/2022 12:43;complet;dev_express;250 € - 360 €;Joué-lès-Tours
+362;Client 362;M;1951;Non;€20K - €40K;Commercial;z_SUV;z_Highly Rural/ Rural;8.0;0;06/03/2022 05:37;complet;dev_premium;360 € - 470 €;Saint-Étienne
+363;Client 363;M;2004;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;5.0;1;06/05/2022 19:28;complet;dev_express;250 € - 360 €;Davézieux
+364;Client 364;F;1969;Non;€40K - €60K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;23/01/2022 05:32;complet;dev_premium;470 € - 580 €;Ingré
+365;Client 365;M;1998;Non;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;1.0;3;21/01/2022 14:17;complet;dev_integral;250 € - 360 €;Liévin
+366;Client 366;M;1960;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;;1;24/05/2022 23:51;complet;dev_integral;250 € - 360 €;Bergerac
+367;Client 367;F;1983;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;8.0;4;23/04/2022 17:43;complet;dev_integral;250 € - 360 €;Tremblay-en-France
+368;Client 368;F;1961;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;9.0;0;19/02/2022 18:27;complet;dev_express;250 € - 360 €;Anduze
+369;Client 369;F;1954;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;7.0;0;10/01/2022 09:54;complet;dev_express;250 € - 360 €;Dargnies
+370;Client 370;M;2014;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;13.0;0;26/02/2022 17:17;complet;dev_premium;360 € - 470 €;Entraygues-sur-Truyère
+371;Client 371;F;1989;Oui;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;10.0;0;03/01/2022 08:13;complet;dev_express;250 € - 360 €;Jurançon
+372;Client 372;M;1963;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;;0;27/01/2022 16:05;complet;dev_integral;250 € - 360 €;Gramat
+373;Client 373;M;1938;Non;€40K - €60K;Commercial;Panel Truck;z_Highly Rural/ Rural;8.0;2;26/05/2022 01:19;complet;dev_integral;250 € - 360 €;Noiseau
+374;Client 374;F;1973;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;1.0;3;07/03/2022 14:13;complet;dev_integral;250 € - 360 €;Lacassagne
+375;Client 375;F;1972;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;;3;16/04/2022 20:05;complet;dev_express;250 € - 360 €;Orthez
+376;Client 376;M;1978;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;6.0;3;23/05/2022 01:28;complet;dev_express;250 € - 360 €;Bram
+377;Client 377;F;1955;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;11.0;0;08/01/2022 06:18;complet;dev_premium;360 € - 470 €;Marcq-en-Barœul
+378;Client 378;M;2002;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;21.0;0;29/05/2022 04:55;complet;dev_integral;250 € - 360 €;Montcuq
+379;Client 379;M;1952;Oui;€40K - €60K;Private;Minivan;Highly Urban/ Urban;8.0;1;10/01/2022 03:39;complet;dev_integral;250 € - 360 €;Vierzon
+380;Client 380;F;1967;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;;0;18/04/2022 14:58;complet;dev_integral;250 € - 360 €;Mende
+381;Client 381;M;2011;Non;€120K +;Private;Minivan;Highly Urban/ Urban;18.0;1;16/01/2022 03:51;complet;dev_express;250 € - 360 €;Rodez
+382;Client 382;M;1945;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;7.0;2;02/01/2022 13:57;complet;dev_express;250 € - 360 €;Lect
+383;Client 383;M;1955;Non;€120K +;Commercial;Van;Highly Urban/ Urban;16.0;3;18/03/2022 04:49;complet;dev_integral;250 € - 360 €;Mouchamps
+384;Client 384;M;1949;Non;€120K +;Private;Sports Car;Highly Urban/ Urban;14.0;0;19/01/2022 09:26;complet;dev_premium;470 € - 580 €;Vendôme
+385;Client 385;M;2012;Non;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;11.0;0;06/05/2022 19:13;complet;dev_integral;250 € - 360 €;Commentry
+386;Client 386;F;1957;Non;€20K - €40K;Commercial;z_SUV;Highly Urban/ Urban;4.0;3;27/04/2022 00:03;complet;dev_express;250 € - 360 €;Ercé-en-Lamée
+387;Client 387;M;2010;Non;€120K +;Private;Minivan;Highly Urban/ Urban;19.0;4;16/02/2022 20:52;complet;dev_express;250 € - 360 €;Charleville-Mézières
+388;Client 388;F;1933;Non;Non renseigné;Private;Pickup;Highly Urban/ Urban;14.0;0;06/03/2022 03:04;complet;dev_integral;250 € - 360 €;Buxy
+389;Client 389;M;1983;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;5.0;0;07/01/2022 02:54;complet;dev_express;250 € - 360 €;Aurillac
+390;Client 390;M;1950;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;16.0;0;23/02/2022 11:01;complet;dev_express;250 € - 360 €;Pendé
+391;Client 391;F;1981;Oui;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;12.0;0;11/04/2022 10:47;complet;dev_integral;250 € - 360 €;Allanche
+392;Client 392;F;1985;Non;Non renseigné;Private;Sports Car;Highly Urban/ Urban;15.0;1;16/03/2022 21:12;complet;dev_integral;250 € - 360 €;Gennes-sur-Glaize
+393;Client 393;F;1979;Non;€0 - €20K;Commercial;Minivan;Highly Urban/ Urban;11.0;2;13/05/2022 08:26;complet;dev_express;250 € - 360 €;Flèche
+394;Client 394;M;1975;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;7.0;1;08/01/2022 21:15;complet;dev_express;250 € - 360 €;Bretigney
+395;Client 395;F;1951;Non;€80K - €120K;Private;Van;Highly Urban/ Urban;3.0;0;13/03/2022 10:59;complet;dev_express;250 € - 360 €;Mulhouse
+396;Client 396;M;1945;Non;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;8.0;3;05/01/2022 22:40;complet;dev_express;250 € - 360 €;Rouen
+397;Client 397;F;1985;Oui;€60K - €80K;Commercial;Pickup;Highly Urban/ Urban;8.0;1;17/02/2022 01:45;complet;dev_premium;360 € - 470 €;Yzernay
+398;Client 398;M;1931;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;16.0;0;14/04/2022 05:13;complet;dev_premium;250 € - 360 €;Orvault
+399;Client 399;M;1945;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;10.0;2;10/02/2022 01:05;complet;dev_express;250 € - 360 €;Bages
+400;Client 400;M;1951;Oui;€80K - €120K;Commercial;Minivan;z_Highly Rural/ Rural;9.0;0;17/04/2022 21:45;complet;dev_integral;250 € - 360 €;Aurec-sur-Loire
+401;Client 401;F;2009;Non;Non renseigné;Commercial;Sports Car;Highly Urban/ Urban;1.0;7;15/02/2022 14:51;complet;dev_integral;250 € - 360 €;Labruguière
+402;Client 402;M;2019;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;5.0;0;07/04/2022 15:44;complet;dev_integral;250 € - 360 €;Tour-du-Crieu
+403;Client 403;M;1934;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;5.0;8;11/01/2022 21:36;complet;dev_express;250 € - 360 €;Biars-sur-Cère
+404;Client 404;M;1958;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;16.0;0;29/01/2022 06:11;complet;dev_express;250 € - 360 €;Benney
+405;Client 405;M;1964;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;19.0;5;27/01/2022 10:26;complet;dev_express;250 € - 360 €;Cresserons
+406;Client 406;F;2019;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;7.0;0;09/04/2022 17:13;complet;dev_integral;250 € - 360 €;Vicq
+407;Client 407;F;2002;Non;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;8.0;0;04/02/2022 22:31;complet;dev_integral;250 € - 360 €;Vic-Fezensac
+408;Client 408;M;2013;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;9.0;2;13/04/2022 19:59;complet;dev_premium;250 € - 360 €;Valdahon
+409;Client 409;M;1983;Non;Non renseigné;Commercial;Van;Highly Urban/ Urban;14.0;1;01/03/2022 04:29;complet;dev_premium;360 € - 470 €;Plougasnou
+410;Client 410;F;1960;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;0;13/02/2022 11:48;complet;dev_premium;250 € - 360 €;Ajaccio
+411;Client 411;M;1959;Non;€20K - €40K;Commercial;Van;Highly Urban/ Urban;1.0;2;27/03/2022 04:34;complet;dev_integral;250 € - 360 €;Petites-Loges
+412;Client 412;M;1973;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;14.0;0;26/03/2022 22:33;complet;dev_express;250 € - 360 €;Sanary-sur-Mer
+413;Client 413;F;1942;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;;0;05/04/2022 17:32;complet;dev_premium;360 € - 470 €;Gaillard
+414;Client 414;F;2014;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;16.0;2;23/01/2022 22:34;complet;dev_premium;470 € - 580 €;Sury-près-Léré
+415;Client 415;M;1946;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;16.0;0;14/02/2022 23:26;complet;dev_integral;250 € - 360 €;Hadol
+416;Client 416;F;1967;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;;0;31/03/2022 03:07;complet;dev_express;250 € - 360 €;Périgueux
+417;Client 417;M;1972;Non;€0 - €20K;Private;Pickup;Highly Urban/ Urban;1.0;1;11/05/2022 06:47;complet;dev_integral;250 € - 360 €;Surgères
+418;Client 418;F;1985;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;7;24/03/2022 15:19;complet;dev_integral;250 € - 360 €;Til-Châtel
+419;Client 419;M;1950;Non;€0 - €20K;Private;Pickup;Highly Urban/ Urban;1.0;6;29/03/2022 12:51;complet;dev_express;250 € - 360 €;Vix
+420;Client 420;F;1987;Non;Non renseigné;Commercial;Panel Truck;Highly Urban/ Urban;1.0;0;02/01/2022 23:38;complet;dev_integral;250 € - 360 €;Dunkerque
+421;Client 421;M;1954;Oui;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;1.0;5;29/05/2022 03:14;complet;dev_integral;250 € - 360 €;Roullet-Saint-Estèphe
+422;Client 422;M;2007;Non;€80K - €120K;Private;Van;Highly Urban/ Urban;16.0;11;18/04/2022 23:11;complet;dev_integral;250 € - 360 €;Boussac
+423;Client 423;M;1957;Non;€0 - €20K;Private;Minivan;z_Highly Rural/ Rural;1.0;2;17/04/2022 11:37;complet;dev_integral;250 € - 360 €;Monthion
+424;Client 424;M;1940;Non;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;7.0;6;08/03/2022 08:49;complet;dev_integral;250 € - 360 €;Aussillon
+425;Client 425;F;1934;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;12.0;0;28/04/2022 19:59;complet;dev_express;250 € - 360 €;Lamotte-Beuvron
+426;Client 426;M;1976;Non;€80K - €120K;Commercial;z_SUV;z_Highly Rural/ Rural;7.0;1;05/04/2022 14:33;complet;dev_premium;360 € - 470 €;Larche
+427;Client 427;M;1981;Oui;€20K - €40K;Commercial;Minivan;Highly Urban/ Urban;5.0;0;30/03/2022 17:39;complet;dev_premium;470 € - 580 €;Perpignan
+428;Client 428;F;1964;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;1.0;2;09/04/2022 15:27;complet;dev_integral;250 € - 360 €;Limoges
+429;Client 429;F;1960;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;18.0;6;06/05/2022 19:05;complet;dev_express;250 € - 360 €;Angers
+430;Client 430;F;1952;Oui;€40K - €60K;Private;z_SUV;z_Highly Rural/ Rural;11.0;4;29/04/2022 01:23;complet;dev_integral;250 € - 360 €;Cestas
+431;Client 431;F;1975;Non;€20K - €40K;Commercial;z_SUV;Highly Urban/ Urban;1.0;3;03/01/2022 09:08;complet;dev_express;250 € - 360 €;Vierzon
+432;Client 432;M;2003;Non;€60K - €80K;Commercial;Panel Truck;z_Highly Rural/ Rural;4.0;1;09/05/2022 02:38;complet;dev_vip;890 € - 990 €;Farlède
+433;Client 433;F;1931;Non;Non renseigné;Commercial;Pickup;Highly Urban/ Urban;17.0;0;22/01/2022 15:35;complet;dev_integral;250 € - 360 €;Nouzonville
+434;Client 434;F;2014;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;15.0;0;29/04/2022 09:35;complet;dev_express;250 € - 360 €;Castelnaudary
+435;Client 435;F;1950;Non;€40K - €60K;Commercial;Panel Truck;Highly Urban/ Urban;;5;24/02/2022 09:29;complet;dev_integral;250 € - 360 €;Arles
+436;Client 436;F;1965;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;1.0;0;01/04/2022 04:04;complet;dev_express;250 € - 360 €;Puceul
+437;Client 437;F;1940;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;13.0;3;12/02/2022 03:31;complet;dev_express;250 € - 360 €;Lacroix-sur-Meuse
+438;Client 438;F;1964;Non;€40K - €60K;Private;Van;Highly Urban/ Urban;12.0;0;19/04/2022 19:52;complet;dev_integral;250 € - 360 €;Alignan-du-Vent
+439;Client 439;M;1944;Non;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;6.0;2;06/02/2022 22:10;complet;dev_premium;360 € - 470 €;Bouzel
+440;Client 440;F;1963;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;9.0;0;07/01/2022 04:46;complet;dev_integral;250 € - 360 €;Tranche-sur-Mer
+441;Client 441;F;1994;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;1.0;0;19/03/2022 01:46;complet;dev_premium;360 € - 470 €;Saint-Laurent-les-Tours
+442;Client 442;F;1951;Non;Non renseigné;Private;Pickup;Highly Urban/ Urban;;0;10/03/2022 21:24;complet;dev_integral;250 € - 360 €;Saint-Fons
+443;Client 443;F;1973;Non;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;19.0;0;08/05/2022 21:30;complet;dev_integral;250 € - 360 €;Avesnes-sur-Helpe
+444;Client 444;F;1936;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;7.0;0;09/03/2022 21:30;complet;dev_express;250 € - 360 €;Clairac
+445;Client 445;M;1950;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;15.0;2;20/04/2022 18:29;complet;dev_express;250 € - 360 €;Rahon
+446;Client 446;F;1943;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;1.0;3;05/04/2022 00:30;complet;dev_integral;250 € - 360 €;Bordeaux
+447;Client 447;M;1975;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;9.0;4;20/05/2022 14:23;complet;dev_integral;250 € - 360 €;Villemomble
+448;Client 448;M;1959;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;6.0;1;03/03/2022 09:25;complet;dev_integral;250 € - 360 €;Tronville-en-Barrois
+449;Client 449;F;1954;Oui;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;2;12/03/2022 08:44;complet;dev_express;250 € - 360 €;Bruay-la-Buissière
+450;Client 450;F;1940;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;12.0;0;06/01/2022 12:56;complet;dev_express;250 € - 360 €;Pontchâteau
+451;Client 451;M;1995;Non;Non renseigné;Commercial;Pickup;Highly Urban/ Urban;4.0;7;17/01/2022 08:56;complet;dev_express;250 € - 360 €;L'Honor-de-Cos
+452;Client 452;F;1932;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;8.0;1;04/03/2022 00:51;complet;dev_integral;250 € - 360 €;Bagneux
+453;Client 453;F;1971;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;20.0;0;28/02/2022 08:01;complet;dev_premium;470 € - 580 €;Figeac
+454;Client 454;M;1985;Non;€60K - €80K;Commercial;Van;Highly Urban/ Urban;4.0;0;22/03/2022 17:53;complet;dev_express;250 € - 360 €;Salles-sur-Mer
+455;Client 455;F;1999;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;10.0;0;09/05/2022 14:13;complet;dev_express;250 € - 360 €;L'Haÿ-les-Roses
+456;Client 456;F;1987;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;;0;11/03/2022 14:38;complet;dev_integral;250 € - 360 €;Séris
+457;Client 457;F;1971;Non;€60K - €80K;Commercial;Van;Highly Urban/ Urban;1.0;5;19/02/2022 23:44;complet;dev_integral;250 € - 360 €;Lanester
+458;Client 458;F;1987;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;8.0;2;28/04/2022 20:05;complet;dev_premium;360 € - 470 €;Sancé
+459;Client 459;M;1996;Non;€120K +;Private;Pickup;Highly Urban/ Urban;1.0;0;01/03/2022 15:58;complet;dev_integral;250 € - 360 €;Champagnole
+460;Client 460;M;1987;Oui;€80K - €120K;Private;Minivan;Highly Urban/ Urban;1.0;1;17/01/2022 02:58;complet;dev_integral;250 € - 360 €;Gap
+461;Client 461;M;1965;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;9.0;0;12/03/2022 07:57;complet;dev_premium;360 € - 470 €;Borgo
+462;Client 462;M;1976;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;5.0;1;14/04/2022 03:21;complet;dev_express;250 € - 360 €;Trévol
+463;Client 463;M;1990;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;12.0;0;17/02/2022 11:06;complet;dev_express;250 € - 360 €;Montauban
+464;Client 464;F;1965;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;11.0;2;19/04/2022 19:04;complet;dev_integral;250 € - 360 €;Tignet
+465;Client 465;M;1949;Oui;€0 - €20K;Commercial;Pickup;z_Highly Rural/ Rural;5.0;0;18/05/2022 10:53;complet;dev_integral;250 € - 360 €;Mennecy
+466;Client 466;M;1937;Non;€60K - €80K;Commercial;Pickup;z_Highly Rural/ Rural;12.0;1;13/03/2022 05:28;complet;dev_express;250 € - 360 €;Soucy
+467;Client 467;F;2022;Oui;€120K +;Commercial;Van;Highly Urban/ Urban;;0;11/05/2022 14:01;complet;dev_express;250 € - 360 €;Cergy
+468;Client 468;F;2012;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;;1;11/01/2022 02:15;complet;dev_premium;360 € - 470 €;Cerisiers
+469;Client 469;F;2004;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;6.0;2;09/05/2022 11:12;complet;dev_integral;250 € - 360 €;Martres-Tolosane
+470;Client 470;F;1966;Oui;€0 - €20K;Commercial;Minivan;Highly Urban/ Urban;1.0;6;04/01/2022 12:36;complet;dev_integral;250 € - 360 €;Brive-la-Gaillarde
+471;Client 471;F;1968;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;6.0;7;30/05/2022 20:12;complet;dev_express;250 € - 360 €;Marseille
+472;Client 472;M;1995;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;9.0;1;06/03/2022 00:29;complet;dev_express;250 € - 360 €;Paris
+473;Client 473;M;2000;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;4.0;7;19/01/2022 12:12;complet;dev_premium;470 € - 580 €;Montataire
+474;Client 474;F;2017;Non;€40K - €60K;Private;Pickup;Highly Urban/ Urban;9.0;2;20/04/2022 02:39;complet;dev_integral;250 € - 360 €;Carpentras
+475;Client 475;M;1966;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;1;24/05/2022 17:45;complet;dev_express;250 € - 360 €;Garges-lès-Gonesse
+476;Client 476;F;2002;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;8;26/03/2022 13:13;complet;dev_express;250 € - 360 €;Hardinvast
+477;Client 477;F;1947;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;8.0;1;23/03/2022 14:10;complet;dev_integral;250 € - 360 €;Andouillé
+478;Client 478;M;1995;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;18.0;0;12/04/2022 00:22;complet;dev_integral;250 € - 360 €;Haybes
+479;Client 479;M;1994;Non;€120K +;Private;Minivan;Highly Urban/ Urban;11.0;0;15/04/2022 13:43;complet;dev_integral;250 € - 360 €;Villeréal
+480;Client 480;F;1955;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;6.0;1;20/04/2022 01:02;complet;dev_express;250 € - 360 €;Lizy-sur-Ourcq
+481;Client 481;F;1952;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;02/05/2022 23:12;complet;dev_integral;250 € - 360 €;Jaillans
+482;Client 482;F;1956;Non;€0 - €20K;Private;Van;Highly Urban/ Urban;1.0;6;21/05/2022 08:38;complet;dev_express;250 € - 360 €;Digne-les-Bains
+483;Client 483;F;1999;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;;0;01/03/2022 18:29;complet;dev_express;250 € - 360 €;Cassagnes-Bégonhès
+484;Client 484;F;1971;Oui;€60K - €80K;Private;Minivan;Highly Urban/ Urban;7.0;3;10/05/2022 11:14;complet;dev_premium;470 € - 580 €;Flers
+485;Client 485;F;1952;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;10.0;1;06/03/2022 05:10;complet;dev_integral;250 € - 360 €;Paris
+486;Client 486;F;2019;Non;€0 - €20K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;26/05/2022 01:21;complet;dev_integral;250 € - 360 €;Dounoux
+487;Client 487;F;2001;Oui;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;1.0;1;25/04/2022 09:36;complet;dev_integral;250 € - 360 €;Toulouse
+488;Client 488;M;1963;Non;€20K - €40K;Commercial;z_SUV;z_Highly Rural/ Rural;1.0;0;29/05/2022 19:59;complet;dev_premium;250 € - 360 €;Balan
+489;Client 489;M;2015;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;10.0;5;03/02/2022 15:04;complet;dev_express;250 € - 360 €;Labastide-du-Temple
+490;Client 490;M;1995;Non;€20K - €40K;Commercial;Minivan;Highly Urban/ Urban;8.0;0;16/05/2022 00:02;complet;dev_express;250 € - 360 €;Carcassonne
+491;Client 491;F;1965;Oui;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;10.0;1;15/05/2022 09:25;complet;dev_express;250 € - 360 €;Pierrepont
+492;Client 492;M;1949;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;6.0;2;28/05/2022 03:24;complet;dev_express;250 € - 360 €;Poitiers
+493;Client 493;F;1948;Non;€0 - €20K;Commercial;Pickup;z_Highly Rural/ Rural;11.0;2;27/03/2022 17:26;complet;dev_integral;250 € - 360 €;Brive-la-Gaillarde
+494;Client 494;M;1973;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;4;03/02/2022 09:48;complet;dev_integral;250 € - 360 €;Saint-Quentin
+495;Client 495;F;2015;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;8.0;4;06/05/2022 15:53;complet;dev_premium;470 € - 580 €;Châteauneuf-sur-Cher
+496;Client 496;F;2002;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;;3;12/05/2022 06:56;complet;dev_premium;360 € - 470 €;Saint-Dizier
+497;Client 497;F;1951;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;13.0;1;15/01/2022 18:39;complet;dev_integral;250 € - 360 €;Nevers
+498;Client 498;M;2010;Oui;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;1.0;1;24/01/2022 13:18;complet;dev_integral;250 € - 360 €;Aix-les-Bains
+499;Client 499;M;1974;Non;€120K +;Private;Pickup;Highly Urban/ Urban;19.0;0;17/03/2022 06:56;complet;dev_integral;250 € - 360 €;Villerupt
+500;Client 500;M;1931;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;9.0;1;29/03/2022 02:50;complet;dev_integral;250 € - 360 €;Andrésy
+501;Client 501;M;2004;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;;0;10/05/2022 07:12;complet;dev_express;250 € - 360 €;Marseille
+502;Client 502;F;1963;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;15.0;0;14/03/2022 05:41;complet;dev_express;250 € - 360 €;Bergerac
+503;Client 503;F;1948;Non;€20K - €40K;Private;Pickup;z_Highly Rural/ Rural;10.0;0;31/05/2022 13:57;complet;dev_premium;470 € - 580 €;Jarnac
+504;Client 504;F;2017;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;7.0;0;10/05/2022 23:39;complet;dev_integral;250 € - 360 €;Lunéville
+505;Client 505;F;1965;Non;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;1.0;0;14/05/2022 00:58;complet;dev_express;250 € - 360 €;Bernay
+506;Client 506;F;1937;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;12.0;2;07/05/2022 14:05;complet;dev_express;250 € - 360 €;Grisolles
+507;Client 507;F;1970;Non;€40K - €60K;Private;Pickup;z_Highly Rural/ Rural;1.0;1;17/05/2022 22:41;complet;dev_integral;250 € - 360 €;Montigny-lès-Metz
+508;Client 508;M;1971;Non;€0 - €20K;Commercial;Minivan;Highly Urban/ Urban;8.0;0;17/03/2022 06:05;complet;dev_integral;250 € - 360 €;Saint-Hilaire-de-Clisson
+509;Client 509;F;1978;Non;€120K +;Commercial;Van;Highly Urban/ Urban;10.0;3;15/03/2022 03:25;complet;dev_premium;360 € - 470 €;Angers
+510;Client 510;F;1971;Non;€120K +;Private;Minivan;Highly Urban/ Urban;13.0;0;30/03/2022 17:24;complet;dev_express;250 € - 360 €;Baudreville
+511;Client 511;F;1964;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;1.0;0;21/01/2022 20:42;complet;dev_express;250 € - 360 €;Brioude
+512;Client 512;M;1961;Non;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;1.0;2;18/01/2022 19:29;complet;dev_express;250 € - 360 €;Manosque
+513;Client 513;F;2005;Non;€0 - €20K;Commercial;Minivan;Highly Urban/ Urban;17.0;1;19/04/2022 21:43;complet;dev_integral;250 € - 360 €;Machine
+514;Client 514;M;1966;Non;€20K - €40K;Commercial;Pickup;z_Highly Rural/ Rural;7.0;0;18/05/2022 13:33;complet;dev_premium;360 € - 470 €;Mareuil
+515;Client 515;M;1967;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;21.0;0;04/04/2022 15:50;complet;dev_express;250 € - 360 €;Sainte-Maxime
+516;Client 516;M;1968;Non;€120K +;Private;Minivan;Highly Urban/ Urban;8.0;0;25/03/2022 07:11;complet;dev_integral;250 € - 360 €;Acq
+517;Client 517;F;1962;Non;€60K - €80K;Commercial;Minivan;Highly Urban/ Urban;1.0;7;23/03/2022 12:28;complet;dev_integral;250 € - 360 €;Villeneuve-sur-Lot
+518;Client 518;F;1989;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;11.0;0;25/03/2022 13:33;complet;dev_express;250 € - 360 €;Longine
+519;Client 519;M;1994;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;22.0;0;23/02/2022 20:23;complet;dev_integral;250 € - 360 €;Ribécourt-Dreslincourt
+520;Client 520;F;1940;Non;€120K +;Commercial;z_SUV;Highly Urban/ Urban;10.0;4;08/04/2022 12:44;complet;dev_premium;470 € - 580 €;Lampaul-Plouarzel
+521;Client 521;M;1954;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;;0;25/02/2022 05:54;complet;dev_integral;250 € - 360 €;Monteil
+522;Client 522;F;1955;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;8.0;2;07/02/2022 00:44;complet;dev_integral;250 € - 360 €;Mézières-en-Brenne
+523;Client 523;M;2019;Oui;€0 - €20K;Commercial;Minivan;z_Highly Rural/ Rural;4.0;0;01/04/2022 01:13;complet;dev_integral;250 € - 360 €;Mure
+524;Client 524;M;2007;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;;3;25/05/2022 18:59;complet;dev_express;250 € - 360 €;Amilly
+525;Client 525;F;1943;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;7.0;5;21/04/2022 16:29;complet;dev_express;250 € - 360 €;Carcassonne
+526;Client 526;F;1964;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;0;31/05/2022 05:19;complet;dev_premium;250 € - 360 €;Verdun-sur-Garonne
+527;Client 527;M;1991;Non;Non renseigné;Commercial;Pickup;Highly Urban/ Urban;1.0;0;19/02/2022 08:11;complet;dev_express;250 € - 360 €;Tarbes
+528;Client 528;F;1963;Oui;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;6.0;9;23/05/2022 14:29;complet;dev_integral;250 € - 360 €;Plabennec
+529;Client 529;M;1939;Non;€80K - €120K;Commercial;Pickup;z_Highly Rural/ Rural;4.0;0;24/02/2022 11:57;complet;dev_integral;250 € - 360 €;Thueyts
+530;Client 530;M;1941;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;;0;28/05/2022 16:47;complet;dev_express;250 € - 360 €;Teil
+531;Client 531;F;1946;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;9.0;0;18/05/2022 20:48;complet;dev_express;250 € - 360 €;Charleville-Mézières
+532;Client 532;M;1969;Non;€20K - €40K;Commercial;Panel Truck;Highly Urban/ Urban;1.0;4;12/03/2022 12:59;complet;dev_express;250 € - 360 €;Péron
+533;Client 533;M;1971;Oui;€40K - €60K;Commercial;Pickup;z_Highly Rural/ Rural;8.0;2;06/03/2022 13:23;complet;dev_express;250 € - 360 €;Vernet
+534;Client 534;M;1934;Non;Non renseigné;Commercial;Pickup;Highly Urban/ Urban;1.0;3;04/03/2022 01:37;complet;dev_express;250 € - 360 €;Lauzun
+535;Client 535;M;1952;Non;€40K - €60K;Commercial;Pickup;z_Highly Rural/ Rural;13.0;2;10/05/2022 23:21;complet;dev_premium;360 € - 470 €;Montpellier
+536;Client 536;M;1977;Non;Non renseigné;Private;Pickup;Highly Urban/ Urban;9.0;3;08/04/2022 22:16;complet;dev_express;250 € - 360 €;Vauvillers
+537;Client 537;F;1965;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;1.0;1;20/01/2022 06:01;complet;dev_express;250 € - 360 €;Mommenheim
+538;Client 538;F;1957;Non;Non renseigné;Private;Minivan;z_Highly Rural/ Rural;;2;06/01/2022 05:05;complet;dev_express;250 € - 360 €;Maurs
+539;Client 539;F;1987;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;8.0;2;07/01/2022 02:17;complet;dev_integral;250 € - 360 €;Boulogne-sur-Mer
+540;Client 540;F;1974;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;1;04/05/2022 21:01;complet;dev_express;250 € - 360 €;Monthou-sur-Cher
+541;Client 541;M;2018;Non;€120K +;Private;Pickup;Highly Urban/ Urban;15.0;2;05/05/2022 07:55;complet;dev_integral;250 € - 360 €;Bâtie-Divisin
+542;Client 542;F;2019;Oui;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;18.0;7;14/03/2022 00:41;complet;dev_express;250 € - 360 €;Périgueux
+543;Client 543;M;1935;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;12.0;2;13/02/2022 12:27;complet;dev_express;250 € - 360 €;Chapelle-Saint-Ursin
+544;Client 544;M;1937;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;17.0;0;27/03/2022 16:30;complet;dev_integral;250 € - 360 €;Brive-la-Gaillarde
+545;Client 545;F;1967;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;1.0;0;02/02/2022 14:25;complet;dev_integral;250 € - 360 €;Aulnoye-Aymeries
+546;Client 546;F;1940;Oui;€60K - €80K;Commercial;Panel Truck;z_Highly Rural/ Rural;14.0;0;22/05/2022 06:17;complet;dev_integral;250 € - 360 €;Lons-le-Saunier
+547;Client 547;M;1965;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;9.0;2;03/02/2022 18:51;complet;dev_integral;250 € - 360 €;Vauréal
+548;Client 548;M;1996;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;7.0;3;17/04/2022 11:05;complet;dev_express;250 € - 360 €;Ajaccio
+549;Client 549;F;1955;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;9.0;0;30/01/2022 11:38;complet;dev_integral;250 € - 360 €;Conflans-Sainte-Honorine
+550;Client 550;M;1951;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;12.0;3;04/01/2022 23:37;complet;dev_integral;250 € - 360 €;Philippsbourg
+551;Client 551;F;1994;Non;€40K - €60K;Private;Pickup;z_Highly Rural/ Rural;11.0;2;20/02/2022 01:38;complet;dev_premium;360 € - 470 €;Challes-les-Eaux
+552;Client 552;M;1986;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;18.0;0;22/03/2022 18:25;complet;dev_integral;250 € - 360 €;Beaucaire
+553;Client 553;M;1952;Non;Non renseigné;Private;Sports Car;Highly Urban/ Urban;20.0;0;14/04/2022 03:08;complet;dev_integral;250 € - 360 €;Marvejols
+554;Client 554;M;1938;Non;€20K - €40K;Commercial;z_SUV;Highly Urban/ Urban;9.0;4;28/03/2022 18:19;complet;dev_integral;250 € - 360 €;Réalmont
+555;Client 555;M;1978;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;5.0;0;15/01/2022 01:30;complet;dev_integral;250 € - 360 €;Lombez
+556;Client 556;M;1932;Oui;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;7.0;1;30/03/2022 17:09;complet;dev_express;250 € - 360 €;Pars-lès-Romilly
+557;Client 557;M;2008;Non;Non renseigné;Private;Minivan;z_Highly Rural/ Rural;1.0;0;03/04/2022 06:29;complet;dev_express;250 € - 360 €;Douvres
+558;Client 558;M;2019;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;;0;11/04/2022 23:33;complet;dev_integral;250 € - 360 €;Étrelles
+559;Client 559;F;1958;Non;€0 - €20K;Commercial;Panel Truck;Highly Urban/ Urban;;0;18/05/2022 18:08;complet;dev_integral;250 € - 360 €;Donville-les-Bains
+560;Client 560;M;1934;Non;€0 - €20K;Private;Pickup;Highly Urban/ Urban;1.0;4;02/04/2022 09:07;complet;dev_integral;250 € - 360 €;Nantes
+561;Client 561;M;2022;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;19.0;0;09/03/2022 14:39;complet;dev_express;250 € - 360 €;Neussargues-Moissac
+562;Client 562;M;2006;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;10.0;0;13/04/2022 11:26;complet;dev_integral;250 € - 360 €;Cappelle-la-Grande
+563;Client 563;M;1989;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;18.0;3;14/03/2022 13:17;complet;dev_integral;250 € - 360 €;Malicorne
+564;Client 564;M;1972;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;10.0;1;12/05/2022 14:47;complet;dev_express;250 € - 360 €;Nevers
+565;Client 565;F;2000;Non;€0 - €20K;Private;Van;Highly Urban/ Urban;1.0;0;01/01/2022 20:24;complet;dev_integral;250 € - 360 €;Pommiers
+566;Client 566;M;1998;Oui;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;16.0;4;25/05/2022 20:36;complet;dev_express;250 € - 360 €;Lorient
+567;Client 567;F;1967;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;9.0;0;16/05/2022 05:07;complet;dev_express;250 € - 360 €;Quettreville-sur-Sienne
+568;Client 568;M;2010;Oui;€0 - €20K;Private;Pickup;Highly Urban/ Urban;7.0;1;27/02/2022 02:15;complet;dev_integral;250 € - 360 €;Saint-Léonard
+569;Client 569;F;1938;Non;€120K +;Private;Pickup;Highly Urban/ Urban;15.0;0;09/03/2022 09:41;complet;dev_integral;250 € - 360 €;Charchigné
+570;Client 570;M;1993;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;13.0;4;31/05/2022 15:49;complet;dev_express;250 € - 360 €;Bormes-les-Mimosas
+571;Client 571;F;1962;Non;€120K +;Private;Minivan;Highly Urban/ Urban;14.0;0;02/03/2022 14:10;complet;dev_premium;250 € - 360 €;L'Île-Rousse
+572;Client 572;F;2002;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;24.0;0;24/04/2022 21:41;complet;dev_premium;470 € - 580 €;Flers
+573;Client 573;F;1957;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;10.0;3;21/01/2022 07:59;complet;dev_express;250 € - 360 €;Thouars
+574;Client 574;F;1951;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;13.0;4;07/03/2022 19:35;complet;dev_express;250 € - 360 €;Châtellerault
+575;Client 575;F;2016;Non;€0 - €20K;Private;Pickup;z_Highly Rural/ Rural;17.0;0;31/05/2022 11:14;complet;dev_express;250 € - 360 €;Sévrier
+576;Client 576;M;1939;Non;€60K - €80K;Commercial;Van;Highly Urban/ Urban;8.0;4;13/05/2022 02:36;complet;dev_integral;250 € - 360 €;Paris
+577;Client 577;F;1960;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;15.0;0;23/05/2022 03:01;complet;dev_integral;250 € - 360 €;Dugny-sur-Meuse
+578;Client 578;M;2007;Non;€0 - €20K;Commercial;Minivan;Highly Urban/ Urban;10.0;1;11/05/2022 03:02;complet;dev_express;250 € - 360 €;Cesson-Sévigné
+579;Client 579;M;1967;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;1.0;3;05/04/2022 00:02;complet;dev_integral;250 € - 360 €;Gramat
+580;Client 580;M;1978;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;1.0;8;27/05/2022 18:51;complet;dev_integral;250 € - 360 €;Fesches-le-Châtel
+581;Client 581;M;1969;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;2;20/04/2022 23:17;complet;dev_premium;360 € - 470 €;Sainte-Tulle
+582;Client 582;M;1974;Non;€0 - €20K;Commercial;Panel Truck;Highly Urban/ Urban;10.0;0;25/01/2022 19:36;complet;dev_express;250 € - 360 €;Ajaccio
+583;Client 583;M;1969;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;13.0;1;08/04/2022 01:19;complet;dev_express;250 € - 360 €;Combles-en-Barrois
+584;Client 584;M;1935;Non;€0 - €20K;Private;Minivan;z_Highly Rural/ Rural;7.0;0;18/02/2022 12:19;complet;dev_integral;250 € - 360 €;Morangis
+585;Client 585;F;1986;Non;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;;0;12/01/2022 18:29;complet;dev_integral;250 € - 360 €;Gros-Theil
+586;Client 586;M;1936;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;1.0;2;10/01/2022 15:03;complet;dev_integral;250 € - 360 €;Cambo-les-Bains
+587;Client 587;M;1932;Oui;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;5.0;1;10/05/2022 11:42;complet;dev_premium;360 € - 470 €;Chaley
+588;Client 588;M;1936;Non;Non renseigné;Private;z_SUV;z_Highly Rural/ Rural;10.0;0;23/03/2022 10:29;complet;dev_premium;360 € - 470 €;Fel
+589;Client 589;M;1961;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;3.0;5;19/02/2022 03:28;complet;dev_integral;250 € - 360 €;Saint-Pierre-d'Irube
+590;Client 590;M;1987;Oui;Non renseigné;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;27/04/2022 20:44;complet;dev_express;250 € - 360 €;Marle
+591;Client 591;F;1945;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;0;23/04/2022 04:43;complet;dev_express;250 € - 360 €;Louvres
+592;Client 592;F;1974;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;10.0;5;21/05/2022 08:25;complet;dev_integral;250 € - 360 €;Ivry-sur-Seine
+593;Client 593;M;2018;Non;€80K - €120K;Private;Van;Highly Urban/ Urban;;6;06/01/2022 08:39;complet;dev_express;250 € - 360 €;Gagny
+594;Client 594;M;2020;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;14.0;0;08/04/2022 00:39;complet;dev_integral;250 € - 360 €;Paris
+595;Client 595;F;1941;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;6.0;0;25/04/2022 11:54;complet;dev_integral;250 € - 360 €;Groslay
+596;Client 596;M;1938;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;19.0;1;09/01/2022 11:28;complet;dev_express;250 € - 360 €;Courneuve
+597;Client 597;M;1982;Non;€0 - €20K;Private;Minivan;z_Highly Rural/ Rural;6.0;2;05/02/2022 05:34;complet;dev_integral;250 € - 360 €;Villejuif
+598;Client 598;M;1935;Non;€120K +;Private;Minivan;Highly Urban/ Urban;14.0;2;01/03/2022 11:59;complet;dev_integral;250 € - 360 €;Dun-sur-Auron
+599;Client 599;M;1960;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;20.0;2;14/02/2022 22:46;complet;dev_premium;360 € - 470 €;Chapelle-Anthenaise
+600;Client 600;F;1993;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;7.0;7;13/02/2022 06:18;complet;dev_integral;250 € - 360 €;Fêche-l'Église
+601;Client 601;M;1966;Oui;Non renseigné;Commercial;Pickup;z_Highly Rural/ Rural;1.0;2;11/03/2022 21:23;complet;dev_premium;360 € - 470 €;Armeau
+602;Client 602;M;1965;Oui;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;13.0;1;12/01/2022 21:51;complet;dev_express;250 € - 360 €;Feuquières-en-Vimeu
+603;Client 603;F;1963;Oui;€0 - €20K;Private;Minivan;Highly Urban/ Urban;13.0;0;10/03/2022 05:03;complet;dev_integral;250 € - 360 €;Bretteville-sur-Laize
+604;Client 604;M;1959;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;6.0;0;10/05/2022 21:14;complet;dev_express;250 € - 360 €;Furiani
+605;Client 605;F;2013;Non;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;1.0;3;11/01/2022 06:26;complet;dev_premium;470 € - 580 €;Canourgue
+606;Client 606;M;1992;Non;Non renseigné;Private;Sports Car;z_Highly Rural/ Rural;7.0;0;05/05/2022 14:13;complet;dev_premium;360 € - 470 €;Anglet
+607;Client 607;F;1966;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;15.0;1;21/02/2022 10:07;complet;dev_integral;250 € - 360 €;Sébazac-Concourès
+608;Client 608;M;1970;Non;€60K - €80K;Commercial;Van;Highly Urban/ Urban;13.0;0;07/04/2022 18:39;complet;dev_premium;470 € - 580 €;Montluçon
+609;Client 609;M;1954;Non;€60K - €80K;Commercial;Minivan;Highly Urban/ Urban;7.0;2;07/02/2022 05:05;complet;dev_integral;250 € - 360 €;Laruns
+610;Client 610;F;2019;Non;€20K - €40K;Commercial;z_SUV;z_Highly Rural/ Rural;7.0;0;28/05/2022 05:50;complet;dev_express;250 € - 360 €;Vayrac
+611;Client 611;M;1959;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;7.0;0;03/03/2022 11:24;complet;dev_integral;250 € - 360 €;Damigny
+612;Client 612;M;2000;Non;€120K +;Private;Minivan;Highly Urban/ Urban;16.0;0;07/02/2022 03:36;complet;dev_integral;250 € - 360 €;Charleville-Mézières
+613;Client 613;F;1987;Non;€80K - €120K;Private;z_SUV;z_Highly Rural/ Rural;15.0;0;07/01/2022 05:37;complet;dev_premium;250 € - 360 €;Châlons-en-Champagne
+614;Client 614;M;2017;Non;€20K - €40K;Commercial;Minivan;Highly Urban/ Urban;7.0;0;26/02/2022 03:44;complet;dev_premium;470 € - 580 €;Auxerre
+615;Client 615;M;2008;Non;€120K +;Private;Van;Highly Urban/ Urban;18.0;0;07/04/2022 19:50;complet;dev_integral;250 € - 360 €;Saint-Ouen
+616;Client 616;F;1951;Non;€120K +;Private;Sports Car;Highly Urban/ Urban;21.0;4;22/03/2022 11:12;complet;dev_express;250 € - 360 €;Champagnole
+617;Client 617;F;2010;Non;€80K - €120K;Private;z_SUV;z_Highly Rural/ Rural;13.0;1;12/01/2022 10:58;complet;dev_integral;250 € - 360 €;Donzacq
+618;Client 618;M;1968;Oui;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;11.0;0;10/03/2022 08:37;complet;dev_integral;250 € - 360 €;Bompas
+619;Client 619;F;2017;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;;2;11/02/2022 07:56;complet;dev_integral;250 € - 360 €;Laroque-des-Albères
+620;Client 620;F;1994;Non;€80K - €120K;Private;Minivan;z_Highly Rural/ Rural;;2;17/04/2022 04:32;complet;dev_express;250 € - 360 €;Gondrin
+621;Client 621;M;1954;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;5.0;3;20/05/2022 14:45;complet;dev_integral;250 € - 360 €;Aubiac
+622;Client 622;F;2005;Non;€120K +;Commercial;Panel Truck;z_Highly Rural/ Rural;17.0;0;08/01/2022 16:09;complet;dev_express;250 € - 360 €;Vichy
+623;Client 623;M;2005;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;14.0;3;14/03/2022 14:20;complet;dev_express;250 € - 360 €;Moulins
+624;Client 624;M;2003;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;10.0;0;23/05/2022 23:35;complet;dev_integral;250 € - 360 €;Louannec
+625;Client 625;M;2004;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;11.0;1;09/04/2022 21:55;complet;dev_integral;250 € - 360 €;Saint-Aubin
+626;Client 626;M;2005;Non;€40K - €60K;Private;Van;Highly Urban/ Urban;18.0;0;28/04/2022 17:36;complet;dev_integral;250 € - 360 €;Alençon
+627;Client 627;M;2008;Non;€20K - €40K;Private;Pickup;z_Highly Rural/ Rural;1.0;3;17/02/2022 09:12;complet;dev_premium;470 € - 580 €;Gidy
+628;Client 628;F;1960;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;11.0;2;16/04/2022 00:49;complet;dev_express;250 € - 360 €;Aix-les-Bains
+629;Client 629;M;2012;Non;€120K +;Private;Minivan;Highly Urban/ Urban;13.0;0;14/04/2022 05:42;complet;dev_express;250 € - 360 €;Polaincourt-et-Clairefontaine
+630;Client 630;M;1985;Non;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;9.0;0;26/04/2022 08:50;complet;dev_premium;360 € - 470 €;Biarritz
+631;Client 631;M;1977;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;1.0;4;24/04/2022 02:36;complet;dev_integral;250 € - 360 €;Saint-Jean-de-Barrou
+632;Client 632;M;2004;Non;€40K - €60K;Private;Pickup;Highly Urban/ Urban;8.0;0;03/03/2022 12:44;complet;dev_integral;250 € - 360 €;Blavozy
+633;Client 633;M;2020;Non;€120K +;Private;Minivan;Highly Urban/ Urban;15.0;1;18/03/2022 03:03;complet;dev_integral;250 € - 360 €;L'Aigle
+634;Client 634;F;1931;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;8.0;2;28/04/2022 02:43;complet;dev_integral;250 € - 360 €;Alby-sur-Chéran
+635;Client 635;F;2007;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;7.0;1;22/03/2022 08:53;complet;dev_express;250 € - 360 €;Saint-André-les-Vergers
+636;Client 636;F;2003;Oui;€60K - €80K;Commercial;Pickup;Highly Urban/ Urban;10.0;4;08/02/2022 19:17;complet;dev_integral;250 € - 360 €;Valence
+637;Client 637;F;1997;Non;€80K - €120K;Commercial;Panel Truck;z_Highly Rural/ Rural;;0;08/02/2022 07:38;complet;dev_integral;250 € - 360 €;Saint-André-de-l'Eure
+638;Client 638;F;1957;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;07/02/2022 21:25;complet;dev_integral;250 € - 360 €;Albi
+639;Client 639;F;1950;Non;€60K - €80K;Commercial;Pickup;Highly Urban/ Urban;1.0;2;22/03/2022 09:48;complet;dev_express;250 € - 360 €;Saint-Lô
+640;Client 640;F;1940;Non;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;1.0;1;13/04/2022 20:56;complet;dev_premium;360 € - 470 €;Dargnies
+641;Client 641;M;1956;Oui;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;1.0;4;16/02/2022 18:11;complet;dev_premium;470 € - 580 €;Brest
+642;Client 642;F;2008;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;7.0;0;01/03/2022 17:16;complet;dev_integral;250 € - 360 €;Blanc
+643;Client 643;F;1993;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;17/01/2022 23:45;complet;dev_integral;250 € - 360 €;Labruguière
+644;Client 644;M;1967;Oui;€0 - €20K;Private;Minivan;z_Highly Rural/ Rural;7.0;2;21/05/2022 16:11;complet;dev_integral;250 € - 360 €;Saint-Rémy
+645;Client 645;F;1976;Non;€120K +;Private;Minivan;Highly Urban/ Urban;17.0;6;17/04/2022 06:36;complet;dev_premium;250 € - 360 €;Bury
+646;Client 646;F;2004;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;1.0;0;13/02/2022 20:08;complet;dev_integral;250 € - 360 €;Gap
+647;Client 647;M;1951;Non;€120K +;Private;Minivan;Highly Urban/ Urban;25.0;0;08/03/2022 23:49;complet;dev_express;250 € - 360 €;Saint-Junien
+648;Client 648;M;1966;Non;€80K - €120K;Commercial;Minivan;z_Highly Rural/ Rural;9.0;1;01/05/2022 01:21;complet;dev_integral;250 € - 360 €;Chambray-lès-Tours
+649;Client 649;M;1996;Non;€120K +;Commercial;Pickup;Highly Urban/ Urban;16.0;0;10/02/2022 01:30;complet;dev_integral;250 € - 360 €;Guéret
+650;Client 650;F;1994;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;;0;17/03/2022 21:10;complet;dev_integral;250 € - 360 €;Tours
+651;Client 651;M;1960;Non;€20K - €40K;Commercial;z_SUV;z_Highly Rural/ Rural;8.0;1;10/02/2022 16:25;complet;dev_premium;250 € - 360 €;Saint-Dizier
+652;Client 652;F;1964;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;1.0;0;16/01/2022 23:49;complet;dev_integral;250 € - 360 €;Galan
+653;Client 653;M;1956;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;1.0;6;05/01/2022 00:48;complet;dev_integral;250 € - 360 €;Rougemont-le-Château
+654;Client 654;F;1982;Oui;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;18.0;0;11/01/2022 17:35;complet;dev_vip;790 € - 890 €;Souterraine
+655;Client 655;M;1968;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;1.0;0;11/03/2022 05:31;complet;dev_integral;250 € - 360 €;Conches-sur-Gondoire
+656;Client 656;F;1947;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;10/01/2022 23:47;complet;dev_integral;250 € - 360 €;Tulle
+657;Client 657;M;1969;Oui;€20K - €40K;Commercial;Van;Highly Urban/ Urban;1.0;1;15/05/2022 02:01;complet;dev_integral;250 € - 360 €;Vernon
+658;Client 658;F;1953;Oui;Non renseigné;Private;z_SUV;z_Highly Rural/ Rural;6.0;2;03/01/2022 03:03;complet;dev_integral;250 € - 360 €;Milly-sur-Bradon
+659;Client 659;F;1951;Non;€120K +;Private;Minivan;Highly Urban/ Urban;11.0;1;22/01/2022 15:37;complet;dev_integral;250 € - 360 €;Saint-Usage
+660;Client 660;F;1945;Non;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;4.0;1;03/04/2022 02:13;complet;dev_premium;360 € - 470 €;Saint-Malo
+661;Client 661;F;1997;Non;€20K - €40K;Commercial;Pickup;z_Highly Rural/ Rural;14.0;4;15/03/2022 03:15;complet;dev_integral;250 € - 360 €;Saint-Palais
+662;Client 662;M;1949;Non;€0 - €20K;Private;Van;z_Highly Rural/ Rural;22.0;2;11/05/2022 04:46;complet;dev_vip;890 € - 990 €;Esley
+663;Client 663;M;1971;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;16.0;5;20/02/2022 07:23;complet;dev_premium;470 € - 580 €;Orléans
+664;Client 664;M;1979;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;6.0;0;07/03/2022 13:13;complet;dev_integral;250 € - 360 €;Saint-Ouën-des-Toits
+665;Client 665;M;1980;Oui;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;18.0;4;11/04/2022 09:32;complet;dev_integral;250 € - 360 €;Châteauroux
+666;Client 666;M;1947;Oui;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;0;21/01/2022 11:49;complet;dev_premium;470 € - 580 €;Sougé-le-Ganelon
+667;Client 667;M;2017;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;12.0;0;22/03/2022 17:47;complet;dev_integral;250 € - 360 €;Fontaine
+668;Client 668;F;1972;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;13.0;4;11/04/2022 05:16;complet;dev_integral;250 € - 360 €;Montignac
+669;Client 669;F;2014;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;2;17/01/2022 13:39;complet;dev_integral;250 € - 360 €;Valence
+670;Client 670;M;2001;Oui;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;15.0;4;08/04/2022 10:46;complet;dev_integral;250 € - 360 €;Guécélard
+671;Client 671;F;2003;Non;€0 - €20K;Commercial;z_SUV;z_Highly Rural/ Rural;8.0;3;10/05/2022 07:15;complet;dev_express;250 € - 360 €;Borgo
+672;Client 672;M;1986;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;1.0;1;23/02/2022 18:30;complet;dev_integral;250 € - 360 €;Longnes
+673;Client 673;M;1956;Non;€60K - €80K;Private;Pickup;z_Highly Rural/ Rural;1.0;1;02/04/2022 18:10;complet;dev_express;250 € - 360 €;Champigny-sur-Marne
+674;Client 674;F;1979;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;6.0;1;15/02/2022 10:36;complet;dev_integral;250 € - 360 €;Saint-Germain-au-Mont-d'Or
+675;Client 675;M;1943;Non;€20K - €40K;Commercial;Minivan;z_Highly Rural/ Rural;1.0;0;08/01/2022 08:43;complet;dev_express;250 € - 360 €;Quincy
+676;Client 676;M;1938;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;16.0;4;24/03/2022 03:47;complet;dev_integral;250 € - 360 €;Saint-Étienne
+677;Client 677;F;1959;Non;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;11.0;5;24/05/2022 19:47;complet;dev_integral;250 € - 360 €;Cadenet
+678;Client 678;F;1991;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;15.0;5;17/01/2022 11:38;complet;dev_integral;250 € - 360 €;Nançay
+679;Client 679;M;1953;Oui;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;1.0;3;17/03/2022 13:43;complet;dev_integral;250 € - 360 €;Reims
+680;Client 680;M;1998;Non;€40K - €60K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;18/03/2022 08:18;complet;dev_integral;250 € - 360 €;L'Isle-Jourdain
+681;Client 681;F;2013;Oui;€20K - €40K;Commercial;Van;Highly Urban/ Urban;5.0;1;05/01/2022 16:14;complet;dev_express;250 € - 360 €;Dax
+682;Client 682;M;2002;Non;€120K +;Commercial;Van;Highly Urban/ Urban;5.0;0;13/05/2022 22:19;complet;dev_premium;360 € - 470 €;Puy-en-Velay
+683;Client 683;M;1953;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;8.0;0;14/01/2022 17:48;complet;dev_express;250 € - 360 €;Uchacq-et-Parentis
+684;Client 684;F;1955;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;1;16/01/2022 03:47;complet;dev_premium;470 € - 580 €;Château-du-Loir
+685;Client 685;F;1988;Non;€20K - €40K;Commercial;z_SUV;Highly Urban/ Urban;6.0;1;13/04/2022 12:18;complet;dev_integral;250 € - 360 €;Nanterre
+686;Client 686;F;2019;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;11.0;0;09/03/2022 00:05;complet;dev_express;250 € - 360 €;Gap
+687;Client 687;M;1957;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;1.0;0;15/03/2022 22:50;complet;dev_express;250 € - 360 €;Athis-de-l'Orne
+688;Client 688;M;1959;Non;€80K - €120K;Commercial;Van;z_Highly Rural/ Rural;8.0;2;07/02/2022 07:14;complet;dev_integral;250 € - 360 €;Bourges
+689;Client 689;M;1945;Non;€60K - €80K;Commercial;Minivan;Highly Urban/ Urban;3.0;0;08/03/2022 11:24;complet;dev_express;250 € - 360 €;Magny-les-Hameaux
+690;Client 690;F;1995;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;5.0;0;07/01/2022 08:04;complet;dev_premium;360 € - 470 €;Mende
+691;Client 691;M;1977;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;15.0;0;13/04/2022 05:45;complet;dev_premium;360 € - 470 €;Hautecour
+692;Client 692;M;1943;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;20.0;0;30/05/2022 04:03;complet;dev_integral;250 € - 360 €;Paulhan
+693;Client 693;F;2018;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;8.0;4;10/03/2022 05:51;complet;dev_premium;470 € - 580 €;Monteils
+694;Client 694;F;1982;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;8.0;1;02/05/2022 04:51;complet;dev_express;250 € - 360 €;Villebernier
+695;Client 695;F;1973;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;2;04/05/2022 19:49;complet;dev_express;250 € - 360 €;Baraqueville
+696;Client 696;M;2016;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;12.0;2;17/05/2022 09:44;complet;dev_express;250 € - 360 €;Houeillès
+697;Client 697;M;1972;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;11.0;0;25/04/2022 12:32;complet;dev_express;250 € - 360 €;Guéret
+698;Client 698;M;1989;Non;€120K +;Private;Minivan;z_Highly Rural/ Rural;10.0;1;11/05/2022 08:01;complet;dev_express;250 € - 360 €;Saint-Symphorien
+699;Client 699;M;1973;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;12.0;1;05/02/2022 16:47;complet;dev_integral;250 € - 360 €;Pont-de-l'Isère
+700;Client 700;F;1963;Non;€0 - €20K;Private;Minivan;z_Highly Rural/ Rural;1.0;6;03/03/2022 08:35;complet;dev_express;250 € - 360 €;Grisolles
+701;Client 701;M;1963;Oui;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;5.0;0;18/05/2022 20:23;complet;dev_integral;250 € - 360 €;Clermont-Ferrand
+702;Client 702;F;1982;Non;€40K - €60K;Commercial;Minivan;z_Highly Rural/ Rural;9.0;0;25/02/2022 18:38;complet;dev_integral;250 € - 360 €;Chaumontel
+703;Client 703;M;1945;Non;€20K - €40K;Commercial;Panel Truck;Highly Urban/ Urban;5.0;5;18/01/2022 19:21;complet;dev_vip;680 € - 790 €;Montauban
+704;Client 704;F;1967;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;7.0;3;08/05/2022 19:44;complet;dev_premium;470 € - 580 €;Limoges
+705;Client 705;M;1958;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;5.0;0;19/02/2022 06:28;complet;dev_express;250 € - 360 €;Lagny-sur-Marne
+706;Client 706;F;2018;Non;Non renseigné;Commercial;Pickup;Highly Urban/ Urban;3.0;6;10/01/2022 07:16;complet;dev_express;250 € - 360 €;Ancerville
+707;Client 707;F;1953;Non;€60K - €80K;Commercial;Minivan;z_Highly Rural/ Rural;1.0;1;30/03/2022 01:16;complet;dev_express;250 € - 360 €;Évry
+708;Client 708;F;2002;Oui;€60K - €80K;Private;Van;Highly Urban/ Urban;;1;07/05/2022 20:16;complet;dev_express;250 € - 360 €;Montigny-lès-Cormeilles
+709;Client 709;F;2011;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;0;20/05/2022 20:22;complet;dev_express;250 € - 360 €;Guignicourt
+710;Client 710;F;1972;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;21.0;3;07/05/2022 13:12;complet;dev_integral;250 € - 360 €;Beaune
+711;Client 711;M;1953;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;1.0;0;04/04/2022 10:38;complet;dev_premium;360 € - 470 €;Saint-Brieuc-des-Iffs
+712;Client 712;F;2007;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;10.0;0;04/03/2022 16:27;complet;dev_express;250 € - 360 €;Thionville
+713;Client 713;M;1954;Non;Non renseigné;Commercial;Panel Truck;Highly Urban/ Urban;;1;11/02/2022 02:39;complet;dev_integral;250 € - 360 €;Cozes
+714;Client 714;F;1939;Oui;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;7.0;0;31/03/2022 21:08;complet;dev_premium;360 € - 470 €;Verdun
+715;Client 715;F;1955;Non;€120K +;Private;Van;Highly Urban/ Urban;1.0;0;26/01/2022 05:48;complet;dev_express;250 € - 360 €;Paris
+716;Client 716;M;1943;Oui;Non renseigné;Commercial;Sports Car;Highly Urban/ Urban;1.0;2;13/02/2022 02:19;complet;dev_integral;250 € - 360 €;Pau
+717;Client 717;M;2017;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;17.0;0;15/01/2022 14:58;complet;dev_premium;360 € - 470 €;Avignon
+718;Client 718;M;2000;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;9.0;0;23/02/2022 06:59;complet;dev_integral;250 € - 360 €;Moncontour
+719;Client 719;F;2001;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;15.0;0;21/03/2022 16:57;complet;dev_integral;250 € - 360 €;Montigny-lès-Vesoul
+720;Client 720;M;1994;Non;€120K +;Private;Sports Car;Highly Urban/ Urban;11.0;0;29/04/2022 21:33;complet;dev_integral;250 € - 360 €;Vétrigne
+721;Client 721;M;1964;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;9.0;0;07/03/2022 01:05;complet;dev_express;250 € - 360 €;Boulogne-sur-Mer
+722;Client 722;M;1950;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;5.0;0;29/05/2022 02:01;complet;dev_express;250 € - 360 €;Dorceau
+723;Client 723;M;1970;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;1.0;2;10/03/2022 20:21;complet;dev_express;250 € - 360 €;Saint-Hilaire-de-Voust
+724;Client 724;M;1963;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;11.0;2;08/02/2022 03:10;complet;dev_express;250 € - 360 €;Noyon
+725;Client 725;F;2006;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;11.0;8;11/04/2022 13:50;complet;dev_integral;250 € - 360 €;Saint-Amand-Montrond
+726;Client 726;M;1938;Non;Non renseigné;Private;Van;Highly Urban/ Urban;9.0;0;26/05/2022 21:07;complet;dev_integral;250 € - 360 €;Briançon
+727;Client 727;M;2021;Oui;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;6.0;4;18/04/2022 15:10;complet;dev_express;250 € - 360 €;Bourg-la-Reine
+728;Client 728;F;2020;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;17.0;0;19/02/2022 13:54;complet;dev_express;250 € - 360 €;Bar-le-Duc
+729;Client 729;F;1994;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;9.0;3;12/04/2022 01:15;complet;dev_integral;250 € - 360 €;Chambolle-Musigny
+730;Client 730;M;1959;Non;€20K - €40K;Commercial;Pickup;z_Highly Rural/ Rural;3.0;0;17/04/2022 18:55;complet;dev_integral;250 € - 360 €;Reims
+731;Client 731;M;1956;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;7.0;4;23/03/2022 15:44;complet;dev_integral;250 € - 360 €;Amfreville
+732;Client 732;M;1985;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;14.0;4;05/02/2022 20:30;complet;dev_integral;250 € - 360 €;Dampierre
+733;Client 733;F;1963;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;;0;26/03/2022 22:33;complet;dev_premium;360 € - 470 €;Fourques
+734;Client 734;F;1983;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;10.0;3;18/04/2022 16:02;complet;dev_integral;250 € - 360 €;Canet-en-Roussillon
+735;Client 735;M;2008;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;1.0;1;01/03/2022 15:06;complet;dev_integral;250 € - 360 €;Pierrelatte
+736;Client 736;M;2008;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;1.0;0;30/01/2022 08:56;complet;dev_integral;250 € - 360 €;Couzeix
+737;Client 737;F;2014;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;1.0;6;02/02/2022 16:00;complet;dev_express;250 € - 360 €;Viriat
+738;Client 738;M;1967;Oui;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;6.0;0;08/04/2022 12:42;complet;dev_integral;250 € - 360 €;Songy
+739;Client 739;F;1959;Non;€40K - €60K;Commercial;Panel Truck;Highly Urban/ Urban;1.0;4;01/04/2022 19:14;complet;dev_express;250 € - 360 €;Cébazat
+740;Client 740;M;2003;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;1.0;0;07/01/2022 22:44;complet;dev_premium;250 € - 360 €;Saint-Égrève
+741;Client 741;F;1962;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;14.0;3;06/05/2022 19:34;complet;dev_integral;250 € - 360 €;Seyssinet-Pariset
+742;Client 742;M;2006;Non;€80K - €120K;Private;Van;Highly Urban/ Urban;9.0;2;26/05/2022 22:28;complet;dev_premium;470 € - 580 €;Villeneuve
+743;Client 743;M;1959;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;09/03/2022 14:05;complet;dev_integral;250 € - 360 €;L'Arbresle
+744;Client 744;M;1966;Oui;€60K - €80K;Private;Van;Highly Urban/ Urban;10.0;3;04/02/2022 19:11;complet;dev_integral;250 € - 360 €;Damigny
+745;Client 745;M;1956;Non;€80K - €120K;Commercial;Minivan;z_Highly Rural/ Rural;9.0;3;30/03/2022 17:53;complet;dev_express;250 € - 360 €;Paroy-sur-Tholon
+746;Client 746;M;1969;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;05/01/2022 01:49;complet;dev_integral;250 € - 360 €;Calais
+747;Client 747;M;1959;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;8.0;0;13/03/2022 10:35;complet;dev_express;250 € - 360 €;Saint-Florent-sur-Cher
+748;Client 748;M;1957;Non;€0 - €20K;Commercial;z_SUV;z_Highly Rural/ Rural;12.0;0;13/04/2022 11:44;complet;dev_integral;250 € - 360 €;Gignac-la-Nerthe
+749;Client 749;M;1956;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;14.0;1;03/05/2022 02:56;complet;dev_express;250 € - 360 €;Rebeuville
+750;Client 750;F;1950;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;5.0;5;10/03/2022 06:59;complet;dev_express;250 € - 360 €;Hagetmau
+751;Client 751;M;1994;Non;€80K - €120K;Commercial;z_SUV;Highly Urban/ Urban;8.0;0;19/03/2022 08:30;complet;dev_integral;250 € - 360 €;Narbonne
+752;Client 752;M;2020;Oui;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;9.0;3;12/05/2022 21:36;complet;dev_integral;250 € - 360 €;Saint-Bohaire
+753;Client 753;M;1950;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;3.0;4;19/04/2022 01:39;complet;dev_express;250 € - 360 €;Pamiers
+754;Client 754;F;1995;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;20.0;0;09/03/2022 04:34;complet;dev_express;250 € - 360 €;Ploudalmézeau
+755;Client 755;M;1967;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;9.0;1;30/03/2022 06:16;complet;dev_integral;250 € - 360 €;Saint-Marcel-lès-Valence
+756;Client 756;M;1985;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;6.0;2;17/01/2022 09:47;complet;dev_integral;250 € - 360 €;Fel
+757;Client 757;F;1971;Non;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;1.0;7;14/04/2022 13:13;complet;dev_express;250 € - 360 €;Paris
+758;Client 758;M;1964;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;8.0;1;07/04/2022 23:39;complet;dev_premium;250 € - 360 €;Warcq
+759;Client 759;F;1995;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;10.0;1;26/01/2022 06:42;complet;dev_integral;250 € - 360 €;Saint-Maurice-de-Beynost
+760;Client 760;M;2007;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;16.0;2;26/01/2022 18:39;complet;dev_integral;250 € - 360 €;Hyères
+761;Client 761;F;1982;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;11.0;2;15/03/2022 15:42;complet;dev_integral;250 € - 360 €;Mériel
+762;Client 762;F;1969;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;17.0;0;30/05/2022 14:54;complet;dev_integral;250 € - 360 €;Fussy
+763;Client 763;M;2017;Oui;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;1.0;2;09/04/2022 00:17;complet;dev_express;250 € - 360 €;Étouy
+764;Client 764;F;1976;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;8.0;0;21/05/2022 17:50;complet;dev_premium;360 € - 470 €;Chambray
+765;Client 765;M;2015;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;10.0;0;01/01/2022 05:44;complet;dev_integral;250 € - 360 €;Amiens
+766;Client 766;M;1932;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;15.0;2;24/02/2022 00:48;complet;dev_express;250 € - 360 €;Abbeville
+767;Client 767;F;1996;Non;€120K +;Private;Pickup;Highly Urban/ Urban;10.0;2;12/01/2022 00:48;complet;dev_integral;250 € - 360 €;Colombes
+768;Client 768;M;1952;Oui;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;1.0;0;14/01/2022 11:52;complet;dev_integral;250 € - 360 €;Lauzerte
+769;Client 769;F;1963;Non;€0 - €20K;Commercial;Pickup;z_Highly Rural/ Rural;7.0;1;02/02/2022 05:11;complet;dev_integral;250 € - 360 €;Embrun
+770;Client 770;M;1974;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;14.0;2;10/04/2022 20:24;complet;dev_integral;250 € - 360 €;Seyne-sur-Mer
+771;Client 771;M;2009;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;5.0;4;28/05/2022 19:58;complet;dev_integral;250 € - 360 €;Brest
+772;Client 772;M;1988;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;1.0;1;19/05/2022 06:35;complet;dev_integral;250 € - 360 €;Bar
+773;Client 773;F;1972;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;9.0;0;05/03/2022 18:04;complet;dev_integral;250 € - 360 €;Nersac
+774;Client 774;M;1953;Non;€60K - €80K;Commercial;Pickup;Highly Urban/ Urban;16.0;3;04/01/2022 08:53;complet;dev_express;250 € - 360 €;Paris
+775;Client 775;M;1995;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;9.0;2;23/04/2022 00:38;complet;dev_integral;250 € - 360 €;Criel-sur-Mer
+776;Client 776;M;1953;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;16.0;2;19/01/2022 08:22;complet;dev_integral;250 € - 360 €;Aulnay-sous-Bois
+777;Client 777;M;1963;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;19.0;0;14/05/2022 21:13;complet;dev_integral;250 € - 360 €;Boutiers-Saint-Trojan
+778;Client 778;M;1958;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;4.0;4;22/02/2022 09:35;complet;dev_integral;250 € - 360 €;Dombasle-sur-Meurthe
+779;Client 779;F;1994;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;17.0;0;24/02/2022 12:40;complet;dev_integral;250 € - 360 €;Troyes
+780;Client 780;M;1959;Non;Non renseigné;Commercial;Panel Truck;Highly Urban/ Urban;12.0;0;26/05/2022 12:01;complet;dev_express;250 € - 360 €;Masseube
+781;Client 781;F;1982;Non;€80K - €120K;Commercial;z_SUV;z_Highly Rural/ Rural;1.0;1;14/01/2022 18:54;complet;dev_integral;250 € - 360 €;Bidart
+782;Client 782;M;1959;Non;€60K - €80K;Private;Minivan;z_Highly Rural/ Rural;16.0;1;06/01/2022 06:03;complet;dev_premium;470 € - 580 €;Ychoux
+783;Client 783;F;2017;Oui;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;22.0;3;21/01/2022 20:55;complet;dev_integral;250 € - 360 €;Renaison
+784;Client 784;M;1978;Non;€120K +;Private;Minivan;Highly Urban/ Urban;12.0;2;12/04/2022 15:22;complet;dev_integral;250 € - 360 €;Éclaron-Braucourt-Sainte-Livière
+785;Client 785;M;1973;Non;€120K +;Private;Minivan;Highly Urban/ Urban;15.0;1;05/01/2022 05:59;complet;dev_premium;360 € - 470 €;Cusset
+786;Client 786;M;1960;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;11.0;1;10/01/2022 06:19;complet;dev_integral;250 € - 360 €;Manosque
+787;Client 787;F;1961;Non;€60K - €80K;Commercial;Minivan;z_Highly Rural/ Rural;1.0;0;08/04/2022 06:27;complet;dev_premium;250 € - 360 €;Monsempron-Libos
+788;Client 788;M;1961;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;15.0;3;30/03/2022 15:14;complet;dev_integral;250 € - 360 €;Saint-Just
+789;Client 789;M;1945;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;16.0;0;12/04/2022 05:10;complet;dev_express;250 € - 360 €;Quimper
+790;Client 790;F;1942;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;1.0;1;15/03/2022 08:34;complet;dev_integral;250 € - 360 €;Bormes-les-Mimosas
+791;Client 791;F;1941;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;4;12/03/2022 10:18;complet;dev_integral;250 € - 360 €;Grilly
+792;Client 792;M;1959;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;17.0;1;14/03/2022 14:38;complet;dev_integral;250 € - 360 €;Ghisonaccia
+793;Client 793;M;1938;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;13.0;0;09/01/2022 22:09;complet;dev_integral;250 € - 360 €;Châteauroux
+794;Client 794;M;1968;Non;Non renseigné;Commercial;z_SUV;Highly Urban/ Urban;7.0;1;27/02/2022 16:55;complet;dev_express;250 € - 360 €;Penne-sur-Huveaune
+795;Client 795;F;1954;Oui;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;10.0;0;02/02/2022 08:14;complet;dev_premium;470 € - 580 €;Bessancourt
+796;Client 796;M;1954;Non;€60K - €80K;Commercial;Sports Car;Highly Urban/ Urban;1.0;0;06/03/2022 16:17;complet;dev_express;250 € - 360 €;Chaumont
+797;Client 797;M;1966;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;12.0;0;06/01/2022 06:25;complet;dev_express;250 € - 360 €;Château-Arnoux-Saint-Auban
+798;Client 798;F;1987;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;9.0;0;03/04/2022 02:20;complet;dev_integral;250 € - 360 €;Maîche
+799;Client 799;F;1963;Non;€120K +;Private;Minivan;Highly Urban/ Urban;10.0;0;30/04/2022 23:07;complet;dev_integral;250 € - 360 €;Fleurance
+800;Client 800;M;1939;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;13.0;0;19/03/2022 17:09;complet;dev_integral;250 € - 360 €;Cournon-d'Auvergne
+801;Client 801;F;1936;Non;€40K - €60K;Private;Minivan;z_Highly Rural/ Rural;9.0;0;24/01/2022 05:53;complet;dev_express;250 € - 360 €;Plouzévédé
+802;Client 802;F;1963;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;1.0;0;23/02/2022 04:42;complet;dev_integral;250 € - 360 €;Montesson
+803;Client 803;M;1961;Non;€0 - €20K;Commercial;Sports Car;Highly Urban/ Urban;8.0;7;17/05/2022 10:24;complet;dev_integral;250 € - 360 €;Prayssac
+804;Client 804;F;1997;Non;Non renseigné;Private;Van;Highly Urban/ Urban;1.0;4;06/03/2022 00:45;complet;dev_express;250 € - 360 €;Limas
+805;Client 805;F;2011;Non;€0 - €20K;Private;Pickup;Highly Urban/ Urban;1.0;1;13/03/2022 16:07;complet;dev_integral;250 € - 360 €;Grigny
+806;Client 806;M;2019;Non;Non renseigné;Commercial;z_SUV;Highly Urban/ Urban;10.0;0;10/02/2022 20:24;complet;dev_premium;360 € - 470 €;Gensac-la-Pallue
+807;Client 807;F;1957;Non;Non renseigné;Private;z_SUV;Highly Urban/ Urban;16.0;0;16/01/2022 04:07;complet;dev_integral;250 € - 360 €;Mériel
+808;Client 808;M;1969;Non;€20K - €40K;Commercial;Panel Truck;Highly Urban/ Urban;11.0;6;19/05/2022 17:14;complet;dev_express;250 € - 360 €;Chelles
+809;Client 809;M;1950;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;18.0;2;18/04/2022 02:22;complet;dev_express;250 € - 360 €;Alençon
+810;Client 810;M;1959;Non;€0 - €20K;Commercial;z_SUV;z_Highly Rural/ Rural;5.0;2;13/01/2022 09:31;complet;dev_integral;250 € - 360 €;Dijon
+811;Client 811;M;1973;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;1.0;0;28/05/2022 06:19;complet;dev_integral;250 € - 360 €;Ajaccio
+812;Client 812;F;1977;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;15.0;0;28/03/2022 01:51;complet;dev_express;250 € - 360 €;Saint-Gilles
+813;Client 813;F;1943;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;3.0;1;15/03/2022 17:21;complet;dev_integral;250 € - 360 €;Paris
+814;Client 814;M;1963;Non;€0 - €20K;Private;Pickup;Highly Urban/ Urban;7.0;0;10/03/2022 08:41;complet;dev_integral;250 € - 360 €;Perrière
+815;Client 815;M;1950;Non;€60K - €80K;Private;z_SUV;z_Highly Rural/ Rural;5.0;4;20/01/2022 06:27;complet;dev_express;250 € - 360 €;Mornac
+816;Client 816;F;1964;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;22.0;0;09/04/2022 17:10;complet;dev_integral;250 € - 360 €;Roquefort-les-Pins
+817;Client 817;M;1994;Non;€80K - €120K;Commercial;Pickup;Highly Urban/ Urban;21.0;1;05/03/2022 15:27;complet;dev_premium;360 € - 470 €;Ardentes
+818;Client 818;M;2011;Oui;€80K - €120K;Commercial;Van;Highly Urban/ Urban;14.0;0;09/04/2022 10:34;complet;dev_premium;360 € - 470 €;Vougy
+819;Client 819;F;1965;Oui;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;5;16/02/2022 13:50;complet;dev_integral;250 € - 360 €;Paris
+820;Client 820;M;1947;Non;€0 - €20K;Commercial;Minivan;Highly Urban/ Urban;10.0;6;06/04/2022 17:34;complet;dev_integral;250 € - 360 €;Petersbach
+821;Client 821;F;1957;Non;€80K - €120K;Private;Van;Highly Urban/ Urban;11.0;4;23/03/2022 08:12;complet;dev_express;250 € - 360 €;Carcassonne
+822;Client 822;F;1950;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;3;25/01/2022 03:27;complet;dev_express;250 € - 360 €;Yvré-l'Évêque
+823;Client 823;F;2000;Non;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;7.0;1;21/01/2022 09:35;complet;dev_express;250 € - 360 €;Sainte-Radegonde
+824;Client 824;M;1955;Non;€120K +;Private;Minivan;Highly Urban/ Urban;15.0;8;27/01/2022 16:51;complet;dev_integral;250 € - 360 €;Mignaloux-Beauvoir
+825;Client 825;M;1947;Non;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;1.0;9;22/04/2022 14:21;complet;dev_integral;250 € - 360 €;Saint-Joseph
+826;Client 826;M;1956;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;17.0;0;13/03/2022 23:40;complet;dev_express;250 € - 360 €;Savigny-lès-Beaune
+827;Client 827;F;1963;Non;€120K +;Commercial;Van;Highly Urban/ Urban;8.0;4;15/01/2022 03:03;complet;dev_premium;360 € - 470 €;Neuville-Chant-d'Oisel
+828;Client 828;F;2022;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;15.0;3;24/02/2022 23:09;complet;dev_express;250 € - 360 €;Flagnac
+829;Client 829;F;1965;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;1.0;0;27/03/2022 17:51;complet;dev_integral;250 € - 360 €;Vaulnaveys-le-Haut
+830;Client 830;M;1962;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;10.0;0;02/04/2022 07:37;complet;dev_express;250 € - 360 €;Sens
+831;Client 831;F;2001;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;1;18/02/2022 07:19;complet;dev_integral;250 € - 360 €;Saint-Julien-Mont-Denis
+832;Client 832;M;1945;Oui;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;7.0;2;17/04/2022 09:27;complet;dev_integral;250 € - 360 €;Fresse
+833;Client 833;F;1983;Non;€20K - €40K;Commercial;Pickup;z_Highly Rural/ Rural;;3;20/05/2022 03:29;complet;dev_express;250 € - 360 €;Saint-Vaury
+834;Client 834;F;2009;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;29/01/2022 23:20;complet;dev_integral;250 € - 360 €;Bresles
+835;Client 835;M;1981;Non;Non renseigné;Private;z_SUV;Highly Urban/ Urban;7.0;3;01/05/2022 19:40;complet;dev_express;250 € - 360 €;Pont-Saint-Esprit
+836;Client 836;M;2006;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;4;02/05/2022 20:32;complet;dev_premium;360 € - 470 €;Souvigny
+837;Client 837;F;1961;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;17.0;4;22/04/2022 21:23;complet;dev_express;250 € - 360 €;Montélier
+838;Client 838;M;1956;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;18.0;7;24/01/2022 10:55;complet;dev_integral;250 € - 360 €;Marsillargues
+839;Client 839;M;2007;Non;€120K +;Private;Pickup;Highly Urban/ Urban;9.0;0;23/02/2022 01:41;complet;dev_premium;470 € - 580 €;Rouxeville
+840;Client 840;F;1961;Non;€60K - €80K;Commercial;Van;Highly Urban/ Urban;1.0;4;22/05/2022 10:59;complet;dev_premium;360 € - 470 €;Reims
+841;Client 841;F;1978;Oui;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;1.0;0;17/03/2022 14:31;complet;dev_vip;890 € - 990 €;Magnanville
+842;Client 842;F;2011;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;10.0;0;04/04/2022 00:54;complet;dev_express;250 € - 360 €;Tarbes
+843;Client 843;M;2001;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;4.0;4;01/05/2022 00:26;complet;dev_integral;250 € - 360 €;Saint-Cricq
+844;Client 844;F;1936;Non;€20K - €40K;Commercial;Panel Truck;Highly Urban/ Urban;6.0;4;02/05/2022 17:11;complet;dev_integral;250 € - 360 €;Châteauvillain
+845;Client 845;F;1997;Oui;€80K - €120K;Commercial;Pickup;z_Highly Rural/ Rural;7.0;0;28/03/2022 12:11;complet;dev_integral;250 € - 360 €;Suresnes
+846;Client 846;F;1981;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;12.0;1;19/05/2022 17:35;complet;dev_integral;250 € - 360 €;Ménitré
+847;Client 847;M;1969;Non;€20K - €40K;Private;Van;Highly Urban/ Urban;6.0;0;14/05/2022 09:17;complet;dev_express;250 € - 360 €;Paris
+848;Client 848;F;1942;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;13.0;0;06/05/2022 04:55;complet;dev_premium;470 € - 580 €;Romorantin-Lanthenay
+849;Client 849;M;1964;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;10.0;2;25/04/2022 02:13;complet;dev_premium;360 € - 470 €;Bagnoles-de-l'Orne
+850;Client 850;F;1991;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;13.0;6;18/03/2022 15:22;complet;dev_premium;470 € - 580 €;Sanry-lès-Vigy
+851;Client 851;F;1985;Non;€120K +;Private;Minivan;Highly Urban/ Urban;17.0;0;15/04/2022 20:51;complet;dev_integral;250 € - 360 €;Villacerf
+852;Client 852;F;1955;Non;€120K +;Commercial;Pickup;Highly Urban/ Urban;9.0;0;20/01/2022 21:33;complet;dev_premium;360 € - 470 €;Cognac
+853;Client 853;F;2008;Non;Non renseigné;Commercial;z_SUV;Highly Urban/ Urban;9.0;4;14/03/2022 05:31;complet;dev_vip;680 € - 790 €;Bourges
+854;Client 854;M;1933;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;12.0;3;08/01/2022 07:30;complet;dev_express;250 € - 360 €;Serres
+855;Client 855;F;1946;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;6.0;0;21/04/2022 14:09;complet;dev_integral;250 € - 360 €;Boutenac
+856;Client 856;F;1936;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;;4;19/02/2022 17:32;complet;dev_premium;470 € - 580 €;Bourg-Saint-Andéol
+857;Client 857;M;1935;Non;€40K - €60K;Commercial;Panel Truck;Highly Urban/ Urban;8.0;2;04/04/2022 09:50;complet;dev_integral;250 € - 360 €;Samer
+858;Client 858;M;1983;Oui;€80K - €120K;Private;z_SUV;z_Highly Rural/ Rural;6.0;4;17/01/2022 08:07;complet;dev_premium;250 € - 360 €;Saint-Momelin
+859;Client 859;F;1982;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;12.0;5;14/01/2022 22:35;complet;dev_express;250 € - 360 €;Cernay
+860;Client 860;M;1965;Non;€120K +;Commercial;Van;Highly Urban/ Urban;13.0;4;01/02/2022 10:47;complet;dev_integral;250 € - 360 €;Valensole
+861;Client 861;F;1961;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;1.0;0;03/04/2022 06:07;complet;dev_integral;250 € - 360 €;Saint-Dizier
+862;Client 862;F;1960;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;15.0;5;25/02/2022 19:43;complet;dev_integral;250 € - 360 €;Champagney
+863;Client 863;M;2013;Oui;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;5.0;0;14/05/2022 23:10;complet;dev_express;250 € - 360 €;Crau
+864;Client 864;M;1979;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;2;01/02/2022 20:17;complet;dev_express;250 € - 360 €;Castelsarrasin
+865;Client 865;F;2016;Non;€120K +;Private;Minivan;Highly Urban/ Urban;16.0;1;09/02/2022 10:27;complet;dev_premium;360 € - 470 €;Sainte-Soulle
+866;Client 866;M;1943;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;9.0;3;13/01/2022 10:00;complet;dev_integral;250 € - 360 €;Vitré
+867;Client 867;M;1972;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;8.0;0;14/05/2022 03:38;complet;dev_express;250 € - 360 €;Bégude-de-Mazenc
+868;Client 868;F;1968;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;;3;27/01/2022 11:04;complet;dev_premium;470 € - 580 €;Nevers
+869;Client 869;M;1974;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;7.0;0;03/01/2022 08:30;complet;dev_integral;250 € - 360 €;Aurec-sur-Loire
+870;Client 870;M;1941;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;7.0;4;26/03/2022 11:54;complet;dev_integral;250 € - 360 €;Montreuil-Bellay
+871;Client 871;F;1933;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;10.0;0;07/03/2022 22:55;complet;dev_integral;250 € - 360 €;Tour-de-Salvagny
+872;Client 872;M;1960;Non;€20K - €40K;Commercial;z_SUV;Highly Urban/ Urban;7.0;0;01/03/2022 05:37;complet;dev_integral;250 € - 360 €;Polaincourt-et-Clairefontaine
+873;Client 873;M;1957;Non;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;13.0;0;04/05/2022 07:09;complet;dev_integral;250 € - 360 €;Dunières
+874;Client 874;F;2012;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;12.0;0;04/02/2022 19:41;complet;dev_express;250 € - 360 €;Laragne-Montéglin
+875;Client 875;M;1935;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;9.0;6;26/04/2022 10:16;complet;dev_premium;360 € - 470 €;Acqueville
+876;Client 876;F;1969;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;7.0;1;02/01/2022 05:31;complet;dev_integral;250 € - 360 €;Thiviers
+877;Client 877;M;1963;Non;€120K +;Private;Minivan;Highly Urban/ Urban;22.0;7;26/03/2022 09:04;complet;dev_integral;250 € - 360 €;Mans
+878;Client 878;M;1969;Non;€20K - €40K;Private;Van;Highly Urban/ Urban;1.0;3;16/01/2022 22:31;complet;dev_integral;250 € - 360 €;Épinal
+879;Client 879;F;1942;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;;0;26/05/2022 01:56;complet;dev_integral;250 € - 360 €;Clamart
+880;Client 880;M;1936;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;1.0;0;24/03/2022 15:49;complet;dev_express;250 € - 360 €;Magny-le-Hongre
+881;Client 881;M;1970;Oui;€40K - €60K;Private;Sports Car;z_Highly Rural/ Rural;1.0;2;20/04/2022 06:44;complet;dev_express;250 € - 360 €;Beaucourt
+882;Client 882;M;1976;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;9.0;0;11/05/2022 12:25;complet;dev_integral;250 € - 360 €;Chandon
+883;Client 883;M;1968;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;10.0;0;13/01/2022 05:16;complet;dev_express;250 € - 360 €;Clermont-Ferrand
+884;Client 884;F;1971;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;9.0;2;21/03/2022 21:34;complet;dev_express;250 € - 360 €;Marillac-le-Franc
+885;Client 885;F;1982;Non;€120K +;Private;Minivan;z_Highly Rural/ Rural;11.0;0;18/01/2022 19:42;complet;dev_express;250 € - 360 €;Lons
+886;Client 886;F;1956;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;1.0;1;13/04/2022 16:21;complet;dev_express;250 € - 360 €;Castelnau-le-Lez
+887;Client 887;F;1947;Non;Non renseigné;Commercial;Pickup;Highly Urban/ Urban;15.0;0;24/04/2022 13:56;complet;dev_express;250 € - 360 €;Avignon
+888;Client 888;M;1961;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;7.0;4;10/02/2022 20:57;complet;dev_premium;470 € - 580 €;Gros-Theil
+889;Client 889;F;1950;Non;€0 - €20K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;28/02/2022 13:38;complet;dev_integral;250 € - 360 €;Gondreville
+890;Client 890;M;1957;Non;€0 - €20K;Private;Pickup;z_Highly Rural/ Rural;8.0;0;05/02/2022 23:52;complet;dev_express;250 € - 360 €;Lorient
+891;Client 891;M;1945;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;9.0;1;27/03/2022 09:37;complet;dev_express;250 € - 360 €;Armentières-en-Brie
+892;Client 892;F;1987;Non;Non renseigné;Private;z_SUV;z_Highly Rural/ Rural;7.0;2;05/01/2022 09:36;complet;dev_express;250 € - 360 €;Dourdan
+893;Client 893;M;1968;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;14.0;2;03/05/2022 13:03;complet;dev_express;250 € - 360 €;Doubs
+894;Client 894;M;1998;Non;€20K - €40K;Commercial;z_SUV;Highly Urban/ Urban;1.0;0;26/03/2022 15:22;complet;dev_express;250 € - 360 €;Bréval
+895;Client 895;F;1942;Non;€20K - €40K;Commercial;Panel Truck;Highly Urban/ Urban;15.0;1;31/01/2022 22:44;complet;dev_express;250 € - 360 €;Grigny
+896;Client 896;F;1960;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;20.0;1;30/04/2022 07:11;complet;dev_express;250 € - 360 €;Poussan
+897;Client 897;F;2022;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;13.0;0;04/02/2022 16:10;complet;dev_premium;470 € - 580 €;Nanterre
+898;Client 898;M;1943;Non;€40K - €60K;Private;Sports Car;z_Highly Rural/ Rural;9.0;4;20/01/2022 00:18;complet;dev_integral;250 € - 360 €;Royan
+899;Client 899;F;1964;Non;€120K +;Private;Minivan;Highly Urban/ Urban;19.0;0;22/03/2022 00:59;complet;dev_integral;250 € - 360 €;Cluny
+900;Client 900;M;1951;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;13.0;0;31/05/2022 06:29;complet;dev_premium;360 € - 470 €;Aigurande
+901;Client 901;M;1982;Non;Non renseigné;Commercial;Sports Car;Highly Urban/ Urban;1.0;4;05/01/2022 05:06;complet;dev_integral;250 € - 360 €;Oizé
+902;Client 902;F;1972;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;0.0;10;23/04/2022 05:49;complet;dev_express;250 € - 360 €;Perpezac-le-Noir
+903;Client 903;F;1992;Non;€80K - €120K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;02/05/2022 13:16;complet;dev_express;250 € - 360 €;Étampes
+904;Client 904;F;2012;Oui;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;10.0;0;11/04/2022 11:41;complet;dev_integral;250 € - 360 €;Ambarès-et-Lagrave
+905;Client 905;M;1990;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;1.0;4;04/02/2022 15:17;complet;dev_express;250 € - 360 €;Blanquefort
+906;Client 906;F;1971;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;22/01/2022 15:31;complet;dev_vip;790 € - 890 €;Paris
+907;Client 907;M;1983;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;11.0;2;18/03/2022 16:21;complet;dev_express;250 € - 360 €;Andernos-les-Bains
+908;Client 908;F;1970;Non;€0 - €20K;Private;Pickup;Highly Urban/ Urban;6.0;0;08/02/2022 16:14;complet;dev_integral;250 € - 360 €;Rémalard
+909;Client 909;M;1999;Oui;€0 - €20K;Commercial;z_SUV;z_Highly Rural/ Rural;8.0;0;21/02/2022 08:59;complet;dev_express;250 € - 360 €;Jacou
+910;Client 910;F;1998;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;;2;13/01/2022 01:41;complet;dev_integral;250 € - 360 €;Clairefontaine-en-Yvelines
+911;Client 911;F;1994;Oui;€60K - €80K;Private;Pickup;Highly Urban/ Urban;11.0;0;20/05/2022 20:26;complet;dev_express;250 € - 360 €;Charleville-Mézières
+912;Client 912;M;1951;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;1.0;2;19/02/2022 12:40;complet;dev_express;250 € - 360 €;Saint-Just-Saint-Rambert
+913;Client 913;F;2009;Non;€60K - €80K;Commercial;Pickup;Highly Urban/ Urban;1.0;0;13/04/2022 06:07;complet;dev_premium;470 € - 580 €;L'Île-Saint-Denis
+914;Client 914;F;1971;Non;€40K - €60K;Commercial;z_SUV;z_Highly Rural/ Rural;8.0;0;25/03/2022 10:32;complet;dev_integral;250 € - 360 €;Villeblevin
+915;Client 915;F;1999;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;17.0;1;08/05/2022 03:44;complet;dev_express;250 € - 360 €;Cannet
+916;Client 916;M;1955;Non;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;8.0;3;08/01/2022 09:26;complet;dev_express;250 € - 360 €;Lourdes
+917;Client 917;F;1942;Non;€0 - €20K;Commercial;Pickup;z_Highly Rural/ Rural;1.0;2;20/02/2022 21:02;complet;dev_integral;250 € - 360 €;Pont-Péan
+918;Client 918;F;1979;Non;€80K - €120K;Commercial;Sports Car;Highly Urban/ Urban;6.0;1;17/02/2022 13:28;complet;dev_integral;250 € - 360 €;Charleville-Mézières
+919;Client 919;M;1971;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;9.0;0;24/01/2022 09:56;complet;dev_integral;250 € - 360 €;Pia
+920;Client 920;F;1947;Oui;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;14.0;4;23/05/2022 04:04;complet;dev_integral;250 € - 360 €;Bourges
+921;Client 921;M;1955;Non;€60K - €80K;Commercial;z_SUV;Highly Urban/ Urban;11.0;0;12/05/2022 14:06;complet;dev_express;250 € - 360 €;Ussel
+922;Client 922;M;1940;Oui;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;6.0;0;25/02/2022 05:46;complet;dev_integral;250 € - 360 €;Aubepierre-Ozouer-le-Repos
+923;Client 923;F;1963;Oui;€0 - €20K;Private;Minivan;Highly Urban/ Urban;;0;20/05/2022 20:57;complet;dev_express;250 € - 360 €;Clayes-sous-Bois
+924;Client 924;F;1950;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;7.0;0;22/02/2022 03:31;complet;dev_premium;360 € - 470 €;Cannes
+925;Client 925;F;2001;Oui;€20K - €40K;Private;Minivan;Highly Urban/ Urban;6.0;0;23/02/2022 09:01;complet;dev_express;250 € - 360 €;Saint-Laurent-des-Bois
+926;Client 926;M;2019;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;1.0;1;28/03/2022 01:18;complet;dev_premium;470 € - 580 €;Villeneuve-sur-Allier
+927;Client 927;F;1972;Non;€0 - €20K;Commercial;z_SUV;z_Highly Rural/ Rural;7.0;0;02/05/2022 08:14;complet;dev_express;250 € - 360 €;Bléré
+928;Client 928;F;1968;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;4.0;6;20/03/2022 06:02;complet;dev_integral;250 € - 360 €;Villefranche-sur-Cher
+929;Client 929;M;2011;Non;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;10.0;4;23/04/2022 18:46;complet;dev_integral;250 € - 360 €;Saint-Yrieix-la-Perche
+930;Client 930;M;1947;Non;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;7.0;11;11/04/2022 13:58;complet;dev_express;250 € - 360 €;Mans
+931;Client 931;M;1977;Non;€40K - €60K;Commercial;Van;Highly Urban/ Urban;12.0;1;23/04/2022 16:15;complet;dev_premium;250 € - 360 €;Montbéliard
+932;Client 932;M;1973;Non;€20K - €40K;Commercial;Panel Truck;z_Highly Rural/ Rural;1.0;0;13/04/2022 06:30;complet;dev_express;250 € - 360 €;Mans
+933;Client 933;M;2015;Non;€60K - €80K;Commercial;Pickup;z_Highly Rural/ Rural;10.0;2;26/03/2022 17:10;complet;dev_integral;250 € - 360 €;Saint-Hilaire-de-Riez
+934;Client 934;F;1974;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;6.0;0;28/02/2022 13:20;complet;dev_integral;250 € - 360 €;Paris
+935;Client 935;F;1951;Non;€120K +;Private;Minivan;Highly Urban/ Urban;;0;18/03/2022 02:48;complet;dev_integral;250 € - 360 €;Torvilliers
+936;Client 936;M;1968;Oui;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;1.0;4;17/02/2022 04:34;complet;dev_express;250 € - 360 €;Domérat
+937;Client 937;M;1945;Non;€40K - €60K;Commercial;Minivan;Highly Urban/ Urban;10.0;4;23/02/2022 14:57;complet;dev_premium;250 € - 360 €;Puydarrieux
+938;Client 938;F;1950;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;;0;23/01/2022 05:09;complet;dev_integral;250 € - 360 €;Saint-Laurent-du-Mottay
+939;Client 939;M;1998;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;;0;03/05/2022 10:57;complet;dev_integral;250 € - 360 €;Saint-Grégoire
+940;Client 940;M;1957;Non;€20K - €40K;Private;Van;Highly Urban/ Urban;12.0;1;17/01/2022 12:09;complet;dev_premium;470 € - 580 €;Pontcharra-sur-Turdine
+941;Client 941;M;1978;Non;€80K - €120K;Commercial;z_SUV;Highly Urban/ Urban;1.0;1;17/05/2022 21:52;complet;dev_integral;250 € - 360 €;Pont-du-Château
+942;Client 942;F;2009;Oui;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;1.0;3;08/02/2022 17:21;complet;dev_premium;360 € - 470 €;Champagne-au-Mont-d'Or
+943;Client 943;M;1968;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;8.0;0;06/01/2022 07:34;complet;dev_express;250 € - 360 €;Verdun
+944;Client 944;F;1960;Non;€120K +;Commercial;Pickup;Highly Urban/ Urban;;0;18/03/2022 04:48;complet;dev_express;250 € - 360 €;Bourg-Saint-Léonard
+945;Client 945;F;1934;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;8.0;4;20/04/2022 00:32;complet;dev_express;250 € - 360 €;Mignaloux-Beauvoir
+946;Client 946;F;2019;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;16.0;6;05/01/2022 23:57;complet;dev_integral;250 € - 360 €;Mazerolles
+947;Client 947;F;2008;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;8.0;1;07/03/2022 13:17;complet;dev_express;250 € - 360 €;Lestelle-Bétharram
+948;Client 948;M;1991;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;10.0;0;08/04/2022 06:36;complet;dev_premium;360 € - 470 €;Colombes
+949;Client 949;F;1957;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;13.0;3;13/01/2022 13:58;complet;dev_integral;250 € - 360 €;Lingolsheim
+950;Client 950;M;1973;Non;€120K +;Private;Minivan;Highly Urban/ Urban;19.0;0;22/01/2022 04:31;complet;dev_integral;250 € - 360 €;Plougonven
+951;Client 951;M;1953;Oui;€120K +;Private;z_SUV;Highly Urban/ Urban;11.0;1;13/05/2022 07:42;complet;dev_premium;360 € - 470 €;Chancelade
+952;Client 952;F;1940;Oui;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;19.0;2;01/03/2022 00:11;complet;dev_express;250 € - 360 €;Saulce
+953;Client 953;M;1989;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;5.0;2;17/05/2022 00:52;complet;dev_integral;250 € - 360 €;Châtillon-en-Bazois
+954;Client 954;M;1947;Non;€120K +;Private;Minivan;Highly Urban/ Urban;19.0;2;27/02/2022 06:06;complet;dev_integral;250 € - 360 €;Éclaron-Braucourt-Sainte-Livière
+955;Client 955;M;2020;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;8.0;2;14/01/2022 18:08;complet;dev_express;250 € - 360 €;Saint-Lô
+956;Client 956;M;1985;Oui;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;11.0;4;12/04/2022 03:39;complet;dev_vip;470 € - 580 €;Vineuil
+957;Client 957;F;1964;Non;Non renseigné;Private;z_SUV;Highly Urban/ Urban;12.0;0;03/04/2022 21:09;complet;dev_integral;250 € - 360 €;Bourbonne-les-Bains
+958;Client 958;M;1955;Oui;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;7.0;0;15/02/2022 06:50;complet;dev_premium;250 € - 360 €;Villeneuve-sur-Lot
+959;Client 959;F;1972;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;15.0;0;21/04/2022 08:04;complet;dev_express;250 € - 360 €;Bleymard
+960;Client 960;M;2007;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;1.0;0;13/04/2022 17:06;complet;dev_premium;470 € - 580 €;Saint-Chaptes
+961;Client 961;M;1962;Non;€0 - €20K;Commercial;Minivan;Highly Urban/ Urban;8.0;2;11/02/2022 09:08;complet;dev_premium;360 € - 470 €;Baudreix
+962;Client 962;F;1959;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;1.0;6;13/02/2022 07:43;complet;dev_premium;360 € - 470 €;L'Isle-d'Abeau
+963;Client 963;M;1952;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;15.0;1;16/05/2022 04:25;complet;dev_premium;360 € - 470 €;Agen-d'Aveyron
+964;Client 964;F;1968;Oui;€120K +;Private;Minivan;Highly Urban/ Urban;20.0;0;18/03/2022 14:59;complet;dev_integral;250 € - 360 €;Alençon
+965;Client 965;F;1956;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;;5;18/01/2022 16:49;complet;dev_express;250 € - 360 €;Saint-Vallier
+966;Client 966;F;2009;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;12.0;1;23/05/2022 10:42;complet;dev_express;250 € - 360 €;Nanterre
+967;Client 967;M;1953;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;16.0;0;16/03/2022 01:51;complet;dev_express;250 € - 360 €;Croisic
+968;Client 968;M;2006;Non;€120K +;Private;Sports Car;Highly Urban/ Urban;;0;04/04/2022 23:29;complet;dev_integral;250 € - 360 €;Gérardmer
+969;Client 969;M;1977;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;1.0;0;31/03/2022 19:33;complet;dev_integral;250 € - 360 €;Tournon-sur-Rhône
+970;Client 970;F;1975;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;22.0;1;28/02/2022 17:00;complet;dev_express;250 € - 360 €;Plan-de-Cuques
+971;Client 971;M;1965;Non;€40K - €60K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;16/04/2022 11:32;complet;dev_premium;360 € - 470 €;Mont-sous-Vaudrey
+972;Client 972;F;1977;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;15.0;4;12/02/2022 15:16;complet;dev_premium;360 € - 470 €;Varennes-Saint-Sauveur
+973;Client 973;M;1974;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;13.0;0;29/01/2022 14:32;complet;dev_express;250 € - 360 €;Martainneville
+974;Client 974;F;1972;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;0;30/04/2022 23:46;complet;dev_express;250 € - 360 €;Fronton
+975;Client 975;F;1949;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;18.0;0;25/02/2022 17:52;complet;dev_integral;250 € - 360 €;Donzac
+976;Client 976;M;2009;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;3;30/04/2022 20:11;complet;dev_express;250 € - 360 €;Saint-Jean-du-Falga
+977;Client 977;F;1943;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;17.0;2;25/02/2022 11:45;complet;dev_express;250 € - 360 €;Havre
+978;Client 978;F;1969;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;1.0;1;06/05/2022 12:51;complet;dev_integral;250 € - 360 €;Ambleteuse
+979;Client 979;F;1965;Oui;€0 - €20K;Private;Pickup;Highly Urban/ Urban;1.0;2;16/03/2022 23:26;complet;dev_integral;250 € - 360 €;Mercurey
+980;Client 980;F;1985;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;7.0;0;06/04/2022 16:10;complet;dev_integral;250 € - 360 €;Plédran
+981;Client 981;F;1958;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;13.0;5;06/03/2022 01:34;complet;dev_integral;250 € - 360 €;Châtelaillon-Plage
+982;Client 982;M;1933;Non;€120K +;Private;Minivan;Highly Urban/ Urban;16.0;0;04/03/2022 02:26;complet;dev_express;250 € - 360 €;Motte-d'Aveillans
+983;Client 983;F;1953;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;10.0;0;06/05/2022 07:53;complet;dev_express;250 € - 360 €;Beaupuy
+984;Client 984;F;2009;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;21.0;3;01/02/2022 02:51;complet;dev_integral;250 € - 360 €;Ruelle-sur-Touvre
+985;Client 985;M;1962;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;23.0;1;16/03/2022 12:50;complet;dev_express;250 € - 360 €;Pamiers
+986;Client 986;F;1966;Non;€40K - €60K;Commercial;Panel Truck;Highly Urban/ Urban;8.0;2;13/03/2022 03:20;complet;dev_premium;360 € - 470 €;Annezin
+987;Client 987;M;2021;Non;€60K - €80K;Commercial;Pickup;Highly Urban/ Urban;1.0;0;16/04/2022 09:07;complet;dev_integral;250 € - 360 €;Vichy
+988;Client 988;M;1984;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;1.0;3;05/03/2022 10:49;complet;dev_express;250 € - 360 €;Cheylard
+989;Client 989;M;1963;Non;€120K +;Private;Minivan;Highly Urban/ Urban;17.0;6;19/03/2022 05:51;complet;dev_express;250 € - 360 €;Saint-Mards-en-Othe
+990;Client 990;F;1984;Non;€0 - €20K;Commercial;Pickup;z_Highly Rural/ Rural;1.0;0;01/05/2022 13:37;complet;dev_premium;360 € - 470 €;Saint-Brieuc
+991;Client 991;M;2009;Non;€20K - €40K;Commercial;Sports Car;Highly Urban/ Urban;9.0;5;19/01/2022 12:58;complet;dev_integral;250 € - 360 €;Fareins
+992;Client 992;F;2015;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;11.0;3;23/01/2022 02:06;complet;dev_integral;250 € - 360 €;Briançon
+993;Client 993;F;1965;Non;Non renseigné;Private;Minivan;Highly Urban/ Urban;1.0;0;15/03/2022 01:06;complet;dev_integral;250 € - 360 €;Trinité-de-Thouberville
+994;Client 994;F;2013;Non;€40K - €60K;Commercial;Sports Car;Highly Urban/ Urban;1.0;0;14/01/2022 13:28;complet;dev_integral;250 € - 360 €;Nîmes
+995;Client 995;M;1944;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;1.0;3;22/01/2022 06:26;complet;dev_express;250 € - 360 €;Mulhouse
+996;Client 996;F;1961;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;15.0;0;03/03/2022 16:50;complet;dev_integral;250 € - 360 €;Vieux-Boucau-les-Bains
+997;Client 997;M;1995;Non;Non renseigné;Private;z_SUV;z_Highly Rural/ Rural;8.0;1;01/04/2022 06:27;complet;dev_integral;250 € - 360 €;Aurillac
+998;Client 998;M;1955;Non;€60K - €80K;Commercial;Van;Highly Urban/ Urban;1.0;2;06/04/2022 11:25;complet;dev_integral;250 € - 360 €;Bellot
+999;Client 999;M;1956;Non;€120K +;Commercial;Pickup;Highly Urban/ Urban;16.0;0;16/05/2022 07:44;complet;dev_express;250 € - 360 €;Tour-du-Crieu
+1000;Client 1000;M;2007;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;11.0;0;15/02/2022 05:03;complet;dev_express;250 € - 360 €;Pagny-le-Château
+1001;Client 1001;F;1937;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;4.0;2;16/02/2022 20:38;complet;dev_integral;250 € - 360 €;Borgo
+1002;Client 1002;F;1965;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;6.0;7;14/03/2022 19:17;complet;dev_express;250 € - 360 €;Verneuil-sur-Vienne
+1003;Client 1003;F;1942;Non;Non renseigné;Private;z_SUV;z_Highly Rural/ Rural;5.0;0;22/04/2022 23:48;complet;dev_integral;250 € - 360 €;Saint-Junien
+1004;Client 1004;M;1983;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;14.0;2;31/05/2022 09:26;complet;dev_integral;250 € - 360 €;Firmi
+1005;Client 1005;F;1981;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;;0;25/02/2022 10:22;complet;dev_integral;250 € - 360 €;Neuilly
+1006;Client 1006;F;2003;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;4.0;0;12/03/2022 18:17;complet;dev_express;250 € - 360 €;Saint-Ouen-l'Aumône
+1007;Client 1007;M;1973;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;25/05/2022 17:39;complet;dev_express;250 € - 360 €;Saint-Jean-du-Falga
+1008;Client 1008;F;1975;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;3;11/02/2022 11:55;complet;dev_express;250 € - 360 €;Castelnau-le-Lez
+1009;Client 1009;M;1964;Oui;€40K - €60K;Commercial;Panel Truck;Highly Urban/ Urban;12.0;0;09/02/2022 03:38;complet;dev_express;250 € - 360 €;Nubécourt
+1010;Client 1010;F;1965;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;12.0;0;23/04/2022 08:07;complet;dev_integral;250 € - 360 €;Henrichemont
+1011;Client 1011;F;1966;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;10.0;2;06/03/2022 05:04;complet;dev_integral;250 € - 360 €;Pont-de-Metz
+1012;Client 1012;M;1994;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;1.0;2;18/03/2022 00:31;complet;dev_express;250 € - 360 €;Abbeville
+1013;Client 1013;F;1952;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;10;29/03/2022 15:07;complet;dev_express;250 € - 360 €;Montluçon
+1014;Client 1014;M;2008;Non;€20K - €40K;Commercial;Pickup;z_Highly Rural/ Rural;1.0;0;30/03/2022 05:03;complet;dev_express;250 € - 360 €;Auriac-sur-Vendinelle
+1015;Client 1015;M;1955;Non;€120K +;Private;Minivan;Highly Urban/ Urban;1.0;0;18/05/2022 15:04;complet;dev_express;250 € - 360 €;Dijon
+1016;Client 1016;M;1964;Oui;€60K - €80K;Private;Minivan;Highly Urban/ Urban;9.0;6;01/05/2022 13:54;complet;dev_integral;250 € - 360 €;Bayonne
+1017;Client 1017;M;1939;Non;€80K - €120K;Private;Minivan;z_Highly Rural/ Rural;18.0;0;04/03/2022 08:26;complet;dev_express;250 € - 360 €;Chaillon
+1018;Client 1018;M;1980;Oui;€80K - €120K;Private;Minivan;Highly Urban/ Urban;14.0;0;12/03/2022 22:34;complet;dev_premium;470 € - 580 €;Solliès-Pont
+1019;Client 1019;M;1967;Non;€20K - €40K;Commercial;Minivan;Highly Urban/ Urban;10.0;3;14/03/2022 18:09;complet;dev_express;250 € - 360 €;Brey-et-Maison-du-Bois
+1020;Client 1020;F;2000;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;18.0;5;29/01/2022 04:45;complet;dev_premium;360 € - 470 €;Saint-Jacques-de-Thouars
+1021;Client 1021;F;1950;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;7.0;3;09/05/2022 20:08;complet;dev_premium;470 € - 580 €;Ley
+1022;Client 1022;F;1976;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;18.0;0;15/01/2022 15:51;complet;dev_premium;470 € - 580 €;Vareilles
+1023;Client 1023;M;2008;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;1.0;1;11/05/2022 19:20;complet;dev_express;250 € - 360 €;Anse
+1024;Client 1024;M;1966;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;;0;22/05/2022 23:11;complet;dev_integral;250 € - 360 €;Lens
+1025;Client 1025;M;1965;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;15.0;0;16/03/2022 05:57;complet;dev_premium;470 € - 580 €;Cambrai
+1026;Client 1026;F;1943;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;15.0;4;10/02/2022 06:27;complet;dev_express;250 € - 360 €;Angerville
+1027;Client 1027;F;1982;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;6.0;4;30/05/2022 19:20;complet;dev_express;250 € - 360 €;Lusignan
+1028;Client 1028;M;2019;Non;€0 - €20K;Commercial;z_SUV;Highly Urban/ Urban;11.0;1;10/01/2022 18:50;complet;dev_integral;250 € - 360 €;Tulle
+1029;Client 1029;M;1996;Oui;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;6.0;2;21/05/2022 14:48;complet;dev_integral;250 € - 360 €;Mées
+1030;Client 1030;M;1989;Non;€120K +;Private;Van;Highly Urban/ Urban;1.0;4;09/04/2022 07:59;complet;dev_express;250 € - 360 €;Clamart
+1031;Client 1031;F;1962;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;11.0;5;13/02/2022 15:50;complet;dev_vip;790 € - 890 €;Ardin
+1032;Client 1032;M;1978;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;6.0;7;25/02/2022 01:50;complet;dev_integral;250 € - 360 €;Buxerolles
+1033;Client 1033;F;1952;Oui;€60K - €80K;Private;Minivan;Highly Urban/ Urban;12.0;6;02/01/2022 16:50;complet;dev_integral;250 € - 360 €;Vals-les-Bains
+1034;Client 1034;M;1966;Non;€60K - €80K;Private;Sports Car;Highly Urban/ Urban;;0;02/04/2022 01:41;complet;dev_express;250 € - 360 €;Golbey
+1035;Client 1035;M;1973;Non;Non renseigné;Private;Pickup;z_Highly Rural/ Rural;1.0;2;03/05/2022 20:04;complet;dev_premium;360 € - 470 €;Béligneux
+1036;Client 1036;M;1968;Non;Non renseigné;Private;Van;Highly Urban/ Urban;14.0;1;25/04/2022 17:47;complet;dev_express;250 € - 360 €;Châteauroux
+1037;Client 1037;F;1982;Non;€0 - €20K;Private;Pickup;z_Highly Rural/ Rural;16.0;4;08/03/2022 01:20;complet;dev_integral;250 € - 360 €;Champsac
+1038;Client 1038;F;1995;Non;€20K - €40K;Commercial;Minivan;Highly Urban/ Urban;;6;31/05/2022 07:38;complet;dev_integral;250 € - 360 €;Saint-Alban-Leysse
+1039;Client 1039;M;1980;Non;Non renseigné;Commercial;Pickup;z_Highly Rural/ Rural;8.0;0;21/01/2022 17:55;complet;dev_integral;250 € - 360 €;L'Isle-Jourdain
+1040;Client 1040;M;1950;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;1;27/04/2022 00:55;complet;dev_integral;250 € - 360 €;Cléry-Saint-André
+1041;Client 1041;F;1992;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;0;25/04/2022 21:28;complet;dev_integral;250 € - 360 €;Bolquère
+1042;Client 1042;M;1939;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;15.0;0;05/03/2022 04:31;complet;dev_integral;250 € - 360 €;Néron
+1043;Client 1043;F;2021;Non;€0 - €20K;Private;z_SUV;Highly Urban/ Urban;1.0;0;21/01/2022 20:31;complet;dev_integral;250 € - 360 €;Troyes
+1044;Client 1044;M;1994;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;15.0;4;25/04/2022 02:27;complet;dev_integral;250 € - 360 €;Varennes-sur-Morge
+1045;Client 1045;M;1943;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;14.0;1;29/03/2022 10:10;complet;dev_integral;250 € - 360 €;Castelsarrasin
+1046;Client 1046;M;1978;Non;€0 - €20K;Commercial;Sports Car;Highly Urban/ Urban;10.0;6;13/02/2022 12:49;complet;dev_integral;250 € - 360 €;Dourdan
+1047;Client 1047;M;1987;Non;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;1.0;0;11/02/2022 19:49;complet;dev_express;250 € - 360 €;Saint-Nazaire
+1048;Client 1048;F;1986;Non;€0 - €20K;Commercial;Panel Truck;z_Highly Rural/ Rural;9.0;0;28/05/2022 14:51;complet;dev_integral;250 € - 360 €;Dompcevrin
+1049;Client 1049;M;1968;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;8.0;4;03/04/2022 10:24;complet;dev_integral;250 € - 360 €;Montpellier
+1050;Client 1050;F;1989;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;9.0;3;20/05/2022 00:54;complet;dev_integral;250 € - 360 €;Labenne
+1051;Client 1051;M;1952;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;6.0;0;22/04/2022 07:51;complet;dev_express;250 € - 360 €;Mende
+1052;Client 1052;M;1934;Non;€40K - €60K;Commercial;z_SUV;Highly Urban/ Urban;8.0;0;29/01/2022 23:53;complet;dev_integral;250 € - 360 €;Champanges
+1053;Client 1053;M;2001;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;1.0;3;21/05/2022 16:52;complet;dev_integral;250 € - 360 €;Montpellier
+1054;Client 1054;M;1998;Non;Non renseigné;Commercial;Minivan;Highly Urban/ Urban;8.0;0;04/05/2022 21:53;complet;dev_integral;250 € - 360 €;Perros-Guirec
+1055;Client 1055;F;1954;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;12.0;4;25/01/2022 02:36;complet;dev_premium;470 € - 580 €;Nègrepelisse
+1056;Client 1056;M;1950;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;1.0;0;27/01/2022 10:59;complet;dev_integral;250 € - 360 €;Lorient
+1057;Client 1057;M;1932;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;17.0;2;11/03/2022 17:06;complet;dev_integral;250 € - 360 €;Golbey
+1058;Client 1058;F;1958;Non;€60K - €80K;Commercial;Minivan;z_Highly Rural/ Rural;1.0;0;25/05/2022 04:29;complet;dev_integral;250 € - 360 €;Tenay
+1059;Client 1059;F;1946;Non;€60K - €80K;Commercial;Minivan;Highly Urban/ Urban;5.0;1;20/01/2022 13:19;complet;dev_premium;470 € - 580 €;Chanteloup-en-Brie
+1060;Client 1060;F;2008;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;1.0;0;22/04/2022 03:55;complet;dev_integral;250 € - 360 €;Castanet-Tolosan
+1061;Client 1061;F;1953;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;15.0;7;10/02/2022 11:43;complet;dev_integral;250 € - 360 €;Seur
+1062;Client 1062;M;1970;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;15.0;4;24/02/2022 22:38;complet;dev_express;250 € - 360 €;Saint-Cyr-Montmalin
+1063;Client 1063;F;1952;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;12.0;2;17/03/2022 13:01;complet;dev_express;250 € - 360 €;Brive-la-Gaillarde
+1064;Client 1064;F;2002;Oui;€120K +;Private;z_SUV;Highly Urban/ Urban;;4;04/03/2022 23:01;complet;dev_express;250 € - 360 €;Longjumeau
+1065;Client 1065;M;1983;Non;€0 - €20K;Private;z_SUV;z_Highly Rural/ Rural;1.0;0;20/04/2022 21:31;complet;dev_express;250 € - 360 €;Tresserve
+1066;Client 1066;F;1961;Non;€60K - €80K;Private;Van;Highly Urban/ Urban;12.0;4;30/01/2022 10:23;complet;dev_express;250 € - 360 €;Amboise
+1067;Client 1067;M;1967;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;17.0;3;11/02/2022 03:05;complet;dev_integral;250 € - 360 €;Camors
+1068;Client 1068;F;1953;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;1.0;0;05/03/2022 22:31;complet;dev_integral;250 € - 360 €;Ghisonaccia
+1069;Client 1069;F;1945;Non;€20K - €40K;Commercial;Van;Highly Urban/ Urban;1.0;7;16/02/2022 21:11;complet;dev_express;250 € - 360 €;Villepinte
+1070;Client 1070;F;2014;Non;€120K +;Private;Van;Highly Urban/ Urban;12.0;0;25/01/2022 22:15;complet;dev_integral;250 € - 360 €;Baho
+1071;Client 1071;F;1974;Oui;€120K +;Commercial;Pickup;z_Highly Rural/ Rural;1.0;0;06/03/2022 06:46;complet;dev_express;250 € - 360 €;Rodez
+1072;Client 1072;F;1978;Oui;€40K - €60K;Commercial;Van;Highly Urban/ Urban;1.0;0;15/04/2022 19:54;complet;dev_express;250 € - 360 €;Cinq-Mars-la-Pile
+1073;Client 1073;M;1974;Oui;€80K - €120K;Commercial;Van;z_Highly Rural/ Rural;11.0;0;24/03/2022 05:03;complet;dev_integral;250 € - 360 €;Bessines
+1074;Client 1074;F;1987;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;19.0;3;06/02/2022 04:58;complet;dev_integral;250 € - 360 €;Sadournin
+1075;Client 1075;F;1956;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;12.0;1;27/03/2022 09:03;complet;dev_integral;250 € - 360 €;Thizy-les-Bourgs
+1076;Client 1076;F;1951;Oui;€20K - €40K;Private;Van;Highly Urban/ Urban;;0;28/02/2022 04:43;complet;dev_express;250 € - 360 €;Saint-Martin-d'Auxigny
+1077;Client 1077;F;1976;Oui;€20K - €40K;Private;Pickup;Highly Urban/ Urban;7.0;0;17/02/2022 12:07;complet;dev_express;250 € - 360 €;Vimarcé
+1078;Client 1078;F;1967;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;8.0;3;21/03/2022 04:50;complet;dev_integral;250 € - 360 €;Sainte-Florine
+1079;Client 1079;F;1970;Non;€20K - €40K;Commercial;Panel Truck;Highly Urban/ Urban;1.0;0;29/04/2022 13:22;complet;dev_express;250 € - 360 €;Métairies
+1080;Client 1080;M;2002;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;10.0;5;21/04/2022 12:08;complet;dev_express;250 € - 360 €;Saint-Luperce
+1081;Client 1081;F;1998;Non;€120K +;Commercial;Panel Truck;Highly Urban/ Urban;1.0;2;19/01/2022 11:20;complet;dev_integral;250 € - 360 €;Fontaines
+1082;Client 1082;M;1950;Non;€120K +;Private;Minivan;Highly Urban/ Urban;15.0;0;09/03/2022 20:30;complet;dev_integral;250 € - 360 €;Albertville
+1083;Client 1083;M;1986;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;17.0;3;01/03/2022 14:18;complet;dev_express;250 € - 360 €;Chapelle-Hugon
+1084;Client 1084;M;2006;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;18.0;0;25/02/2022 19:38;complet;dev_express;250 € - 360 €;Guécélard
+1085;Client 1085;F;2005;Non;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;1.0;0;06/04/2022 01:42;complet;dev_integral;250 € - 360 €;Aisy-sur-Armançon
+1086;Client 1086;F;1953;Oui;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;4.0;4;04/04/2022 10:25;complet;dev_express;250 € - 360 €;Gravelines
+1087;Client 1087;F;1986;Oui;€40K - €60K;Private;Minivan;Highly Urban/ Urban;1.0;5;04/02/2022 21:07;complet;dev_express;250 € - 360 €;Auvers-sur-Oise
+1088;Client 1088;M;1942;Non;Non renseigné;Commercial;Van;Highly Urban/ Urban;8.0;2;06/01/2022 03:31;complet;dev_express;250 € - 360 €;Lamagdelaine
+1089;Client 1089;F;2003;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;14.0;0;15/03/2022 18:00;complet;dev_integral;250 € - 360 €;Jullouville
+1090;Client 1090;M;1970;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;1.0;3;23/01/2022 03:10;complet;dev_express;250 € - 360 €;Chaulgnes
+1091;Client 1091;M;1957;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;0;18/02/2022 02:05;complet;dev_integral;250 € - 360 €;Adé
+1092;Client 1092;F;1965;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;6.0;8;09/02/2022 05:52;complet;dev_integral;250 € - 360 €;Cusset
+1093;Client 1093;F;1978;Non;€60K - €80K;Commercial;Pickup;z_Highly Rural/ Rural;6.0;0;07/04/2022 03:39;complet;dev_integral;250 € - 360 €;Saint-Hilaire-de-Riez
+1094;Client 1094;F;1981;Non;€80K - €120K;Commercial;Panel Truck;z_Highly Rural/ Rural;16.0;0;03/04/2022 15:51;complet;dev_integral;250 € - 360 €;Argenton-l'Église
+1095;Client 1095;F;2017;Oui;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;19.0;0;01/03/2022 20:07;complet;dev_integral;250 € - 360 €;Poissy
+1096;Client 1096;F;1969;Oui;€80K - €120K;Private;Minivan;Highly Urban/ Urban;13.0;5;31/03/2022 06:34;complet;dev_premium;250 € - 360 €;Larche
+1097;Client 1097;F;1977;Non;€0 - €20K;Private;Minivan;Highly Urban/ Urban;8.0;4;24/01/2022 07:06;complet;dev_express;250 € - 360 €;Rivière-de-Corps
+1098;Client 1098;F;1965;Non;€80K - €120K;Commercial;Panel Truck;z_Highly Rural/ Rural;;1;24/02/2022 16:14;complet;dev_integral;250 € - 360 €;Quillan
+1099;Client 1099;M;2020;Non;€80K - €120K;Commercial;Minivan;Highly Urban/ Urban;12.0;4;26/01/2022 07:50;complet;dev_express;250 € - 360 €;Saint-Lunaire
+1100;Client 1100;M;1947;Oui;Non renseigné;Commercial;z_SUV;Highly Urban/ Urban;9.0;3;07/02/2022 09:30;complet;dev_express;250 € - 360 €;Dunkerque
+1101;Client 1101;M;1984;Non;€120K +;Private;Van;Highly Urban/ Urban;13.0;0;11/03/2022 02:37;complet;dev_vip;890 € - 990 €;Saint-Laurent-de-la-Plaine
+1102;Client 1102;F;1953;Non;€20K - €40K;Private;Minivan;z_Highly Rural/ Rural;9.0;2;08/03/2022 10:38;complet;dev_integral;250 € - 360 €;Ajaccio
+1103;Client 1103;M;1985;Non;€120K +;Private;Minivan;Highly Urban/ Urban;8.0;1;15/04/2022 09:55;complet;dev_express;250 € - 360 €;Limoges
+1104;Client 1104;F;1966;Non;€80K - €120K;Commercial;z_SUV;Highly Urban/ Urban;9.0;0;29/05/2022 18:16;complet;dev_integral;250 € - 360 €;Combrit
+1105;Client 1105;M;2009;Non;€80K - €120K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;16/04/2022 13:39;complet;dev_express;250 € - 360 €;Montélimar
+1106;Client 1106;M;2017;Oui;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;16.0;9;22/01/2022 05:58;complet;dev_express;250 € - 360 €;Borgo
+1107;Client 1107;M;2015;Non;€60K - €80K;Commercial;Panel Truck;Highly Urban/ Urban;12.0;0;27/03/2022 20:38;complet;dev_premium;250 € - 360 €;Ajaccio
+1108;Client 1108;M;2018;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;10.0;0;04/01/2022 05:01;complet;dev_integral;250 € - 360 €;Fontaine-Chaalis
+1109;Client 1109;F;1960;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;8.0;8;13/02/2022 15:16;complet;dev_integral;250 € - 360 €;Mionnay
+1110;Client 1110;M;1986;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;14.0;5;19/03/2022 20:36;complet;dev_premium;250 € - 360 €;Saint-Marcel
+1111;Client 1111;M;1961;Non;€0 - €20K;Commercial;Pickup;Highly Urban/ Urban;1.0;1;23/03/2022 12:55;complet;dev_integral;250 € - 360 €;Ribérac
+1112;Client 1112;M;1991;Non;€40K - €60K;Private;Sports Car;Highly Urban/ Urban;21.0;0;24/02/2022 13:26;complet;dev_express;250 € - 360 €;Chambéry
+1113;Client 1113;M;1951;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;1.0;1;30/05/2022 19:44;complet;dev_integral;250 € - 360 €;Pierrefitte-sur-Seine
+1114;Client 1114;M;1958;Non;€20K - €40K;Private;Van;Highly Urban/ Urban;4.0;3;02/03/2022 11:38;complet;dev_express;250 € - 360 €;Douvres-la-Délivrande
+1115;Client 1115;F;1958;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;16.0;0;20/05/2022 22:56;complet;dev_integral;250 € - 360 €;Nanterre
+1116;Client 1116;F;1977;Non;€40K - €60K;Private;Pickup;Highly Urban/ Urban;10.0;0;29/04/2022 03:01;complet;dev_integral;250 € - 360 €;Belfort
+1117;Client 1117;M;2007;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;7.0;1;25/01/2022 05:05;complet;dev_express;250 € - 360 €;Herblay
+1118;Client 1118;F;1983;Non;€40K - €60K;Commercial;Pickup;Highly Urban/ Urban;1.0;1;03/03/2022 19:35;complet;dev_integral;250 € - 360 €;Buzy
+1119;Client 1119;M;1943;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;9.0;0;16/02/2022 23:56;complet;dev_express;250 € - 360 €;Saint-Gilles-les-Bois
+1120;Client 1120;F;1993;Non;€80K - €120K;Private;Minivan;Highly Urban/ Urban;12.0;1;08/04/2022 12:32;complet;dev_integral;250 € - 360 €;Angers
+1121;Client 1121;M;2003;Non;€80K - €120K;Private;Sports Car;Highly Urban/ Urban;9.0;0;24/05/2022 09:52;complet;dev_integral;250 € - 360 €;Mortagne-au-Perche
+1122;Client 1122;F;1966;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;15.0;1;02/03/2022 00:49;complet;dev_integral;250 € - 360 €;Vernajoul
+1123;Client 1123;F;1944;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;12.0;1;09/02/2022 22:53;complet;dev_premium;250 € - 360 €;Montbéliard
+1124;Client 1124;M;2005;Oui;€20K - €40K;Commercial;Minivan;Highly Urban/ Urban;4.0;2;24/01/2022 05:37;complet;dev_integral;250 € - 360 €;Marseille
+1125;Client 1125;F;2019;Non;€60K - €80K;Commercial;Pickup;z_Highly Rural/ Rural;11.0;0;20/03/2022 04:45;complet;dev_express;250 € - 360 €;Brioude
+1126;Client 1126;M;2015;Non;€60K - €80K;Private;Pickup;Highly Urban/ Urban;12.0;1;16/03/2022 09:04;complet;dev_integral;250 € - 360 €;Chassey-le-Camp
+1127;Client 1127;M;2006;Non;€0 - €20K;Commercial;Minivan;z_Highly Rural/ Rural;11.0;0;15/03/2022 13:46;complet;dev_express;250 € - 360 €;Montluçon
+1128;Client 1128;F;2015;Non;€60K - €80K;Private;z_SUV;z_Highly Rural/ Rural;8.0;0;24/05/2022 16:03;complet;dev_integral;250 € - 360 €;Mieussy
+1129;Client 1129;M;2014;Non;€80K - €120K;Private;z_SUV;Highly Urban/ Urban;7.0;4;26/03/2022 03:48;complet;dev_integral;250 € - 360 €;Dijon
+1130;Client 1130;F;2015;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;4.0;5;28/05/2022 19:05;complet;dev_integral;250 € - 360 €;Marlenheim
+1131;Client 1131;F;1952;Non;€120K +;Private;z_SUV;Highly Urban/ Urban;12.0;1;19/04/2022 21:51;complet;dev_integral;250 € - 360 €;Saint-Étienne-sous-Barbuise
+1132;Client 1132;F;1989;Non;€20K - €40K;Private;Minivan;Highly Urban/ Urban;1.0;0;04/04/2022 05:24;complet;dev_express;250 € - 360 €;Blancafort
+1133;Client 1133;F;1980;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;8.0;3;25/01/2022 05:14;complet;dev_express;250 € - 360 €;Vanves
+1134;Client 1134;F;1936;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;10.0;1;25/02/2022 17:41;complet;dev_integral;250 € - 360 €;Florac
+1135;Client 1135;M;1993;Non;€40K - €60K;Private;z_SUV;Highly Urban/ Urban;7.0;0;07/03/2022 18:50;complet;dev_integral;250 € - 360 €;Chantemerle-les-Blés
+1136;Client 1136;F;1934;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;12.0;0;11/05/2022 19:57;complet;dev_integral;250 € - 360 €;Briançon
+1137;Client 1137;F;1959;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;;3;25/05/2022 05:18;complet;dev_express;250 € - 360 €;Quiberon
+1138;Client 1138;F;2009;Non;€20K - €40K;Private;Sports Car;Highly Urban/ Urban;2.0;10;07/02/2022 06:33;complet;dev_integral;250 € - 360 €;Eringhem
+1139;Client 1139;F;1974;Non;€20K - €40K;Private;z_SUV;Highly Urban/ Urban;10.0;0;02/03/2022 22:19;complet;dev_express;250 € - 360 €;Conches-en-Ouche
+1140;Client 1140;M;2020;Non;€20K - €40K;Private;Pickup;Highly Urban/ Urban;1.0;3;29/04/2022 09:55;complet;dev_integral;250 € - 360 €;Vinon-sur-Verdon
+1141;Client 1141;M;1953;Oui;€0 - €20K;Private;Sports Car;z_Highly Rural/ Rural;12.0;0;27/02/2022 08:10;complet;dev_integral;250 € - 360 €;Raymond
+1142;Client 1142;F;1952;Non;€20K - €40K;Commercial;Pickup;z_Highly Rural/ Rural;7.0;2;10/02/2022 16:53;complet;dev_express;250 € - 360 €;Saint-Benoît
+1143;Client 1143;F;1957;Non;€80K - €120K;Private;Pickup;Highly Urban/ Urban;22.0;4;07/05/2022 12:19;complet;dev_integral;250 € - 360 €;Confolens
+1144;Client 1144;F;1941;Oui;€80K - €120K;Commercial;Panel Truck;z_Highly Rural/ Rural;;0;19/05/2022 09:28;complet;dev_integral;250 € - 360 €;Clermont-Ferrand
+1145;Client 1145;M;1954;Non;€0 - €20K;Private;Sports Car;Highly Urban/ Urban;7.0;2;24/03/2022 21:00;complet;dev_express;250 € - 360 €;Draguignan
+1146;Client 1146;M;1973;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;21.0;3;18/01/2022 09:50;complet;dev_express;250 € - 360 €;Camors
+1147;Client 1147;M;1946;Non;€60K - €80K;Private;z_SUV;Highly Urban/ Urban;1.0;7;14/03/2022 09:34;complet;dev_integral;250 € - 360 €;Canet
+1148;Client 1148;F;1942;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;6.0;0;25/01/2022 07:45;complet;dev_express;250 € - 360 €;Châtenois
+1149;Client 1149;F;2015;Non;€40K - €60K;Private;Minivan;Highly Urban/ Urban;7.0;0;02/05/2022 07:04;complet;dev_premium;470 € - 580 €;Arbin
+1150;Client 1150;M;1953;Non;€60K - €80K;Commercial;Minivan;Highly Urban/ Urban;10.0;7;08/04/2022 04:34;complet;dev_express;250 € - 360 €;Dinan
+1151;Client 1151;M;1962;Oui;€20K - €40K;Commercial;Pickup;Highly Urban/ Urban;9.0;3;17/05/2022 12:05;complet;dev_express;250 € - 360 €;Manosque
+1152;Client 1152;M;1957;Non;€80K - €120K;Commercial;Panel Truck;Highly Urban/ Urban;20.0;5;20/02/2022 04:37;complet;dev_integral;250 € - 360 €;Rixheim
+1153;Client 1153;M;1940;Non;€20K - €40K;Private;z_SUV;z_Highly Rural/ Rural;8.0;1;03/01/2022 02:02;complet;dev_integral;250 € - 360 €;Charleville-Mézières
+1154;Client 1154;F;1960;Non;€120K +;Private;Minivan;Highly Urban/ Urban;20.0;2;27/05/2022 05:18;complet;dev_express;250 € - 360 €;Nantes
+1155;Client 1155;M;2012;Non;€40K - €60K;Private;Minivan;z_Highly Rural/ Rural;1.0;2;22/05/2022 15:08;complet;dev_express;250 € - 360 €;Joué-lès-Tours
+1156;Client 1156;F;1961;Non;€60K - €80K;Private;Minivan;Highly Urban/ Urban;1.0;3;23/01/2022 01:08;complet;dev_integral;250 € - 360 €;Chaillac-sur-Vienne
+1157;Client 1157;F;1951;Non;€80K - €120K;Commercial;Van;Highly Urban/ Urban;4.0;6;19/01/2022 20:37;complet;dev_premium;470 € - 580 €;Saint-Gervais-les-Bains
+1158;Client 1158;M;1934;Oui;€40K - €60K;Private;Minivan;z_Highly Rural/ Rural;1.0;0;08/05/2022 18:08;complet;dev_integral;250 € - 360 €;Melle
