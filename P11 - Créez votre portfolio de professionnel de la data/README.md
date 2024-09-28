@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6644f523-f3c4-4e99-b21d-5d79656e42cb" alt="Logo Openclassrooms"
+  <img src="https://github.com/user-attachments/assets/6644f523-f3c4-4e99-b21d-5d79656e42cb" alt="Logo Openclassrooms" width= 50% />
 <p>
 
 # Projet 11 : Créez votre portfolio de professionnel de la data
@@ -23,15 +23,15 @@ et nos compétences techniques et soft skills.
 
 **Power BI**, la création des tableaux de bord.
 
-<img src="https://github.com/user-attachments/assets/6a597c6e-0ea1-4d34-80ee-8b3c0415b9dd" alt="Logo Miro" width= 10% /><img src="https://github.com/user-attachments/assets/3e68daca-4d86-4a34-ac8d-18a5ec166b84" alt="Logo Canva" width= 10% />
+</br><img src="https://github.com/user-attachments/assets/6a597c6e-0ea1-4d34-80ee-8b3c0415b9dd" alt="Logo Miro" width= 10% /><img src="https://github.com/user-attachments/assets/3e68daca-4d86-4a34-ac8d-18a5ec166b84" alt="Logo Canva" width= 10% />
 
 **Miro et Canva**, design des mock-ups.
 
-<img src="https://github.com/user-attachments/assets/0d65f336-2149-461e-9940-7149ccf29322" alt="Logo Suite Office" width= 10% />
+</br><img src="https://github.com/user-attachments/assets/0d65f336-2149-461e-9940-7149ccf29322" alt="Logo Suite Office" width= 10% />
 
 **PowerPoint, World**, réalisation des livrables.
 
-<img src="https://github.com/user-attachments/assets/4ca25da1-3903-4591-b62d-71bc2992a6b4" alt="Logo Loom" width= 10% />
+</br><img src="https://github.com/user-attachments/assets/4ca25da1-3903-4591-b62d-71bc2992a6b4" alt="Logo Loom" width= 10% />
 
 **Loom**, enregistrement du tutoriel vidéo.
 
