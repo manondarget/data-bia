@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1f9e05d1-7c6a-45f0-ad4e-97563993a371" alt="Logo Power BI" width= 50% />
+<p>
+  
 # Projet 7 : Créez un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
 ## Résumé du projet
