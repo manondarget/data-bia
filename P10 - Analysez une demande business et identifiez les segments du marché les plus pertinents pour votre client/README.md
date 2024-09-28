@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/170f8fc9-bbc6-4f02-a2fe-955124986f38" alt="Logo ESN Data"
+<p>
 
 # Projet 10 : Analysez une demande business et identifiez les segments du marché les plus pertinents pour votre client
 
@@ -14,8 +17,14 @@ stratégiques sur le segment de clientèle le plus prometteur ainsi qu'un projet
 - Conception et analyse de questionnaires pour collecter des données consommateurs.
   
 ## Outils utilisés
-- **GoogleForm**, mise en place d'un questionnaire destiné aux consommateurs.
-- **Powerpoint**.
+<img src="https://github.com/user-attachments/assets/5ee86c77-2bd4-42c9-bf66-0a3b8e124f82" alt="Logo Google Form" width= 5% />
+
+**GoogleForm**, mise en place d'un questionnaire destiné aux consommateurs.<p></p>
+
+<img src="https://github.com/user-attachments/assets/7216ede3-2092-4908-8d2e-7b8806f377d1" alt="Logo Powerpoint" width= 5% />
+
+**Powerpoint**.<p></p>
+
 - **Modèles d’analyse stratégique (SWOT, PESTEL)**.
 
 ## Soft skills mobilisés
