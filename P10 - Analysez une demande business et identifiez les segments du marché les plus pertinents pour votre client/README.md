@@ -17,7 +17,7 @@ stratégiques sur le segment de clientèle le plus prometteur ainsi qu'un projet
 - Conception et analyse de questionnaires pour collecter des données consommateurs.
   
 ## Outils utilisés
-<img src="https://github.com/user-attachments/assets/6e100512-916b-4731-bb5e-b425994131ab" alt="Logo Google Form" width= 15% />
+<img src="https://github.com/user-attachments/assets/c780856c-b4ed-42ec-87ee-db21db8d70a9" alt="Logo Google Form" width= 15% />
 
 **GoogleForm**, mise en place d'un questionnaire destiné aux consommateurs.<p></p>
 
