@@ -1,3 +1,5 @@
+<p>![logo_openclassrooms](https://github.com/user-attachments/assets/d6424098-8857-4ead-b767-2cf2cf87f8b4)<p>
+
 
 # Projet 1 : Démarrez votre formation de Business Intelligence Analyst
 
